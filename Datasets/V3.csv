@@ -1,0 +1,1001 @@
+Age,Gender,Height_cm,Weight_kg,BMI,Blood_Pressure,Heart_Rate,Blood_Sugar,Cholesterol,Oxygen_Saturation,Body_Temperature_C,Sleep_Hours,Preexisting_Conditions,Family_History,Allergies,Recent_Illnesses,Physical_Activity,Diet_Type,Alcohol_Consumption,Smoking_Status,Stress_Level,Health_Risk,Potential_Health_Issue,Dietary_Recommendation
+62,Male,181,98,20.53,High,95,188,High,94,37.7,4.8,Hypertension,No,Yes,Flu,Active,Non-Vegetarian,Yes,Yes,Low,Moderate,Heart Disease,Anti-Inflammatory Diet
+76,Male,195,82,26.3,Normal,97,118,Borderline,94,38.8,7.9,Asthma,Yes,No,Pneumonia,Sedentary,Non-Vegetarian,Yes,Yes,Low,Moderate,Peripheral Artery Disease,Low-Fat Diet
+26,Male,184,48,30.05,Elevated,81,127,Normal,90,35.5,8.7,Prediabetes,Yes,Yes,Gastroenteritis,Active,Non-Vegetarian,Yes,Yes,High,High,Arthritis,Keto Diet
+62,Female,156,68,23.89,Elevated,81,101,Borderline,96,38.5,7.2,Migraine,No,Yes,Severe Headache,Sedentary,Vegan,No,No,Medium,Moderate,Congestive Heart Failure,Anti-Inflammatory Diet
+69,Female,191,108,34.62,High,107,192,Borderline,95,39.6,8.5,Hypercholesterolemia,No,Yes,Respiratory Infection,Active,Vegetarian,No,Yes,Medium,High,Diabetes,Reduce Sugar
+34,Male,181,113,31.01,Elevated,98,111,Normal,90,39.9,6.8,Hypercholesterolemia,No,No,Stomach Ulcer,Moderate,Vegan,No,No,Low,Moderate,Metabolic Syndrome,Heart-Healthy Diet
+73,Male,164,60,24.49,Normal,83,135,Normal,97,38.4,8.6,Heart Disease,Yes,No,Ear Infection,Moderate,Non-Vegetarian,Yes,Yes,Medium,Low,Hypertension,Low-Fat Diet
+22,Female,181,63,28.64,High,84,76,High,95,38.8,8.8,Heart Disease,Yes,No,Food Poisoning,Sedentary,Keto,No,No,Medium,Moderate,Bradycardia,Low-Carb Diet
+43,Male,184,116,20.17,High,73,164,Borderline,99,37.6,4.6,Hypertension,Yes,Yes,Hypoglycemia Episode,Sedentary,Keto,Yes,No,Low,Moderate,Obesity,Heart-Healthy Diet
+74,Male,162,82,34.51,Elevated,113,176,High,92,39.8,7.5,COPD,Yes,Yes,Pneumonia,Active,Vegetarian,No,Yes,Medium,Moderate,Hyperthyroidism,Heart-Healthy Diet
+57,Male,174,52,22.93,Normal,87,137,Borderline,95,37.1,8.4,Hypercholesterolemia,No,Yes,Dengue,Sedentary,Vegan,Yes,Yes,High,Low,Hypertension,Mediterranean Diet
+42,Female,159,103,30.68,High,63,156,High,90,39.5,5.8,Gout,No,No,Hypertensive Crisis,Moderate,Non-Vegetarian,Yes,No,Low,High,COPD,Anti-Inflammatory Diet
+60,Female,186,57,32.57,Normal,74,170,Borderline,92,37.9,4.0,Asthma,Yes,No,Hypoglycemia Episode,Moderate,Vegan,Yes,No,Medium,Moderate,Chronic Fatigue,Increase Fiber
+23,Male,179,85,21.52,High,81,98,High,92,36.2,6.5,Sleep Apnea,Yes,No,Fever,Sedentary,Vegan,No,No,High,Low,Sleep Apnea,High-Potassium Diet
+76,Male,163,75,23.9,High,106,169,Borderline,91,37.9,9.7,Hypercholesterolemia,No,Yes,Respiratory Infection,Moderate,Vegetarian,No,No,High,High,Liver Cirrhosis,High-Potassium Diet
+55,Female,181,111,31.66,Elevated,110,125,Borderline,96,35.6,9.4,Heart Disease,Yes,Yes,Dengue,Active,Vegetarian,No,Yes,Medium,Moderate,Arthritis,Plant-Based Diet
+41,Female,154,85,18.67,Normal,114,165,Normal,95,37.6,5.4,Metabolic Syndrome,No,Yes,Stomach Ulcer,Active,Keto,No,Yes,Low,Low,Liver Cirrhosis,High-Potassium Diet
+18,Female,165,68,29.55,Normal,91,106,High,95,38.0,6.3,Atrial Fibrillation,No,No,Bronchitis,Sedentary,Vegan,No,No,Medium,High,Hypertension,DASH Diet
+41,Male,165,60,33.6,Normal,93,141,High,98,36.9,6.2,Prediabetes,Yes,Yes,Severe Headache,Active,Vegetarian,Yes,No,Low,Low,Kidney Disease,Increase Fiber
+46,Male,194,87,28.26,High,77,160,Normal,94,38.8,5.5,Thyroid Disorder,No,Yes,Typhoid,Moderate,Non-Vegetarian,Yes,Yes,Medium,Moderate,COPD,Increase Fiber
+74,Female,166,90,21.34,Elevated,114,162,Normal,98,36.3,4.3,Diabetes,Yes,Yes,Hypertensive Crisis,Active,Non-Vegetarian,Yes,No,Medium,Low,Chronic Fatigue,Anti-Inflammatory Diet
+32,Female,192,68,23.41,Normal,90,148,High,97,39.1,8.6,Migraine,Yes,No,Infection,Moderate,Keto,No,Yes,Low,Low,Arthritis,Low-Fat Diet
+23,Female,165,79,34.31,High,111,191,Normal,98,39.0,6.5,Sleep Apnea,Yes,Yes,Cold,Moderate,Non-Vegetarian,No,Yes,Low,High,Liver Cirrhosis,Gluten-Free Diet
+69,Female,160,113,30.47,Normal,79,132,Normal,97,38.1,7.2,Diabetes,No,No,Cold,Sedentary,Keto,No,No,Low,Moderate,Atherosclerosis,Balanced Diet
+75,Male,185,107,19.63,Elevated,102,126,Normal,93,36.0,4.8,Prediabetes,No,No,Flu,Sedentary,Non-Vegetarian,No,Yes,High,Moderate,Metabolic Syndrome,Heart-Healthy Diet
+26,Female,196,47,32.55,Normal,104,180,Borderline,92,38.4,4.5,Prediabetes,No,Yes,Pneumonia,Moderate,Vegan,Yes,Yes,Medium,Low,Liver Cirrhosis,Anti-Inflammatory Diet
+61,Male,151,118,22.24,High,106,170,Normal,90,38.6,5.7,Hypertension,Yes,Yes,Stomach Ulcer,Active,Non-Vegetarian,Yes,No,Low,Moderate,Bradycardia,Heart-Healthy Diet
+46,Male,197,69,26.11,High,94,186,High,94,39.9,9.5,Kidney Disease,Yes,No,Sinusitis,Active,Non-Vegetarian,Yes,No,Low,High,Anemia,Plant-Based Diet
+75,Female,165,47,28.37,Normal,95,193,Normal,94,38.5,5.6,Diabetes,No,Yes,Flu,Sedentary,Keto,Yes,No,High,High,Bradycardia,Increase Omega-3 Intake
+24,Male,168,63,19.7,Normal,60,174,Normal,93,39.2,7.5,Peripheral Neuropathy,Yes,Yes,Sinusitis,Active,Vegan,No,Yes,High,Low,Heart Disease,Reduce Sugar
+71,Female,155,103,34.01,High,90,137,Borderline,99,38.6,7.3,Liver Disease,Yes,Yes,Urinary Tract Infection,Active,Keto,No,Yes,High,Low,Hypertensive Emergency,Low-Glycemic Diet
+50,Female,165,98,28.71,Normal,116,127,Normal,94,38.0,7.5,Metabolic Syndrome,No,No,Food Poisoning,Moderate,Keto,Yes,Yes,High,Moderate,Obesity,Low-Glycemic Diet
+56,Female,193,66,34.15,Normal,66,142,High,93,36.4,8.4,Kidney Disease,No,Yes,Severe Headache,Active,Keto,Yes,No,Medium,Low,Peripheral Artery Disease,DASH Diet
+26,Male,172,88,19.77,Elevated,98,143,High,93,36.1,8.4,Atrial Fibrillation,Yes,No,Fever,Active,Keto,No,No,High,High,Chronic Fatigue,Gluten-Free Diet
+32,Female,158,76,25.29,Elevated,61,197,High,93,35.8,4.0,Arthritis,Yes,No,Flu,Active,Keto,No,Yes,Medium,High,Hypothyroidism,Mediterranean Diet
+37,Female,177,75,29.17,Elevated,103,92,Borderline,93,39.9,4.1,Atrial Fibrillation,No,No,Food Poisoning,Moderate,Vegan,Yes,No,Low,Moderate,Liver Cirrhosis,Low-Sodium Diet
+69,Male,175,118,32.93,High,100,120,Borderline,90,37.8,6.3,Peripheral Neuropathy,Yes,No,Urinary Tract Infection,Active,Vegan,Yes,Yes,Low,Low,Atherosclerosis,Balanced Diet
+73,Female,174,105,32.13,High,109,83,High,93,38.0,7.2,Peripheral Neuropathy,No,Yes,Severe Headache,Sedentary,Non-Vegetarian,No,Yes,Medium,Low,Obesity,Heart-Healthy Diet
+36,Female,180,59,33.32,Elevated,116,142,High,99,36.8,5.0,Liver Disease,No,No,Fever,Moderate,Vegetarian,No,Yes,High,High,Osteoporosis,Low-Sodium Diet
+43,Female,156,112,21.86,High,78,74,Borderline,95,36.0,7.4,Kidney Disease,No,No,Dengue,Active,Vegan,No,Yes,High,Low,Kidney Disease,Low-Fat Diet
+71,Male,164,89,29.71,Elevated,115,198,Normal,90,39.8,7.6,Prediabetes,Yes,Yes,Fever,Sedentary,Keto,No,Yes,Low,Low,Anemia,Reduce Sugar
+39,Female,197,46,24.8,Elevated,109,118,High,94,39.9,7.5,Gout,No,No,Flu,Active,Keto,No,No,Medium,High,Obesity,Low-Glycemic Diet
+43,Female,154,85,27.22,Elevated,62,102,Normal,97,36.3,9.0,Migraine,No,Yes,Pneumonia,Active,Non-Vegetarian,Yes,Yes,High,Moderate,Hyperthyroidism,Gluten-Free Diet
+20,Male,173,95,33.3,Elevated,83,109,Borderline,90,39.8,9.3,Atrial Fibrillation,Yes,No,Cold,Active,Keto,No,No,Medium,Moderate,Sleep Apnea,Reduce Sugar
+24,Male,199,96,33.99,High,65,164,Normal,97,39.0,4.1,Sleep Apnea,Yes,No,Fever,Moderate,Non-Vegetarian,Yes,Yes,Low,High,Bradycardia,Keto Diet
+68,Female,173,119,33.45,High,61,163,Normal,97,39.5,9.3,Arthritis,No,No,Hypertensive Crisis,Moderate,Vegetarian,Yes,No,Medium,High,Hyperthyroidism,Low-Carb Diet
+76,Female,197,116,29.22,Normal,119,151,Normal,91,37.0,9.8,Atrial Fibrillation,No,Yes,Hypoglycemia Episode,Moderate,Vegan,No,No,High,Moderate,Sleep Apnea,Anti-Inflammatory Diet
+24,Female,169,75,22.13,Elevated,63,112,Normal,91,38.7,7.6,Sleep Apnea,Yes,Yes,Pneumonia,Moderate,Non-Vegetarian,No,No,Medium,Low,Tachycardia,Low-Fat Diet
+60,Female,193,57,34.41,High,60,96,Normal,94,38.8,9.8,Prediabetes,Yes,Yes,Acute Bronchitis,Active,Vegetarian,No,No,Low,Moderate,Hypertension,Increase Fiber
+51,Female,176,47,31.2,Normal,110,111,High,93,39.9,7.3,Migraine,Yes,Yes,Hypertensive Crisis,Sedentary,Keto,No,Yes,Low,Low,Stroke Risk,Increase Omega-3 Intake
+30,Male,192,98,19.12,Elevated,101,160,High,99,35.9,7.4,Gout,Yes,No,Sinusitis,Moderate,Vegan,Yes,Yes,Medium,Moderate,Arthritis,Mediterranean Diet
+56,Female,184,58,30.22,Normal,114,88,High,99,39.3,7.8,Migraine,Yes,Yes,Food Poisoning,Sedentary,Keto,No,No,High,Low,Diabetes,Increase Omega-3 Intake
+29,Male,174,58,30.41,High,104,158,Borderline,98,37.4,4.1,Prediabetes,Yes,Yes,Respiratory Infection,Active,Non-Vegetarian,Yes,No,High,High,COPD,Plant-Based Diet
+31,Female,153,81,32.26,Elevated,69,84,Normal,96,35.9,7.8,COPD,Yes,Yes,Food Poisoning,Active,Vegetarian,Yes,Yes,High,High,Peripheral Artery Disease,Low-Glycemic Diet
+44,Female,153,109,24.69,Normal,83,73,High,95,38.2,8.4,Migraine,No,No,Respiratory Infection,Moderate,Keto,Yes,No,Low,Moderate,Congestive Heart Failure,DASH Diet
+58,Female,154,97,34.35,High,96,164,Normal,93,37.9,7.6,Heart Disease,Yes,No,Fever,Active,Vegetarian,Yes,Yes,Medium,Moderate,Hypertension,High-Potassium Diet
+26,Female,150,61,28.89,High,68,91,Borderline,95,36.2,4.9,Obstructive Sleep Apnea,Yes,No,Flu,Moderate,Vegetarian,Yes,No,High,Moderate,Metabolic Syndrome,Mediterranean Diet
+33,Female,163,91,18.94,Elevated,114,199,Normal,91,36.4,4.5,Kidney Disease,No,No,Ear Infection,Sedentary,Vegan,No,No,Medium,Low,Anemia,Heart-Healthy Diet
+56,Female,165,102,26.37,Elevated,92,160,Borderline,99,38.8,7.7,Prediabetes,No,No,Food Poisoning,Active,Keto,Yes,Yes,Low,High,Congestive Heart Failure,High-Potassium Diet
+29,Male,179,104,19.21,Elevated,62,118,Normal,98,38.6,4.1,Thyroid Disorder,Yes,No,Severe Headache,Moderate,Vegetarian,No,Yes,Low,Low,Chronic Fatigue,Low-Glycemic Diet
+39,Male,173,73,19.63,Normal,93,125,Normal,94,35.6,8.8,Hypertension,Yes,No,Ear Infection,Active,Keto,No,No,High,High,Kidney Disease,Reduce Sugar
+60,Male,194,59,24.96,Normal,89,151,High,98,36.7,7.3,Sleep Apnea,No,Yes,Pneumonia,Moderate,Keto,Yes,No,High,High,Hypothyroidism,Gluten-Free Diet
+29,Female,185,115,22.24,High,63,102,Borderline,92,38.3,6.6,Diabetes,Yes,Yes,Urinary Tract Infection,Sedentary,Vegetarian,No,No,High,Moderate,Diabetes,Heart-Healthy Diet
+22,Male,169,60,31.11,Normal,113,187,Borderline,96,38.2,4.6,Peripheral Neuropathy,No,No,Flu,Active,Non-Vegetarian,Yes,Yes,High,Moderate,Atherosclerosis,Low-Glycemic Diet
+78,Male,174,75,28.67,Normal,87,170,Borderline,97,38.8,9.4,Sleep Apnea,No,Yes,Stomach Ulcer,Active,Keto,Yes,No,Medium,High,Metabolic Syndrome,Low-Carb Diet
+67,Male,150,87,34.89,High,93,162,High,94,37.3,5.4,Diabetes,No,No,Pneumonia,Active,Keto,No,No,Low,Moderate,Kidney Disease,Increase Fiber
+65,Female,194,68,22.09,Elevated,71,165,High,91,39.5,9.2,Hypercholesterolemia,No,No,Dengue,Moderate,Vegetarian,Yes,Yes,Medium,High,Stroke Risk,Gluten-Free Diet
+78,Male,165,80,32.18,High,94,121,High,92,36.9,8.7,Diabetes,No,Yes,Hypoglycemia Episode,Active,Vegan,Yes,No,Medium,Moderate,Hyperthyroidism,Low-Fat Diet
+23,Male,161,98,33.25,Elevated,64,197,Normal,92,38.3,6.8,Metabolic Syndrome,Yes,No,Urinary Tract Infection,Sedentary,Vegetarian,No,Yes,Medium,Low,Diabetes,Low-Glycemic Diet
+65,Male,165,73,27.84,Elevated,97,120,Normal,91,36.0,5.0,COPD,Yes,No,Bronchitis,Sedentary,Vegan,No,Yes,Low,Low,Metabolic Syndrome,High-Calcium Diet
+34,Female,196,45,18.89,High,66,127,Normal,98,37.3,4.7,Arthritis,Yes,No,Urinary Tract Infection,Moderate,Non-Vegetarian,No,No,High,Moderate,Hypothyroidism,Anti-Inflammatory Diet
+76,Male,153,102,23.53,High,113,109,Borderline,90,38.6,8.0,Thyroid Disorder,No,Yes,Bronchitis,Moderate,Non-Vegetarian,No,Yes,Medium,Moderate,Chronic Fatigue,High-Calcium Diet
+48,Female,178,87,28.09,High,111,77,High,98,37.1,7.7,Metabolic Syndrome,Yes,No,Cold,Active,Vegetarian,No,No,Medium,Moderate,Liver Cirrhosis,Plant-Based Diet
+69,Male,156,71,33.76,Normal,76,136,Normal,95,36.8,5.3,Obstructive Sleep Apnea,Yes,No,Gastroenteritis,Moderate,Vegan,Yes,No,High,Low,Kidney Disease,Increase Fiber
+60,Female,161,62,32.27,Normal,71,179,High,95,39.1,5.8,Asthma,Yes,No,Flu,Moderate,Vegan,Yes,No,Medium,Moderate,Peripheral Artery Disease,Low-Sodium Diet
+46,Male,151,58,32.25,High,109,70,Borderline,93,39.2,6.3,Hypercholesterolemia,No,No,Gastroenteritis,Sedentary,Non-Vegetarian,Yes,Yes,High,Moderate,Hypertension,Mediterranean Diet
+34,Female,198,109,21.39,Elevated,118,195,High,97,36.8,8.3,Sleep Apnea,No,No,Pneumonia,Active,Vegetarian,Yes,Yes,Medium,Moderate,Congestive Heart Failure,Increase Omega-3 Intake
+67,Male,169,89,28.85,High,94,123,High,98,39.4,5.5,Hypercholesterolemia,Yes,Yes,Gastroenteritis,Moderate,Keto,Yes,No,Low,Moderate,Arthritis,Keto Diet
+69,Male,177,47,34.89,Elevated,92,73,Borderline,94,38.8,6.4,Thyroid Disorder,Yes,No,Cold,Sedentary,Non-Vegetarian,Yes,No,High,Moderate,Atherosclerosis,Gluten-Free Diet
+44,Male,191,89,19.67,High,65,129,Normal,92,39.8,8.4,Hypercholesterolemia,Yes,Yes,Respiratory Infection,Sedentary,Vegan,Yes,Yes,Low,High,COPD,Heart-Healthy Diet
+62,Female,181,59,33.96,Elevated,74,128,High,97,38.9,5.2,Hypercholesterolemia,No,Yes,Typhoid,Active,Non-Vegetarian,Yes,No,High,High,Congestive Heart Failure,Mediterranean Diet
+49,Male,162,87,26.49,Normal,110,185,Normal,99,39.5,8.5,Sleep Apnea,Yes,Yes,Dengue,Moderate,Keto,No,Yes,Medium,Moderate,Chronic Fatigue,High-Calcium Diet
+21,Female,181,111,21.63,High,95,77,High,96,37.9,7.4,Peripheral Neuropathy,No,Yes,Dengue,Moderate,Non-Vegetarian,No,No,Medium,Low,Atherosclerosis,Keto Diet
+36,Female,167,109,27.97,Normal,65,113,Normal,96,36.4,6.5,Arthritis,No,Yes,Pneumonia,Sedentary,Vegetarian,Yes,No,High,Moderate,Anemia,Mediterranean Diet
+63,Male,192,51,23.04,Elevated,94,152,High,97,37.4,7.8,Prediabetes,Yes,No,Severe Headache,Active,Vegan,Yes,No,Medium,High,Peripheral Artery Disease,Keto Diet
+60,Male,177,56,22.23,Elevated,102,174,Borderline,98,36.2,6.6,Atrial Fibrillation,No,No,Sinusitis,Active,Keto,Yes,No,Medium,High,Heart Disease,Gluten-Free Diet
+46,Male,178,78,32.05,Normal,82,79,High,98,36.4,8.9,Liver Disease,No,No,Acute Bronchitis,Moderate,Non-Vegetarian,Yes,Yes,Medium,Moderate,Hypothyroidism,Balanced Diet
+29,Female,193,60,23.11,Elevated,111,83,Normal,93,36.2,4.1,Diabetes,Yes,No,Flu,Moderate,Vegan,Yes,Yes,Low,Low,Kidney Disease,Anti-Inflammatory Diet
+20,Female,186,81,30.81,Elevated,86,167,Normal,94,36.1,8.7,Prediabetes,No,No,Hypertensive Crisis,Sedentary,Keto,No,No,High,Low,Hypertension,Low-Carb Diet
+46,Female,177,74,23.58,High,82,92,Normal,91,37.6,6.1,Prediabetes,Yes,No,Sinusitis,Sedentary,Vegan,Yes,Yes,Low,Low,Congestive Heart Failure,Reduce Sugar
+32,Female,187,61,25.82,Elevated,70,113,High,98,35.5,4.1,Atrial Fibrillation,Yes,No,Cold,Sedentary,Vegan,No,No,Medium,High,Sleep Apnea,Mediterranean Diet
+32,Female,189,78,19.05,Elevated,78,72,High,97,38.7,4.9,Sleep Apnea,No,Yes,Hypoglycemia Episode,Active,Keto,Yes,No,High,High,Anemia,Gluten-Free Diet
+29,Male,167,117,33.13,Elevated,91,77,High,98,39.5,8.4,Gout,No,Yes,Urinary Tract Infection,Sedentary,Vegan,Yes,Yes,High,Moderate,Hypertension,High-Calcium Diet
+53,Female,180,46,24.99,Normal,104,148,Normal,92,38.2,4.8,Liver Disease,Yes,No,Sinusitis,Moderate,Non-Vegetarian,Yes,No,Low,High,Hypothyroidism,Heart-Healthy Diet
+24,Female,164,107,20.82,Normal,86,179,High,97,36.4,6.8,Atrial Fibrillation,No,Yes,Respiratory Infection,Moderate,Vegan,Yes,No,Low,High,Liver Cirrhosis,Increase Fiber
+58,Male,177,65,22.58,Elevated,76,92,Borderline,94,39.0,5.5,Heart Disease,No,Yes,Cold,Active,Vegan,No,No,Medium,Low,Chronic Fatigue,Increase Protein
+30,Female,195,79,31.61,Elevated,92,175,Borderline,95,35.6,7.2,Atrial Fibrillation,Yes,No,Ear Infection,Sedentary,Vegan,Yes,Yes,Low,Low,Obesity,Low-Fat Diet
+30,Female,151,84,27.81,High,107,188,Borderline,97,39.3,7.3,Migraine,Yes,No,Flu,Active,Non-Vegetarian,Yes,No,High,Low,Hypothyroidism,Plant-Based Diet
+68,Female,169,83,34.78,Normal,60,106,High,94,38.6,6.9,Hypertension,Yes,No,Hypertensive Crisis,Active,Vegan,No,No,High,Low,Arthritis,Reduce Sugar
+64,Female,155,93,26.09,High,117,70,High,94,36.1,5.3,Sleep Apnea,No,Yes,Typhoid,Sedentary,Non-Vegetarian,No,Yes,High,Moderate,Peripheral Artery Disease,Low-Carb Diet
+35,Female,167,64,28.87,Normal,113,148,Normal,90,37.4,5.8,Heart Disease,No,Yes,Bronchitis,Sedentary,Vegan,Yes,No,Medium,High,Stroke Risk,High-Potassium Diet
+56,Male,180,51,26.74,Normal,107,166,Normal,91,38.1,4.1,Atrial Fibrillation,Yes,No,Ear Infection,Sedentary,Vegan,No,Yes,Medium,Moderate,Hypothyroidism,Low-Carb Diet
+60,Male,191,115,30.92,Normal,88,73,High,91,38.6,9.4,Gout,Yes,No,Flu,Moderate,Non-Vegetarian,No,No,Low,Low,Atherosclerosis,Low-Glycemic Diet
+55,Female,174,66,26.64,High,77,92,High,98,37.6,8.1,Obstructive Sleep Apnea,Yes,Yes,Fever,Moderate,Vegetarian,No,Yes,High,High,Metabolic Syndrome,Low-Fat Diet
+54,Male,159,113,27.34,Elevated,66,108,Borderline,94,36.7,8.1,Gout,No,No,Severe Headache,Moderate,Vegetarian,Yes,No,High,Low,Diabetes,Gluten-Free Diet
+33,Male,165,88,32.37,High,61,178,High,99,37.7,9.6,Prediabetes,No,No,Cold,Active,Keto,No,No,High,High,Hypothyroidism,Plant-Based Diet
+36,Male,166,117,33.25,Elevated,72,71,Normal,91,36.4,8.6,Sleep Apnea,Yes,No,COVID-19,Sedentary,Vegetarian,No,No,Low,Low,Atherosclerosis,Increase Fiber
+66,Female,155,62,29.12,Normal,106,109,Normal,90,35.7,4.4,Diabetes,Yes,Yes,Sinusitis,Sedentary,Non-Vegetarian,Yes,No,High,Moderate,Anemia,Low-Carb Diet
+68,Male,175,103,33.55,Elevated,107,127,Normal,92,39.8,8.9,Obstructive Sleep Apnea,No,Yes,Acute Bronchitis,Active,Vegan,Yes,No,Medium,Moderate,Stroke Risk,Increase Protein
+78,Female,155,92,25.49,Normal,86,178,High,93,39.0,5.7,Sleep Apnea,Yes,Yes,Hypoglycemia Episode,Moderate,Non-Vegetarian,Yes,No,Low,Low,Osteoporosis,DASH Diet
+56,Male,162,119,31.73,Elevated,111,182,Borderline,98,38.6,5.9,Heart Disease,Yes,Yes,Severe Headache,Moderate,Vegan,No,No,Medium,High,Arthritis,Increase Protein
+74,Male,154,112,21.66,Normal,91,74,Borderline,91,37.1,6.0,Arthritis,No,Yes,Respiratory Infection,Active,Keto,Yes,No,Low,High,Sleep Apnea,Reduce Sugar
+45,Female,155,51,24.02,Elevated,102,158,Normal,90,35.7,7.6,Liver Disease,No,No,Acute Bronchitis,Sedentary,Non-Vegetarian,Yes,Yes,Medium,High,Stroke Risk,Mediterranean Diet
+63,Female,170,105,19.54,Normal,71,151,Borderline,95,36.9,7.4,Peripheral Neuropathy,Yes,No,Cold,Moderate,Vegan,No,No,Medium,Moderate,Hypertension,Increase Fiber
+27,Female,177,48,23.35,Elevated,73,73,High,99,37.0,4.1,Atrial Fibrillation,Yes,Yes,Food Poisoning,Sedentary,Non-Vegetarian,Yes,No,High,High,Bradycardia,Balanced Diet
+69,Female,189,65,34.37,Normal,79,84,Borderline,96,36.0,9.7,Hypercholesterolemia,No,Yes,Fever,Moderate,Non-Vegetarian,No,Yes,Low,Low,Sleep Apnea,Low-Fat Diet
+42,Female,191,113,30.01,Normal,101,184,Borderline,99,37.6,5.3,Prediabetes,No,Yes,Infection,Moderate,Non-Vegetarian,Yes,Yes,Medium,Moderate,Chronic Fatigue,Low-Glycemic Diet
+73,Male,179,89,32.46,Normal,110,145,Borderline,99,38.6,9.8,Arthritis,No,Yes,Hypertensive Crisis,Moderate,Vegan,No,Yes,High,Low,COPD,Low-Fat Diet
+61,Male,164,80,26.21,Elevated,61,137,High,97,35.9,5.4,Liver Disease,Yes,No,Infection,Sedentary,Non-Vegetarian,Yes,No,High,High,Arthritis,Increase Omega-3 Intake
+18,Male,175,98,19.45,High,68,75,Borderline,90,36.8,4.5,Thyroid Disorder,No,No,Flu,Sedentary,Vegan,Yes,Yes,High,Low,Hypothyroidism,Plant-Based Diet
+30,Female,155,77,25.55,High,64,71,Normal,94,39.7,9.3,Hypertension,Yes,No,Respiratory Infection,Active,Vegan,Yes,No,Medium,High,Osteoporosis,DASH Diet
+23,Male,177,47,22.22,Elevated,114,168,High,98,39.3,8.9,Hypertension,Yes,No,Bronchitis,Sedentary,Keto,Yes,Yes,Medium,Low,Anemia,DASH Diet
+67,Female,161,116,29.23,High,70,86,Normal,95,39.1,5.5,Gout,Yes,Yes,Bronchitis,Active,Vegan,Yes,No,Low,Low,Peripheral Artery Disease,DASH Diet
+39,Female,196,89,21.45,Elevated,103,179,High,91,36.2,8.4,Liver Disease,No,Yes,Pneumonia,Sedentary,Keto,Yes,No,Low,High,COPD,Anti-Inflammatory Diet
+76,Male,194,109,25.55,Elevated,110,70,Normal,94,36.8,5.4,Gout,Yes,Yes,Pneumonia,Active,Vegetarian,No,Yes,High,Low,Hyperthyroidism,Anti-Inflammatory Diet
+41,Female,169,84,33.78,Normal,100,159,Normal,94,38.4,6.1,Sleep Apnea,Yes,Yes,Pneumonia,Moderate,Keto,Yes,No,Medium,Moderate,Hypertension,Anti-Inflammatory Diet
+79,Male,185,88,20.32,High,90,183,Normal,96,37.8,5.2,Sleep Apnea,No,No,Typhoid,Active,Keto,Yes,No,Low,Low,Hypertensive Emergency,Gluten-Free Diet
+48,Male,161,84,27.32,Normal,62,196,High,98,37.2,6.9,Atrial Fibrillation,Yes,Yes,Food Poisoning,Active,Vegan,Yes,No,Low,Moderate,Peripheral Artery Disease,Mediterranean Diet
+74,Female,191,46,33.44,High,79,122,Borderline,96,36.5,5.2,Diabetes,No,No,Urinary Tract Infection,Moderate,Non-Vegetarian,No,Yes,High,High,Obesity,Low-Carb Diet
+23,Male,154,55,24.97,Normal,119,146,Borderline,96,37.2,7.0,Obstructive Sleep Apnea,Yes,No,Respiratory Infection,Moderate,Non-Vegetarian,Yes,No,High,High,Tachycardia,Gluten-Free Diet
+23,Male,150,57,20.53,Elevated,70,138,High,95,38.0,6.6,Heart Disease,No,No,Acute Bronchitis,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Hypertensive Emergency,High-Calcium Diet
+27,Male,173,96,21.89,High,64,165,High,90,38.8,9.4,COPD,Yes,No,Sinusitis,Moderate,Non-Vegetarian,Yes,No,Low,Low,Bradycardia,Increase Omega-3 Intake
+79,Female,151,72,20.06,Elevated,69,198,High,97,36.4,8.3,Obstructive Sleep Apnea,No,No,COVID-19,Moderate,Vegetarian,Yes,Yes,Low,High,Hypothyroidism,Heart-Healthy Diet
+37,Female,186,101,33.38,High,73,166,High,94,36.6,9.9,Obstructive Sleep Apnea,Yes,No,Stomach Ulcer,Active,Keto,No,No,Low,High,Osteoporosis,Reduce Sugar
+74,Male,153,118,34.42,Elevated,115,95,Borderline,93,37.9,9.4,Hypertension,No,Yes,Respiratory Infection,Sedentary,Vegetarian,Yes,No,Medium,High,Osteoporosis,Low-Carb Diet
+21,Male,174,59,19.19,Normal,95,111,High,95,36.1,5.3,COPD,Yes,No,Ear Infection,Sedentary,Vegan,No,No,High,High,Tachycardia,DASH Diet
+27,Male,171,116,33.67,High,107,121,High,94,38.6,9.3,Gout,No,Yes,Sinusitis,Active,Keto,Yes,Yes,Medium,Moderate,Osteoporosis,Gluten-Free Diet
+76,Female,180,102,26.8,Normal,88,91,High,90,36.8,6.2,Obstructive Sleep Apnea,No,Yes,Sinusitis,Active,Non-Vegetarian,Yes,No,Low,Low,Hyperthyroidism,DASH Diet
+24,Female,193,108,20.5,Elevated,74,94,High,98,37.2,7.8,Prediabetes,No,Yes,Food Poisoning,Active,Vegetarian,No,No,High,Low,Metabolic Syndrome,Low-Sodium Diet
+37,Male,170,102,18.7,Normal,118,137,High,99,37.0,9.3,Prediabetes,No,Yes,Bronchitis,Sedentary,Vegan,Yes,Yes,Low,High,Arthritis,Low-Sodium Diet
+56,Female,152,106,22.82,Normal,105,189,Borderline,95,38.9,8.6,Diabetes,Yes,Yes,Sinusitis,Sedentary,Non-Vegetarian,Yes,Yes,Medium,High,Diabetes,Gluten-Free Diet
+51,Female,178,81,20.8,Normal,102,101,Normal,90,37.3,6.8,COPD,No,No,Hypoglycemia Episode,Sedentary,Vegan,No,No,Low,High,Sleep Apnea,Low-Carb Diet
+57,Female,181,106,30.56,Normal,79,193,High,91,36.3,6.6,Hypertension,No,Yes,Gastroenteritis,Moderate,Non-Vegetarian,Yes,No,High,Moderate,Obesity,Increase Fiber
+66,Female,159,88,34.28,Normal,81,149,Normal,90,37.1,5.4,Hypercholesterolemia,Yes,Yes,Pneumonia,Active,Keto,No,Yes,High,Moderate,COPD,Increase Fiber
+52,Male,173,106,29.83,Normal,91,103,Borderline,95,35.7,5.4,Liver Disease,No,Yes,Sinusitis,Moderate,Keto,No,No,Medium,High,Metabolic Syndrome,High-Potassium Diet
+57,Female,185,55,19.88,Elevated,90,186,High,95,35.6,9.0,Hypertension,Yes,Yes,Hypertensive Crisis,Sedentary,Vegetarian,No,Yes,Medium,Moderate,Sleep Apnea,Mediterranean Diet
+21,Male,159,104,19.17,High,75,137,High,98,35.8,8.1,Thyroid Disorder,Yes,Yes,Fever,Sedentary,Vegetarian,No,Yes,Medium,Low,COPD,Increase Protein
+70,Male,189,93,31.54,Normal,66,193,High,90,38.5,5.4,Heart Disease,Yes,Yes,COVID-19,Moderate,Non-Vegetarian,Yes,No,Low,Moderate,Hypertension,Anti-Inflammatory Diet
+56,Female,190,100,32.96,High,92,96,High,97,38.4,9.1,Sleep Apnea,Yes,Yes,Bronchitis,Active,Vegan,Yes,No,High,Moderate,Arthritis,Gluten-Free Diet
+53,Male,197,91,32.8,Normal,111,180,Normal,91,36.4,6.7,Sleep Apnea,Yes,No,Hypoglycemia Episode,Sedentary,Keto,No,No,Medium,Low,Atherosclerosis,Mediterranean Diet
+60,Male,192,105,28.1,High,60,95,Normal,97,36.2,6.1,Peripheral Neuropathy,Yes,Yes,Infection,Moderate,Vegetarian,No,Yes,Low,High,COPD,Anti-Inflammatory Diet
+27,Male,199,100,26.37,Elevated,119,109,Borderline,92,37.9,7.0,Liver Disease,No,No,Pneumonia,Sedentary,Non-Vegetarian,Yes,No,Low,Low,Stroke Risk,Low-Glycemic Diet
+29,Male,157,98,23.75,High,79,137,Normal,94,38.0,6.6,Thyroid Disorder,No,No,Food Poisoning,Sedentary,Non-Vegetarian,No,Yes,Low,Moderate,Anemia,Increase Protein
+30,Female,185,64,23.5,High,83,108,Borderline,98,36.9,5.5,COPD,No,Yes,Dengue,Sedentary,Vegan,Yes,No,High,High,Anemia,Increase Omega-3 Intake
+67,Male,172,98,24.4,Elevated,83,72,Borderline,99,35.9,9.4,Arthritis,Yes,No,Severe Headache,Sedentary,Vegan,Yes,Yes,Medium,High,Obesity,Low-Carb Diet
+58,Female,165,69,22.45,Normal,96,139,Borderline,90,39.5,4.5,Sleep Apnea,Yes,Yes,Severe Headache,Moderate,Vegan,Yes,No,High,Moderate,Obesity,Low-Sodium Diet
+77,Female,184,88,30.59,High,101,170,High,98,35.8,4.3,COPD,Yes,No,Urinary Tract Infection,Active,Vegan,Yes,No,Medium,High,Kidney Disease,Anti-Inflammatory Diet
+28,Male,196,95,23.18,Normal,96,129,Borderline,99,39.8,4.9,Peripheral Neuropathy,Yes,Yes,Food Poisoning,Sedentary,Non-Vegetarian,No,Yes,Medium,Low,COPD,Low-Carb Diet
+24,Female,190,50,33.4,Normal,85,70,Borderline,94,39.0,6.8,Hypercholesterolemia,No,No,Food Poisoning,Moderate,Vegetarian,Yes,No,Low,Low,Chronic Fatigue,Low-Carb Diet
+45,Male,179,119,22.67,Normal,71,181,Normal,97,36.4,8.7,Asthma,Yes,Yes,Cold,Sedentary,Vegetarian,No,Yes,Medium,Moderate,COPD,Increase Omega-3 Intake
+19,Male,158,85,28.99,Elevated,100,112,Borderline,92,38.8,5.2,Liver Disease,Yes,No,Hypoglycemia Episode,Active,Vegetarian,No,No,High,Moderate,Sleep Apnea,High-Calcium Diet
+60,Male,164,48,28.7,Normal,97,110,High,96,38.5,9.4,Hypertension,Yes,No,Fever,Moderate,Vegetarian,No,Yes,Medium,High,Stroke Risk,High-Calcium Diet
+32,Male,156,82,26.49,High,119,126,Normal,96,39.5,5.0,Peripheral Neuropathy,Yes,No,Urinary Tract Infection,Moderate,Vegetarian,No,No,High,High,Atherosclerosis,Low-Sodium Diet
+18,Male,182,107,29.83,Normal,99,168,Borderline,91,39.5,6.2,Liver Disease,No,No,Bronchitis,Sedentary,Non-Vegetarian,Yes,No,Low,Moderate,Anemia,Keto Diet
+78,Female,172,70,26.48,Normal,96,122,High,93,37.2,7.9,Peripheral Neuropathy,No,No,Pneumonia,Moderate,Vegetarian,No,No,High,Moderate,Metabolic Syndrome,Plant-Based Diet
+70,Female,166,93,22.58,High,90,149,Normal,96,36.4,8.1,Thyroid Disorder,Yes,Yes,Stomach Ulcer,Moderate,Vegetarian,No,Yes,Low,High,Heart Disease,High-Potassium Diet
+48,Female,178,92,25.23,High,62,87,High,91,39.0,6.4,Hypercholesterolemia,Yes,Yes,Fever,Active,Vegetarian,No,Yes,High,High,Diabetes,Heart-Healthy Diet
+33,Female,198,78,29.63,Elevated,77,129,Borderline,99,35.8,6.4,Peripheral Neuropathy,Yes,Yes,Ear Infection,Moderate,Vegan,No,No,High,High,COPD,Anti-Inflammatory Diet
+40,Male,183,78,28.22,Normal,86,182,Borderline,92,36.4,7.5,Prediabetes,No,No,Typhoid,Moderate,Vegan,No,Yes,High,Low,Metabolic Syndrome,Gluten-Free Diet
+39,Male,186,69,25.85,High,99,187,Borderline,91,38.0,9.4,Sleep Apnea,Yes,No,Hypoglycemia Episode,Sedentary,Vegan,No,No,Low,Moderate,Anemia,Increase Fiber
+23,Female,154,72,27.17,Normal,101,147,High,92,37.1,5.3,Sleep Apnea,Yes,Yes,COVID-19,Active,Keto,Yes,Yes,Medium,High,Stroke Risk,DASH Diet
+77,Male,164,49,24.84,High,112,110,Normal,99,38.1,4.0,Prediabetes,Yes,Yes,Flu,Active,Keto,No,Yes,Medium,Moderate,Hypothyroidism,Plant-Based Diet
+40,Male,173,68,32.55,Elevated,68,164,High,93,35.5,8.9,Hypertension,No,No,Hypoglycemia Episode,Sedentary,Keto,No,Yes,Medium,Low,Chronic Fatigue,Low-Fat Diet
+39,Female,154,55,19.0,High,109,164,Normal,95,38.6,5.9,Liver Disease,No,Yes,Cold,Moderate,Keto,Yes,No,Medium,High,Hypertensive Emergency,Increase Omega-3 Intake
+67,Male,153,116,34.51,Normal,102,74,Borderline,98,37.0,6.6,Hypertension,No,Yes,Infection,Sedentary,Keto,Yes,Yes,Low,High,Metabolic Syndrome,High-Calcium Diet
+71,Female,164,82,25.51,Normal,102,154,High,95,36.7,8.3,Heart Disease,No,No,Hypoglycemia Episode,Sedentary,Vegan,Yes,Yes,Medium,Low,Hyperthyroidism,High-Calcium Diet
+22,Female,157,109,25.03,Elevated,99,106,Borderline,96,38.0,4.3,Hypercholesterolemia,No,Yes,Infection,Moderate,Non-Vegetarian,Yes,Yes,High,High,Liver Cirrhosis,Low-Carb Diet
+35,Female,164,60,24.65,High,70,142,Normal,92,40.0,5.5,Thyroid Disorder,No,Yes,Urinary Tract Infection,Sedentary,Keto,No,Yes,Low,Moderate,Kidney Disease,Mediterranean Diet
+24,Female,175,87,33.65,High,104,84,Borderline,98,37.2,8.3,Heart Disease,Yes,Yes,Ear Infection,Moderate,Keto,Yes,Yes,High,High,Anemia,Low-Glycemic Diet
+76,Male,194,47,32.71,High,95,78,Normal,90,36.2,5.9,Atrial Fibrillation,Yes,Yes,Stomach Ulcer,Active,Non-Vegetarian,No,No,Low,Moderate,Sleep Apnea,Increase Protein
+59,Male,198,116,22.64,Normal,116,192,High,95,37.7,5.9,Heart Disease,No,No,Ear Infection,Active,Vegetarian,Yes,Yes,Medium,Moderate,Bradycardia,Low-Carb Diet
+70,Female,164,63,28.24,High,81,117,Normal,99,36.5,4.8,Gout,No,No,Bronchitis,Active,Vegan,Yes,Yes,High,Moderate,Chronic Fatigue,Mediterranean Diet
+34,Female,179,90,32.87,Normal,115,84,Borderline,90,38.6,6.0,Asthma,No,Yes,Food Poisoning,Active,Non-Vegetarian,No,Yes,High,Low,Kidney Disease,Mediterranean Diet
+44,Male,198,95,34.16,Normal,111,111,Normal,95,38.7,5.4,Heart Disease,No,Yes,Hypertensive Crisis,Moderate,Vegetarian,No,Yes,Medium,Moderate,Hyperthyroidism,High-Calcium Diet
+26,Female,172,89,28.53,High,84,185,High,96,38.0,4.7,Diabetes,No,No,Pneumonia,Sedentary,Non-Vegetarian,No,Yes,Medium,Moderate,Atherosclerosis,Balanced Diet
+59,Male,198,112,32.91,High,93,168,Borderline,95,37.7,9.8,Heart Disease,No,No,Stomach Ulcer,Moderate,Keto,No,Yes,High,High,Hypertensive Emergency,Reduce Sugar
+36,Male,172,115,30.99,High,78,156,Borderline,93,38.9,4.6,Asthma,No,No,Bronchitis,Active,Non-Vegetarian,Yes,Yes,High,Moderate,Metabolic Syndrome,Balanced Diet
+70,Male,197,57,30.07,Normal,92,174,Normal,96,39.8,7.9,Thyroid Disorder,Yes,No,Dengue,Moderate,Non-Vegetarian,No,Yes,High,High,Chronic Fatigue,High-Potassium Diet
+50,Female,161,46,24.19,High,89,191,High,99,38.2,8.8,Gout,Yes,No,Severe Headache,Sedentary,Keto,Yes,Yes,Low,Low,Sleep Apnea,Keto Diet
+41,Female,189,84,26.55,High,61,173,High,91,36.5,8.5,Gout,Yes,Yes,Dengue,Sedentary,Vegan,Yes,No,Medium,Low,Liver Cirrhosis,Low-Glycemic Diet
+49,Male,166,62,26.97,High,91,79,Normal,98,39.4,8.3,Hypertension,Yes,No,Flu,Sedentary,Vegan,Yes,No,Medium,Moderate,Osteoporosis,Increase Omega-3 Intake
+53,Male,184,61,21.01,High,90,162,High,92,36.1,5.8,Heart Disease,Yes,No,COVID-19,Moderate,Non-Vegetarian,No,Yes,High,High,Liver Cirrhosis,Balanced Diet
+47,Male,158,90,24.51,Elevated,90,118,Borderline,93,39.9,5.5,COPD,Yes,Yes,Infection,Active,Keto,Yes,No,Medium,Moderate,Hypertension,High-Calcium Diet
+54,Male,176,77,32.64,Normal,82,193,High,97,36.1,6.6,Heart Disease,Yes,Yes,Hypertensive Crisis,Moderate,Vegetarian,Yes,Yes,Low,Low,Kidney Disease,Reduce Sugar
+25,Male,194,70,30.28,High,86,114,Normal,99,36.7,7.9,Arthritis,No,No,Severe Headache,Active,Keto,No,Yes,High,High,Peripheral Artery Disease,Increase Fiber
+27,Female,186,112,26.19,Elevated,109,85,Borderline,96,35.8,10.0,Obstructive Sleep Apnea,Yes,Yes,Respiratory Infection,Moderate,Keto,No,No,High,Moderate,Obesity,Low-Glycemic Diet
+30,Female,193,68,33.14,Elevated,74,103,Normal,93,39.2,9.6,Thyroid Disorder,Yes,Yes,Pneumonia,Moderate,Non-Vegetarian,No,Yes,High,High,Tachycardia,High-Potassium Diet
+36,Male,166,72,27.25,High,92,150,Borderline,97,36.7,6.5,Metabolic Syndrome,Yes,No,Pneumonia,Active,Non-Vegetarian,No,No,Medium,Moderate,Hypothyroidism,Increase Omega-3 Intake
+57,Female,180,86,33.02,Elevated,62,161,Normal,97,35.6,9.9,Hypertension,Yes,No,Infection,Moderate,Vegan,No,No,High,Low,Hyperthyroidism,Increase Omega-3 Intake
+27,Male,191,108,28.12,Normal,99,197,Normal,91,39.4,4.0,Arthritis,Yes,Yes,Hypertensive Crisis,Moderate,Vegetarian,Yes,Yes,Medium,Moderate,COPD,Low-Glycemic Diet
+31,Male,173,70,27.73,Elevated,107,161,Normal,99,39.1,5.1,Asthma,Yes,Yes,Sinusitis,Active,Non-Vegetarian,Yes,No,Low,Moderate,Hypertension,Gluten-Free Diet
+49,Female,185,55,25.9,Elevated,64,86,Normal,90,38.9,9.5,Arthritis,Yes,No,Acute Bronchitis,Moderate,Vegan,No,No,Low,Moderate,Hypertensive Emergency,Anti-Inflammatory Diet
+36,Female,170,102,34.46,Normal,82,110,High,93,37.3,5.1,Asthma,Yes,No,Respiratory Infection,Sedentary,Keto,Yes,No,Medium,Low,Sleep Apnea,Plant-Based Diet
+38,Male,197,90,26.37,High,101,142,Normal,94,36.1,7.8,Gout,Yes,No,Acute Bronchitis,Active,Keto,Yes,Yes,Medium,Low,Atherosclerosis,Low-Fat Diet
+51,Female,162,113,33.23,Elevated,92,174,Normal,90,36.4,5.1,Metabolic Syndrome,Yes,Yes,Dengue,Active,Vegetarian,Yes,No,Low,High,Kidney Disease,DASH Diet
+67,Female,183,75,26.01,High,81,131,High,98,37.2,9.5,Prediabetes,Yes,No,Urinary Tract Infection,Moderate,Keto,Yes,Yes,Medium,Low,Diabetes,Reduce Sugar
+40,Male,183,81,28.16,Normal,100,168,Normal,90,38.3,8.2,Hypertension,Yes,No,Cold,Moderate,Vegetarian,No,Yes,Low,Low,Heart Disease,Gluten-Free Diet
+47,Female,190,90,26.13,Elevated,117,106,Borderline,91,36.6,9.0,Arthritis,No,Yes,Acute Bronchitis,Active,Vegan,Yes,Yes,High,Low,Obesity,Low-Carb Diet
+22,Female,176,47,27.56,Normal,66,195,Borderline,98,39.2,6.8,Hypertension,Yes,Yes,COVID-19,Sedentary,Keto,Yes,Yes,High,Moderate,Arthritis,Increase Omega-3 Intake
+46,Male,182,112,21.8,Elevated,76,193,Borderline,90,38.9,7.6,Sleep Apnea,No,Yes,Hypertensive Crisis,Sedentary,Non-Vegetarian,Yes,Yes,Medium,Low,Stroke Risk,Anti-Inflammatory Diet
+43,Male,166,72,32.47,Elevated,110,138,Borderline,96,36.2,6.1,Liver Disease,No,Yes,Food Poisoning,Active,Vegan,No,Yes,Low,Low,Hypertensive Emergency,DASH Diet
+41,Male,153,79,22.65,High,119,100,High,92,39.8,6.5,Obstructive Sleep Apnea,Yes,No,COVID-19,Active,Keto,No,No,High,High,Tachycardia,Anti-Inflammatory Diet
+26,Female,183,56,23.31,Normal,83,136,High,98,39.5,4.7,Obstructive Sleep Apnea,Yes,No,Typhoid,Active,Vegan,No,No,High,Moderate,Sleep Apnea,Mediterranean Diet
+55,Female,156,105,19.57,Normal,105,122,Normal,93,36.6,4.9,Kidney Disease,Yes,Yes,Fever,Moderate,Keto,No,Yes,Medium,Low,Hypothyroidism,Mediterranean Diet
+54,Male,178,89,23.1,Elevated,64,133,Normal,92,37.2,8.3,Kidney Disease,No,No,Flu,Active,Keto,No,No,Medium,Low,Bradycardia,Low-Carb Diet
+23,Male,168,78,21.89,Normal,116,128,Borderline,94,37.2,9.8,Peripheral Neuropathy,No,Yes,Stomach Ulcer,Moderate,Non-Vegetarian,No,No,High,Low,Hypothyroidism,Increase Fiber
+69,Male,196,67,32.18,Normal,82,162,Borderline,95,39.4,8.6,Prediabetes,No,No,Acute Bronchitis,Moderate,Vegan,No,No,Low,High,Tachycardia,High-Potassium Diet
+50,Male,164,99,34.97,Elevated,90,140,Borderline,93,37.7,5.7,Liver Disease,Yes,No,Cold,Sedentary,Vegetarian,Yes,Yes,Medium,Moderate,Diabetes,Increase Fiber
+28,Female,160,55,34.2,Elevated,99,83,Normal,91,36.1,8.1,Atrial Fibrillation,Yes,Yes,Pneumonia,Sedentary,Keto,Yes,No,Low,Moderate,Atherosclerosis,DASH Diet
+44,Male,151,115,26.09,Normal,92,103,Borderline,98,36.2,5.6,Prediabetes,Yes,No,Dengue,Active,Vegan,Yes,Yes,Medium,Moderate,COPD,Keto Diet
+74,Male,159,60,20.11,Normal,62,165,Normal,90,38.4,7.3,Asthma,No,Yes,Food Poisoning,Active,Vegetarian,No,Yes,Medium,High,Osteoporosis,Low-Carb Diet
+60,Male,150,107,30.17,Elevated,102,85,High,97,36.7,7.9,Obstructive Sleep Apnea,Yes,No,Fever,Active,Vegan,No,No,Low,Low,Hypothyroidism,Reduce Sugar
+55,Female,165,73,29.2,Normal,66,153,Normal,95,35.8,7.5,Hypertension,Yes,Yes,Bronchitis,Moderate,Non-Vegetarian,No,Yes,High,Moderate,Kidney Disease,Gluten-Free Diet
+37,Male,197,101,33.76,Normal,67,131,Normal,94,35.8,5.1,Migraine,Yes,Yes,Fever,Moderate,Keto,No,Yes,Low,High,Tachycardia,Reduce Sugar
+50,Male,191,74,31.95,Elevated,106,82,Normal,99,36.4,7.2,Obstructive Sleep Apnea,No,Yes,Hypertensive Crisis,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Tachycardia,DASH Diet
+63,Female,160,116,31.18,Normal,107,92,Borderline,94,39.7,7.2,Migraine,Yes,No,Acute Bronchitis,Sedentary,Vegan,No,No,Low,Moderate,Hypertension,Plant-Based Diet
+74,Female,171,57,28.51,Normal,117,98,High,90,36.4,7.0,Diabetes,Yes,Yes,Hypoglycemia Episode,Moderate,Keto,No,Yes,High,High,Hypothyroidism,Heart-Healthy Diet
+70,Female,172,83,25.46,Elevated,104,105,High,92,39.7,5.5,Peripheral Neuropathy,Yes,No,Pneumonia,Moderate,Vegan,No,Yes,Medium,High,Tachycardia,Low-Glycemic Diet
+69,Male,175,68,34.3,Elevated,82,152,High,90,38.2,4.3,Prediabetes,No,No,COVID-19,Sedentary,Vegetarian,No,Yes,Low,High,Hypothyroidism,Balanced Diet
+34,Male,173,71,25.65,Elevated,69,152,Normal,91,38.2,4.3,Diabetes,Yes,No,Sinusitis,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Bradycardia,Reduce Sugar
+30,Female,190,95,32.61,Elevated,86,105,High,92,38.2,5.6,Hypertension,Yes,Yes,Ear Infection,Moderate,Non-Vegetarian,Yes,No,High,High,Atherosclerosis,Reduce Sugar
+79,Male,159,100,32.24,Normal,104,156,Normal,90,36.1,8.2,Migraine,Yes,No,Bronchitis,Sedentary,Non-Vegetarian,No,Yes,High,Low,Metabolic Syndrome,Increase Fiber
+27,Male,185,79,27.26,Elevated,94,170,Normal,96,37.3,9.7,Peripheral Neuropathy,No,No,Typhoid,Active,Vegan,No,Yes,Low,Low,Atherosclerosis,Balanced Diet
+78,Female,173,56,28.32,High,107,140,Borderline,97,36.2,7.6,Diabetes,Yes,No,Sinusitis,Sedentary,Vegetarian,Yes,Yes,High,High,Peripheral Artery Disease,Low-Carb Diet
+25,Male,186,48,34.49,High,89,100,Normal,99,39.9,5.2,Migraine,No,Yes,Gastroenteritis,Sedentary,Vegan,Yes,No,Low,High,Hyperthyroidism,Low-Glycemic Diet
+78,Male,163,87,20.64,High,78,176,Borderline,93,35.9,6.5,Liver Disease,No,No,Dengue,Moderate,Vegetarian,Yes,Yes,Medium,Low,Hypothyroidism,Increase Protein
+56,Female,150,115,30.87,Elevated,71,177,Borderline,93,37.4,6.7,Liver Disease,Yes,No,Flu,Sedentary,Keto,No,No,Low,Moderate,Tachycardia,Plant-Based Diet
+19,Female,178,49,31.62,Normal,79,188,Normal,98,36.7,6.9,Peripheral Neuropathy,No,No,Hypoglycemia Episode,Moderate,Vegetarian,Yes,Yes,High,High,Congestive Heart Failure,Anti-Inflammatory Diet
+20,Female,186,79,19.2,Normal,82,102,Normal,95,37.0,6.4,Diabetes,Yes,Yes,Food Poisoning,Moderate,Vegetarian,Yes,Yes,Low,High,Kidney Disease,Low-Fat Diet
+71,Female,194,53,33.32,High,69,196,High,95,36.9,7.4,Arthritis,Yes,Yes,Respiratory Infection,Active,Non-Vegetarian,No,No,Medium,Moderate,Hypertensive Emergency,Increase Fiber
+67,Female,174,65,27.68,Normal,97,87,Borderline,95,38.5,6.9,Obstructive Sleep Apnea,Yes,No,Acute Bronchitis,Sedentary,Non-Vegetarian,No,No,Low,Moderate,Sleep Apnea,Low-Fat Diet
+78,Female,168,103,21.2,Elevated,109,115,Normal,99,36.0,9.8,Hypertension,No,No,Ear Infection,Sedentary,Vegetarian,Yes,No,High,Moderate,Hyperthyroidism,Increase Omega-3 Intake
+34,Male,174,74,24.69,High,92,188,Normal,99,38.3,6.0,Diabetes,No,No,Sinusitis,Sedentary,Vegan,Yes,No,Low,High,Hypertensive Emergency,Low-Carb Diet
+39,Female,172,46,27.81,High,75,91,Normal,99,39.8,6.1,Migraine,Yes,Yes,Respiratory Infection,Sedentary,Vegetarian,Yes,Yes,Medium,Moderate,Hypothyroidism,DASH Diet
+64,Female,185,100,19.57,High,80,192,Borderline,98,37.0,8.5,Diabetes,No,No,Severe Headache,Active,Vegan,No,No,Low,Low,Bradycardia,Low-Carb Diet
+64,Female,157,60,28.34,Elevated,105,153,Borderline,96,37.7,4.4,Hypercholesterolemia,Yes,No,Acute Bronchitis,Active,Non-Vegetarian,No,No,Low,Low,Heart Disease,Low-Carb Diet
+38,Male,177,83,32.81,High,112,173,Normal,92,35.8,5.8,Arthritis,Yes,No,Dengue,Sedentary,Non-Vegetarian,No,No,Medium,Low,Obesity,Low-Glycemic Diet
+43,Male,173,119,27.03,High,76,128,Borderline,92,35.9,7.6,Atrial Fibrillation,Yes,Yes,COVID-19,Active,Non-Vegetarian,No,Yes,Low,Low,Congestive Heart Failure,Increase Protein
+52,Female,191,95,27.04,Elevated,101,183,Normal,95,37.3,9.9,Asthma,No,No,Dengue,Active,Keto,No,No,High,Low,Liver Cirrhosis,DASH Diet
+27,Male,158,55,28.87,Normal,117,115,Normal,98,36.2,7.0,Thyroid Disorder,Yes,Yes,Gastroenteritis,Sedentary,Keto,Yes,No,Medium,Moderate,Atherosclerosis,Keto Diet
+22,Male,171,51,24.14,Elevated,108,80,High,96,39.1,8.3,Kidney Disease,Yes,No,Typhoid,Sedentary,Non-Vegetarian,Yes,Yes,Medium,Moderate,Hypertensive Emergency,High-Calcium Diet
+45,Female,190,53,27.13,Elevated,88,114,High,95,38.3,10.0,Liver Disease,Yes,No,Flu,Active,Vegan,Yes,Yes,Low,Low,Hyperthyroidism,High-Potassium Diet
+63,Male,174,57,19.28,Elevated,76,132,Normal,97,36.7,5.7,Peripheral Neuropathy,Yes,No,Typhoid,Active,Non-Vegetarian,Yes,No,Medium,High,Hypertensive Emergency,High-Calcium Diet
+44,Male,183,66,29.58,Elevated,112,167,Normal,91,39.9,5.3,Sleep Apnea,Yes,Yes,Hypertensive Crisis,Moderate,Keto,No,No,High,High,Anemia,Plant-Based Diet
+39,Female,190,88,33.21,Elevated,91,179,High,91,39.6,6.4,Atrial Fibrillation,No,Yes,Sinusitis,Active,Vegan,No,No,Medium,Low,Hypertension,High-Calcium Diet
+45,Female,181,83,30.07,High,93,95,High,98,37.8,6.0,Gout,Yes,No,Food Poisoning,Moderate,Keto,No,Yes,Medium,Low,Hypothyroidism,Plant-Based Diet
+34,Male,168,82,28.12,High,64,118,High,99,39.0,4.5,Kidney Disease,Yes,Yes,Stomach Ulcer,Moderate,Vegan,Yes,Yes,Medium,High,Anemia,Low-Fat Diet
+61,Female,198,113,21.32,Normal,91,141,Normal,99,37.0,8.2,Hypertension,No,Yes,Severe Headache,Active,Non-Vegetarian,Yes,Yes,Medium,High,Bradycardia,Low-Fat Diet
+64,Female,150,118,24.92,Elevated,108,99,Normal,95,39.5,4.6,Prediabetes,Yes,No,Stomach Ulcer,Active,Vegetarian,No,Yes,High,Low,Heart Disease,High-Calcium Diet
+53,Male,189,75,25.49,High,73,174,Borderline,91,39.6,5.3,Asthma,Yes,No,Dengue,Moderate,Non-Vegetarian,No,No,Low,Moderate,Tachycardia,Increase Protein
+23,Female,176,69,33.77,High,60,134,High,99,36.7,6.9,Peripheral Neuropathy,No,Yes,Fever,Active,Vegan,Yes,Yes,Medium,High,Peripheral Artery Disease,Anti-Inflammatory Diet
+27,Female,182,46,21.77,Elevated,97,103,Normal,98,36.9,9.1,Kidney Disease,Yes,No,Sinusitis,Moderate,Keto,Yes,No,High,Moderate,Metabolic Syndrome,Increase Omega-3 Intake
+27,Female,160,88,34.44,Elevated,68,161,High,91,37.4,7.6,Hypertension,Yes,No,Flu,Sedentary,Keto,No,No,Medium,Moderate,Metabolic Syndrome,High-Calcium Diet
+32,Female,156,51,21.39,Normal,76,106,Normal,95,38.2,9.5,Migraine,Yes,No,Infection,Sedentary,Non-Vegetarian,Yes,No,High,High,Heart Disease,Anti-Inflammatory Diet
+78,Female,194,86,28.97,Normal,101,119,High,99,35.6,8.3,Thyroid Disorder,Yes,Yes,Severe Headache,Moderate,Non-Vegetarian,Yes,No,Medium,Low,Kidney Disease,Increase Omega-3 Intake
+77,Female,159,106,27.29,Normal,113,126,Borderline,97,38.7,7.1,Gout,Yes,No,Dengue,Sedentary,Non-Vegetarian,Yes,Yes,Medium,High,Peripheral Artery Disease,High-Potassium Diet
+18,Female,170,108,27.51,Elevated,99,127,Normal,91,37.3,4.1,Thyroid Disorder,No,Yes,Dengue,Sedentary,Vegetarian,No,No,Medium,High,Arthritis,Low-Sodium Diet
+67,Male,191,87,24.54,Elevated,94,157,Borderline,96,39.9,5.1,COPD,Yes,Yes,Stomach Ulcer,Sedentary,Vegan,No,No,Medium,High,Chronic Fatigue,Mediterranean Diet
+43,Male,160,45,29.42,Elevated,107,168,Normal,92,39.3,4.3,Sleep Apnea,Yes,No,Pneumonia,Active,Vegan,No,No,Low,Moderate,Hypothyroidism,Low-Glycemic Diet
+34,Female,199,58,19.06,High,76,188,Normal,93,38.6,6.0,Metabolic Syndrome,No,No,Stomach Ulcer,Sedentary,Non-Vegetarian,No,No,Medium,High,Osteoporosis,High-Calcium Diet
+71,Female,154,99,32.78,High,100,144,Borderline,96,37.5,7.0,COPD,Yes,No,Ear Infection,Moderate,Non-Vegetarian,No,Yes,High,High,Stroke Risk,DASH Diet
+45,Male,165,107,18.78,Normal,80,174,High,99,37.6,6.5,Kidney Disease,Yes,Yes,Bronchitis,Moderate,Keto,Yes,No,Medium,High,Bradycardia,Low-Sodium Diet
+65,Female,156,100,31.16,Elevated,113,111,Borderline,91,36.2,6.6,Asthma,No,Yes,Food Poisoning,Moderate,Vegan,Yes,Yes,Low,Moderate,Stroke Risk,Low-Carb Diet
+45,Male,194,100,21.86,High,62,116,Normal,95,37.0,5.5,Gout,No,No,Respiratory Infection,Sedentary,Non-Vegetarian,No,Yes,Medium,High,Congestive Heart Failure,Mediterranean Diet
+45,Male,157,73,32.17,High,86,86,Borderline,95,39.0,9.3,Hypertension,No,Yes,Cold,Sedentary,Keto,No,Yes,Medium,High,Atherosclerosis,Mediterranean Diet
+62,Female,193,91,24.01,Normal,108,102,Borderline,99,39.2,6.7,Asthma,No,Yes,Pneumonia,Sedentary,Non-Vegetarian,Yes,No,Medium,Moderate,Stroke Risk,Reduce Sugar
+43,Female,187,107,29.74,Normal,92,187,Borderline,98,38.6,8.4,Heart Disease,Yes,No,Respiratory Infection,Moderate,Keto,No,Yes,High,Moderate,Peripheral Artery Disease,Low-Carb Diet
+65,Male,189,94,32.33,High,63,171,Normal,98,35.8,9.6,Asthma,Yes,No,Stomach Ulcer,Active,Non-Vegetarian,No,No,High,Moderate,Hypertensive Emergency,Keto Diet
+62,Male,153,95,33.16,High,108,76,High,95,37.6,4.8,Hypercholesterolemia,No,Yes,COVID-19,Active,Vegan,No,No,High,Low,Peripheral Artery Disease,Balanced Diet
+71,Female,180,53,30.92,Elevated,100,144,High,98,36.1,6.9,COPD,No,Yes,Bronchitis,Active,Non-Vegetarian,No,No,Low,Low,Congestive Heart Failure,Reduce Sugar
+50,Male,182,89,28.2,Normal,92,162,Borderline,97,35.8,7.4,Hypertension,Yes,Yes,Urinary Tract Infection,Sedentary,Vegetarian,No,Yes,Medium,High,Atherosclerosis,High-Calcium Diet
+21,Female,163,74,23.91,Elevated,110,155,High,96,36.3,8.1,Atrial Fibrillation,Yes,Yes,Typhoid,Sedentary,Vegetarian,Yes,Yes,Low,Low,Hypothyroidism,Plant-Based Diet
+51,Female,155,112,28.3,High,86,111,High,91,38.6,4.6,Heart Disease,Yes,Yes,Hypertensive Crisis,Active,Non-Vegetarian,Yes,No,High,Moderate,COPD,Increase Fiber
+63,Female,189,91,20.51,Elevated,70,165,Normal,96,37.9,9.5,Thyroid Disorder,No,Yes,Acute Bronchitis,Moderate,Vegetarian,No,No,Medium,Moderate,Hypertensive Emergency,Increase Protein
+58,Male,156,105,28.9,Normal,97,75,Normal,97,38.4,4.4,Migraine,Yes,No,Ear Infection,Active,Keto,Yes,Yes,Medium,Moderate,Osteoporosis,High-Calcium Diet
+60,Male,185,100,30.95,Normal,83,111,Borderline,90,37.4,4.5,Peripheral Neuropathy,Yes,Yes,Bronchitis,Active,Non-Vegetarian,No,Yes,Medium,Low,Tachycardia,Gluten-Free Diet
+23,Male,198,66,23.45,Elevated,75,166,Borderline,92,36.1,7.9,Heart Disease,No,No,Gastroenteritis,Active,Vegetarian,No,Yes,Medium,Low,Hypothyroidism,Heart-Healthy Diet
+27,Female,165,87,34.05,Normal,89,159,Normal,97,38.6,4.8,Peripheral Neuropathy,No,Yes,Flu,Active,Keto,Yes,Yes,Medium,Low,Obesity,Balanced Diet
+69,Male,173,67,32.0,Normal,67,80,High,91,36.9,6.7,Diabetes,No,No,Pneumonia,Active,Vegetarian,Yes,No,Low,Moderate,Peripheral Artery Disease,Mediterranean Diet
+68,Male,161,66,20.0,Elevated,72,143,Normal,95,37.8,7.7,Hypercholesterolemia,Yes,No,Food Poisoning,Active,Keto,No,Yes,Low,High,Bradycardia,Balanced Diet
+19,Male,173,100,28.18,High,78,80,Borderline,98,36.8,7.4,Heart Disease,Yes,Yes,COVID-19,Active,Non-Vegetarian,Yes,No,Low,Moderate,Peripheral Artery Disease,Anti-Inflammatory Diet
+60,Female,151,74,26.97,Elevated,61,167,High,93,35.7,5.4,Prediabetes,No,No,Respiratory Infection,Sedentary,Vegan,Yes,Yes,Medium,Moderate,COPD,Reduce Sugar
+29,Male,193,82,32.72,Normal,85,170,Borderline,90,39.9,6.4,Thyroid Disorder,Yes,Yes,Cold,Active,Vegetarian,Yes,No,High,Low,Bradycardia,High-Calcium Diet
+67,Female,152,110,21.77,High,96,127,Normal,95,36.9,5.0,Metabolic Syndrome,No,No,Hypertensive Crisis,Sedentary,Vegetarian,No,Yes,Medium,Moderate,Obesity,Heart-Healthy Diet
+59,Male,179,111,32.41,Elevated,93,179,High,91,39.7,9.8,Thyroid Disorder,Yes,No,Hypertensive Crisis,Moderate,Non-Vegetarian,No,Yes,Medium,High,Hypertension,Low-Sodium Diet
+21,Male,153,91,29.22,High,96,148,Normal,90,35.7,6.8,Obstructive Sleep Apnea,No,No,Stomach Ulcer,Active,Vegetarian,Yes,Yes,High,High,COPD,Heart-Healthy Diet
+21,Male,154,60,23.51,Normal,112,93,Borderline,98,37.1,6.3,Thyroid Disorder,Yes,Yes,Cold,Active,Non-Vegetarian,Yes,Yes,Low,Moderate,Hypertensive Emergency,Low-Carb Diet
+68,Female,161,51,27.05,High,117,143,Normal,98,39.5,6.6,Liver Disease,Yes,No,Cold,Active,Keto,Yes,Yes,High,Moderate,Liver Cirrhosis,Increase Fiber
+43,Male,198,91,24.24,High,85,76,High,97,36.1,7.3,Migraine,No,Yes,Gastroenteritis,Moderate,Vegetarian,Yes,Yes,Medium,Low,Heart Disease,Heart-Healthy Diet
+79,Female,178,115,29.21,Elevated,113,71,High,92,35.9,9.2,Atrial Fibrillation,Yes,No,Sinusitis,Moderate,Non-Vegetarian,Yes,Yes,Low,High,Hypertensive Emergency,DASH Diet
+60,Male,176,103,24.05,Elevated,68,79,Borderline,94,37.0,5.9,Asthma,No,Yes,Acute Bronchitis,Sedentary,Vegetarian,No,No,High,Low,Bradycardia,Keto Diet
+68,Female,163,48,22.79,Normal,113,74,Borderline,90,37.2,7.9,Heart Disease,No,No,Flu,Moderate,Vegetarian,No,Yes,High,Moderate,Hypertension,High-Potassium Diet
+43,Female,161,80,30.78,Elevated,64,97,Borderline,94,38.0,6.5,Hypercholesterolemia,No,No,Stomach Ulcer,Active,Vegan,Yes,No,High,Low,Diabetes,Low-Glycemic Diet
+64,Male,183,80,25.56,High,113,78,High,93,39.0,5.8,Heart Disease,No,No,Hypoglycemia Episode,Sedentary,Keto,No,No,Medium,High,Tachycardia,Anti-Inflammatory Diet
+66,Female,197,83,34.77,High,76,76,Normal,90,35.7,7.0,Sleep Apnea,Yes,No,Acute Bronchitis,Moderate,Vegetarian,No,Yes,Low,High,Osteoporosis,Low-Fat Diet
+25,Female,176,57,34.34,Elevated,87,74,Normal,96,38.6,10.0,Asthma,Yes,No,Urinary Tract Infection,Moderate,Vegetarian,No,No,High,Moderate,Obesity,Balanced Diet
+24,Female,161,59,30.66,Normal,91,96,High,97,39.0,7.0,Metabolic Syndrome,No,No,Ear Infection,Active,Vegetarian,Yes,No,Low,Low,Arthritis,Low-Sodium Diet
+46,Female,180,76,31.06,Elevated,92,167,Borderline,98,39.8,4.7,COPD,No,No,COVID-19,Sedentary,Vegan,Yes,Yes,High,Moderate,Kidney Disease,Low-Sodium Diet
+76,Male,159,112,26.64,Normal,114,125,Borderline,92,36.6,9.3,Obstructive Sleep Apnea,No,Yes,Dengue,Moderate,Vegan,No,No,Low,Moderate,Osteoporosis,Gluten-Free Diet
+25,Male,168,49,27.26,Elevated,79,140,Borderline,93,39.7,8.3,COPD,Yes,No,Ear Infection,Sedentary,Vegan,No,Yes,High,Low,Atherosclerosis,Gluten-Free Diet
+54,Male,188,59,25.88,High,88,77,Borderline,98,35.6,9.8,Heart Disease,No,Yes,Infection,Active,Vegetarian,No,No,High,Moderate,Heart Disease,Plant-Based Diet
+37,Female,195,109,18.85,High,62,104,Borderline,91,39.0,7.2,Sleep Apnea,Yes,No,COVID-19,Active,Non-Vegetarian,No,Yes,High,Moderate,Hypertensive Emergency,Balanced Diet
+40,Male,167,111,31.3,Elevated,69,116,Normal,98,40.0,9.2,Metabolic Syndrome,No,No,Infection,Active,Vegetarian,Yes,Yes,High,High,Peripheral Artery Disease,DASH Diet
+64,Female,150,80,25.87,Elevated,73,166,High,91,36.0,6.6,Hypercholesterolemia,Yes,Yes,Respiratory Infection,Sedentary,Vegetarian,Yes,No,Low,Moderate,Hypothyroidism,Low-Fat Diet
+56,Male,196,98,28.42,High,87,104,High,91,35.9,5.3,Hypertension,No,Yes,Pneumonia,Moderate,Vegan,Yes,No,Medium,Low,Sleep Apnea,Increase Protein
+77,Female,191,94,23.48,Elevated,96,165,Normal,95,36.8,9.0,Kidney Disease,No,No,Respiratory Infection,Moderate,Keto,No,No,High,High,Anemia,Mediterranean Diet
+56,Male,192,111,25.48,High,111,177,High,93,37.3,5.6,Asthma,Yes,Yes,Food Poisoning,Active,Vegetarian,Yes,Yes,Low,Low,Chronic Fatigue,Reduce Sugar
+40,Female,171,81,32.39,Normal,97,75,Normal,93,39.8,4.6,Obstructive Sleep Apnea,No,Yes,COVID-19,Active,Vegetarian,No,No,Medium,Low,Arthritis,Reduce Sugar
+56,Male,180,47,34.08,Normal,99,186,Borderline,90,39.7,4.8,Kidney Disease,No,Yes,Gastroenteritis,Active,Keto,Yes,Yes,Low,Low,Atherosclerosis,Increase Fiber
+23,Female,170,92,27.36,High,75,138,High,93,37.0,5.3,Migraine,No,Yes,Severe Headache,Moderate,Keto,No,No,High,Moderate,Liver Cirrhosis,Low-Sodium Diet
+47,Male,179,102,28.5,High,82,138,Normal,97,36.9,9.4,Asthma,Yes,No,Fever,Sedentary,Vegetarian,No,Yes,High,Moderate,Sleep Apnea,Low-Sodium Diet
+31,Female,172,81,32.83,Elevated,78,140,Borderline,95,40.0,5.7,COPD,No,Yes,Infection,Moderate,Vegetarian,Yes,No,High,Low,Bradycardia,Increase Omega-3 Intake
+66,Female,194,50,26.37,Elevated,117,80,Normal,93,39.1,9.9,Diabetes,Yes,No,Pneumonia,Active,Vegetarian,No,Yes,Medium,Low,Atherosclerosis,Low-Carb Diet
+38,Male,165,70,30.8,Normal,78,95,High,98,37.5,9.4,Hypertension,No,Yes,Typhoid,Moderate,Vegan,No,No,Medium,Moderate,Hyperthyroidism,Low-Fat Diet
+68,Male,170,87,30.89,Normal,110,104,Normal,95,39.3,6.3,Liver Disease,No,No,Flu,Moderate,Vegan,No,No,Medium,Moderate,Osteoporosis,Low-Sodium Diet
+78,Male,151,104,26.33,High,76,195,Normal,91,39.7,5.1,Gout,No,No,Urinary Tract Infection,Moderate,Keto,No,No,Medium,Low,Heart Disease,Increase Fiber
+27,Female,179,74,28.52,High,66,72,Borderline,93,37.5,9.0,Kidney Disease,No,Yes,Stomach Ulcer,Sedentary,Keto,Yes,No,High,Moderate,Hyperthyroidism,Balanced Diet
+27,Female,167,116,25.76,Normal,82,97,Borderline,92,36.3,9.8,Atrial Fibrillation,Yes,No,Hypoglycemia Episode,Active,Keto,Yes,Yes,High,Low,Chronic Fatigue,Keto Diet
+53,Female,184,95,31.79,Elevated,109,107,High,95,37.8,8.4,Obstructive Sleep Apnea,No,Yes,Stomach Ulcer,Moderate,Keto,Yes,Yes,Low,Moderate,Hyperthyroidism,Heart-Healthy Diet
+55,Male,161,93,22.72,High,88,74,Normal,98,37.2,9.8,Asthma,Yes,No,Respiratory Infection,Sedentary,Vegetarian,Yes,No,High,Low,Chronic Fatigue,Low-Fat Diet
+55,Female,199,80,21.2,High,106,120,Borderline,98,36.3,8.8,Diabetes,Yes,No,Dengue,Moderate,Vegetarian,No,Yes,Low,Low,Obesity,Low-Sodium Diet
+39,Female,169,68,26.53,Elevated,90,184,High,94,39.8,4.7,Asthma,Yes,No,Gastroenteritis,Active,Keto,No,No,Low,Low,Sleep Apnea,Keto Diet
+40,Male,152,51,28.93,High,78,108,High,97,38.6,5.1,Atrial Fibrillation,Yes,Yes,Bronchitis,Sedentary,Keto,No,Yes,Medium,High,Obesity,Low-Fat Diet
+61,Male,161,86,32.18,High,91,70,Normal,94,39.9,5.4,Thyroid Disorder,Yes,Yes,Ear Infection,Moderate,Vegetarian,Yes,No,Low,Low,Hypothyroidism,Plant-Based Diet
+36,Male,162,74,31.69,Elevated,103,192,High,94,37.7,5.9,Asthma,Yes,No,Respiratory Infection,Moderate,Keto,Yes,No,High,High,Anemia,Low-Glycemic Diet
+25,Male,155,92,22.74,High,109,112,Borderline,94,38.8,4.1,Atrial Fibrillation,Yes,No,Acute Bronchitis,Active,Keto,No,No,High,Moderate,Liver Cirrhosis,Mediterranean Diet
+58,Female,169,52,23.85,Normal,62,194,Normal,98,36.4,9.6,Heart Disease,No,Yes,Stomach Ulcer,Active,Keto,No,No,Medium,Moderate,Arthritis,Low-Carb Diet
+59,Male,183,96,25.07,High,113,79,High,93,38.9,6.6,COPD,No,Yes,Fever,Active,Vegan,No,Yes,Medium,Moderate,Arthritis,Low-Sodium Diet
+27,Female,150,94,27.67,High,111,99,Normal,99,37.2,6.9,Sleep Apnea,Yes,No,Fever,Active,Vegetarian,No,Yes,Medium,Low,Congestive Heart Failure,Increase Protein
+31,Male,172,96,24.14,Elevated,104,164,Borderline,90,35.9,9.2,Diabetes,No,No,Food Poisoning,Active,Vegan,No,Yes,Medium,High,Bradycardia,High-Potassium Diet
+44,Female,150,92,19.0,Normal,70,109,Normal,95,35.6,4.2,Obstructive Sleep Apnea,No,Yes,Stomach Ulcer,Active,Non-Vegetarian,Yes,No,Medium,High,Tachycardia,Low-Carb Diet
+69,Female,194,106,19.21,Elevated,76,196,Normal,97,36.4,8.0,Metabolic Syndrome,Yes,No,Flu,Moderate,Keto,No,Yes,Low,Low,Hyperthyroidism,High-Calcium Diet
+34,Male,184,93,19.02,High,119,134,Borderline,97,37.6,9.5,COPD,No,No,Gastroenteritis,Sedentary,Vegetarian,Yes,No,Medium,High,Sleep Apnea,Mediterranean Diet
+54,Female,174,92,29.19,Elevated,82,197,High,93,38.9,5.9,Metabolic Syndrome,Yes,No,COVID-19,Active,Vegan,Yes,Yes,High,Low,COPD,Low-Sodium Diet
+26,Male,196,81,22.39,Normal,93,189,Normal,93,36.0,9.7,Diabetes,No,No,Typhoid,Sedentary,Vegetarian,No,Yes,Medium,High,Congestive Heart Failure,Reduce Sugar
+75,Male,194,76,20.33,Normal,95,117,Normal,97,37.2,5.4,Prediabetes,Yes,Yes,Food Poisoning,Moderate,Non-Vegetarian,Yes,Yes,Low,High,Hypothyroidism,Low-Carb Diet
+74,Female,176,108,34.83,Elevated,61,125,Normal,91,37.5,9.3,Thyroid Disorder,No,No,Severe Headache,Active,Non-Vegetarian,Yes,No,Low,High,Anemia,Keto Diet
+42,Male,192,89,31.89,Normal,96,79,Borderline,90,35.9,9.9,Hypercholesterolemia,Yes,No,Pneumonia,Sedentary,Keto,No,No,Medium,Low,Hypothyroidism,Reduce Sugar
+52,Male,195,109,25.33,Elevated,118,137,Borderline,90,36.6,5.8,Obstructive Sleep Apnea,Yes,Yes,Severe Headache,Moderate,Vegan,Yes,No,Low,Moderate,Hypertensive Emergency,Low-Carb Diet
+33,Male,150,101,33.08,High,64,156,High,94,36.6,5.3,Peripheral Neuropathy,Yes,No,Bronchitis,Active,Non-Vegetarian,Yes,Yes,Low,Low,Congestive Heart Failure,Mediterranean Diet
+79,Female,166,58,33.93,Normal,81,131,Normal,96,39.5,4.6,Kidney Disease,No,Yes,Cold,Moderate,Vegetarian,Yes,Yes,Medium,Moderate,Peripheral Artery Disease,Keto Diet
+75,Female,157,50,18.64,Elevated,70,80,Normal,97,39.1,8.5,Thyroid Disorder,Yes,Yes,Ear Infection,Active,Keto,Yes,Yes,High,Moderate,Atherosclerosis,Increase Fiber
+31,Male,178,100,26.47,High,63,148,Borderline,94,39.5,7.0,Diabetes,Yes,No,Hypertensive Crisis,Moderate,Vegan,No,Yes,Low,Moderate,Metabolic Syndrome,Heart-Healthy Diet
+74,Female,162,72,25.72,High,72,162,High,92,39.1,8.9,Liver Disease,Yes,No,Acute Bronchitis,Moderate,Non-Vegetarian,No,Yes,Low,Moderate,Atherosclerosis,Balanced Diet
+57,Male,180,113,23.28,High,79,120,Normal,95,35.7,5.2,Atrial Fibrillation,No,Yes,Hypertensive Crisis,Active,Vegetarian,Yes,Yes,Medium,High,Tachycardia,Balanced Diet
+38,Male,167,60,24.7,Normal,82,85,High,96,36.3,6.7,Liver Disease,Yes,Yes,Food Poisoning,Active,Vegan,Yes,Yes,Low,High,Sleep Apnea,DASH Diet
+26,Female,158,92,32.87,Elevated,69,134,High,91,38.2,4.6,Obstructive Sleep Apnea,No,No,Stomach Ulcer,Sedentary,Keto,No,Yes,High,High,Kidney Disease,Reduce Sugar
+42,Female,167,114,32.27,High,63,91,Borderline,92,36.8,7.4,COPD,Yes,No,Acute Bronchitis,Active,Non-Vegetarian,Yes,No,Medium,High,Kidney Disease,Low-Carb Diet
+67,Female,182,52,19.18,Elevated,69,143,High,91,38.8,8.5,COPD,Yes,Yes,Cold,Sedentary,Keto,Yes,Yes,Medium,Moderate,Hypertensive Emergency,Low-Carb Diet
+26,Male,153,53,19.11,High,64,122,High,99,36.6,7.9,Sleep Apnea,Yes,Yes,Typhoid,Sedentary,Non-Vegetarian,Yes,No,Low,Low,Atherosclerosis,Low-Fat Diet
+69,Male,174,51,23.28,Elevated,67,189,Normal,91,36.9,4.9,Prediabetes,No,Yes,Fever,Moderate,Vegan,Yes,No,Low,Moderate,Hyperthyroidism,Gluten-Free Diet
+58,Male,151,85,23.42,Normal,102,125,Normal,90,38.2,9.9,Hypercholesterolemia,Yes,No,Pneumonia,Sedentary,Vegan,No,Yes,Medium,High,Kidney Disease,Anti-Inflammatory Diet
+30,Male,180,67,22.48,High,66,112,Borderline,93,37.9,4.9,Kidney Disease,Yes,No,Hypoglycemia Episode,Sedentary,Non-Vegetarian,Yes,Yes,High,Moderate,Hypothyroidism,Balanced Diet
+24,Female,158,83,24.43,Elevated,105,94,High,99,36.4,4.9,Migraine,Yes,Yes,Acute Bronchitis,Moderate,Vegetarian,No,No,High,Low,Atherosclerosis,Increase Fiber
+74,Male,190,102,31.87,Normal,75,148,High,96,37.1,8.5,Hypercholesterolemia,No,Yes,Stomach Ulcer,Active,Keto,Yes,No,Low,Moderate,Metabolic Syndrome,Low-Fat Diet
+28,Male,150,90,33.84,Elevated,61,126,Borderline,94,39.0,5.4,Heart Disease,No,No,COVID-19,Sedentary,Non-Vegetarian,Yes,No,High,Low,Heart Disease,Increase Fiber
+42,Female,176,78,24.56,Elevated,61,92,Borderline,92,37.0,4.7,Prediabetes,No,No,Cold,Sedentary,Non-Vegetarian,No,No,High,High,Stroke Risk,Reduce Sugar
+70,Male,191,61,32.58,Normal,119,133,Borderline,98,40.0,4.5,Diabetes,Yes,Yes,Stomach Ulcer,Moderate,Vegetarian,No,Yes,Medium,High,Metabolic Syndrome,Increase Fiber
+30,Male,150,78,32.16,Normal,116,185,Normal,97,36.5,9.0,COPD,No,No,Flu,Moderate,Non-Vegetarian,Yes,No,Low,Moderate,Arthritis,Mediterranean Diet
+43,Female,180,95,20.45,Normal,73,198,Borderline,94,35.5,7.0,Sleep Apnea,Yes,No,Acute Bronchitis,Moderate,Vegan,Yes,Yes,Medium,High,Hypothyroidism,Keto Diet
+50,Male,167,45,19.1,Normal,76,116,High,92,39.8,8.8,Obstructive Sleep Apnea,Yes,Yes,Urinary Tract Infection,Sedentary,Vegan,No,Yes,Low,Moderate,Heart Disease,High-Potassium Diet
+62,Male,172,106,21.83,Normal,88,94,Normal,91,39.4,4.1,Kidney Disease,Yes,Yes,Flu,Active,Vegan,No,No,High,High,Metabolic Syndrome,Keto Diet
+43,Female,181,105,30.29,Normal,63,192,High,94,35.6,5.6,Kidney Disease,Yes,No,Infection,Active,Vegan,No,Yes,High,High,Bradycardia,Anti-Inflammatory Diet
+55,Female,166,58,22.0,Normal,110,111,Normal,90,37.4,5.6,Kidney Disease,No,No,Urinary Tract Infection,Active,Vegan,No,Yes,Low,Low,Liver Cirrhosis,Increase Protein
+72,Male,171,69,28.2,Normal,66,170,Borderline,96,38.7,4.6,Hypertension,Yes,No,Respiratory Infection,Moderate,Vegetarian,No,Yes,High,Low,Hyperthyroidism,Low-Sodium Diet
+18,Female,163,103,31.05,High,99,113,Borderline,96,39.0,5.9,Peripheral Neuropathy,Yes,Yes,Respiratory Infection,Moderate,Non-Vegetarian,No,No,Medium,Low,Congestive Heart Failure,Increase Omega-3 Intake
+78,Female,188,54,24.9,Elevated,115,95,Normal,91,39.8,7.5,Diabetes,Yes,Yes,Cold,Moderate,Vegetarian,No,Yes,High,Moderate,Osteoporosis,Heart-Healthy Diet
+70,Male,179,113,30.21,Elevated,93,114,Borderline,98,38.4,8.1,Diabetes,No,No,Hypertensive Crisis,Active,Vegan,No,Yes,Medium,High,Arthritis,Increase Fiber
+46,Male,187,79,28.74,Elevated,115,82,Normal,98,38.2,5.7,Metabolic Syndrome,Yes,No,Cold,Active,Vegan,Yes,Yes,Medium,Moderate,Hyperthyroidism,Low-Carb Diet
+61,Male,172,76,33.05,Elevated,107,74,Borderline,96,39.4,8.3,Prediabetes,No,No,Pneumonia,Moderate,Vegan,No,No,High,Low,Obesity,DASH Diet
+61,Male,188,92,32.4,Elevated,112,149,High,97,35.8,7.1,Prediabetes,Yes,Yes,Respiratory Infection,Moderate,Non-Vegetarian,Yes,No,Low,Low,Tachycardia,Low-Carb Diet
+55,Male,196,59,33.49,High,63,126,Borderline,93,39.6,7.2,Obstructive Sleep Apnea,Yes,Yes,Dengue,Sedentary,Keto,Yes,No,Low,High,Arthritis,Gluten-Free Diet
+68,Male,174,68,27.92,Normal,110,134,Normal,91,38.8,5.5,Prediabetes,No,Yes,Ear Infection,Moderate,Keto,Yes,Yes,Medium,Low,Peripheral Artery Disease,Anti-Inflammatory Diet
+45,Female,188,61,24.94,Normal,94,95,Borderline,99,37.4,4.3,Hypertension,No,No,COVID-19,Moderate,Keto,No,Yes,Medium,Moderate,Peripheral Artery Disease,Plant-Based Diet
+53,Male,169,98,33.81,Elevated,98,112,Borderline,96,37.7,10.0,Metabolic Syndrome,Yes,Yes,Acute Bronchitis,Moderate,Vegan,Yes,No,Medium,Moderate,Diabetes,Low-Fat Diet
+37,Male,167,100,28.42,Normal,79,143,High,94,39.8,8.2,Hypertension,Yes,Yes,Food Poisoning,Active,Vegetarian,Yes,Yes,Low,Moderate,Heart Disease,Increase Omega-3 Intake
+71,Female,167,101,24.66,High,113,154,Borderline,99,39.0,4.6,Gout,Yes,No,Hypertensive Crisis,Sedentary,Non-Vegetarian,No,Yes,Low,Low,Metabolic Syndrome,Anti-Inflammatory Diet
+51,Female,158,119,23.3,Elevated,85,124,High,91,35.8,7.6,Sleep Apnea,Yes,Yes,Severe Headache,Moderate,Keto,No,No,High,Moderate,Obesity,High-Potassium Diet
+37,Female,158,95,24.71,Normal,110,144,High,92,39.4,8.1,Migraine,Yes,No,Flu,Moderate,Vegan,Yes,Yes,Medium,Moderate,Metabolic Syndrome,Increase Protein
+32,Female,186,49,25.81,High,80,88,High,94,35.7,8.0,Hypercholesterolemia,Yes,Yes,Pneumonia,Sedentary,Keto,Yes,Yes,Low,Moderate,Metabolic Syndrome,Balanced Diet
+34,Female,169,73,29.42,High,84,187,High,99,37.1,6.9,Hypercholesterolemia,No,No,Ear Infection,Active,Non-Vegetarian,No,No,Low,Moderate,Chronic Fatigue,Mediterranean Diet
+30,Female,156,56,31.86,High,102,141,High,92,39.0,8.7,Gout,Yes,Yes,Stomach Ulcer,Sedentary,Keto,No,No,Low,Moderate,Osteoporosis,Low-Carb Diet
+79,Female,191,119,27.67,Normal,85,159,High,93,39.9,7.6,Diabetes,No,Yes,Flu,Sedentary,Vegan,Yes,No,Medium,Moderate,Atherosclerosis,Low-Carb Diet
+24,Male,194,56,34.94,Elevated,82,151,Borderline,90,37.8,6.3,Hypertension,No,No,Respiratory Infection,Sedentary,Keto,Yes,Yes,High,High,Tachycardia,Keto Diet
+47,Male,184,92,26.49,Elevated,82,186,Normal,92,36.6,4.9,Peripheral Neuropathy,Yes,Yes,Severe Headache,Sedentary,Vegan,Yes,No,Low,High,Diabetes,Mediterranean Diet
+50,Male,158,110,25.48,Elevated,106,198,Borderline,95,35.8,6.0,Diabetes,Yes,Yes,Acute Bronchitis,Active,Vegetarian,No,Yes,Medium,High,Stroke Risk,Gluten-Free Diet
+37,Female,157,90,26.62,High,111,179,High,93,37.2,5.8,Arthritis,No,No,Hypoglycemia Episode,Sedentary,Keto,No,No,Medium,Low,Liver Cirrhosis,High-Potassium Diet
+29,Female,171,55,21.86,Normal,65,137,Normal,91,35.7,4.8,Kidney Disease,Yes,Yes,Infection,Active,Non-Vegetarian,No,No,High,Low,Kidney Disease,Increase Protein
+47,Female,181,65,31.26,Normal,111,83,High,97,38.1,5.7,Kidney Disease,No,No,Gastroenteritis,Moderate,Vegetarian,No,No,Low,Low,Anemia,Reduce Sugar
+62,Female,186,77,31.14,High,88,173,Normal,96,35.9,4.7,COPD,No,No,Flu,Moderate,Non-Vegetarian,No,Yes,High,High,Chronic Fatigue,Keto Diet
+32,Female,160,81,30.71,Elevated,71,173,Borderline,95,38.7,9.3,Obstructive Sleep Apnea,No,No,Respiratory Infection,Active,Keto,No,Yes,Medium,High,Hypertension,Mediterranean Diet
+30,Male,183,58,27.64,Elevated,101,110,High,96,39.4,7.7,Thyroid Disorder,No,No,Fever,Sedentary,Vegan,No,Yes,Medium,Moderate,Stroke Risk,DASH Diet
+57,Female,194,82,34.19,Normal,63,177,Normal,98,39.6,7.4,Heart Disease,No,Yes,Cold,Sedentary,Vegetarian,No,Yes,Low,Low,Osteoporosis,Low-Sodium Diet
+57,Female,165,64,23.59,High,105,173,High,97,38.3,9.6,Migraine,Yes,No,Dengue,Sedentary,Vegan,Yes,No,Low,Moderate,Diabetes,Mediterranean Diet
+61,Female,193,97,31.03,Normal,108,158,Normal,94,35.6,5.3,COPD,No,No,Acute Bronchitis,Active,Vegetarian,No,No,Low,Low,Heart Disease,High-Potassium Diet
+65,Male,156,114,28.63,High,99,83,Borderline,95,37.3,9.9,COPD,No,No,Stomach Ulcer,Active,Vegetarian,No,Yes,Medium,Moderate,Hyperthyroidism,DASH Diet
+68,Female,157,105,25.4,Normal,89,179,Borderline,91,38.9,6.6,Arthritis,Yes,Yes,Acute Bronchitis,Moderate,Non-Vegetarian,No,No,High,High,Anemia,Low-Fat Diet
+23,Male,193,78,34.62,Elevated,105,146,High,91,39.8,6.7,Metabolic Syndrome,No,Yes,Hypertensive Crisis,Active,Keto,No,No,High,Low,Stroke Risk,Low-Sodium Diet
+68,Female,168,111,23.18,High,71,175,High,94,37.8,4.8,Gout,Yes,No,Gastroenteritis,Moderate,Keto,No,No,Medium,High,Hypertensive Emergency,Heart-Healthy Diet
+36,Male,172,45,23.56,Normal,92,118,Borderline,92,37.2,9.8,Metabolic Syndrome,No,No,Stomach Ulcer,Moderate,Non-Vegetarian,No,Yes,Medium,Moderate,Heart Disease,Increase Fiber
+47,Female,191,56,29.38,High,77,169,Borderline,92,38.1,9.8,Peripheral Neuropathy,No,No,Infection,Moderate,Vegan,Yes,Yes,High,Low,Tachycardia,Low-Carb Diet
+20,Male,155,48,25.78,High,79,151,Normal,90,39.1,8.6,Kidney Disease,Yes,No,Acute Bronchitis,Moderate,Non-Vegetarian,Yes,Yes,Medium,High,Peripheral Artery Disease,Increase Fiber
+39,Female,185,109,24.45,Elevated,96,90,High,95,36.3,5.7,Atrial Fibrillation,No,No,Gastroenteritis,Active,Keto,Yes,No,High,Low,Liver Cirrhosis,Plant-Based Diet
+75,Female,169,84,24.24,High,68,92,Normal,93,38.1,6.9,Heart Disease,Yes,Yes,Fever,Moderate,Vegan,Yes,Yes,Medium,Moderate,Congestive Heart Failure,Heart-Healthy Diet
+77,Female,165,48,33.33,High,65,111,Borderline,98,37.0,4.8,Kidney Disease,No,Yes,Ear Infection,Sedentary,Vegan,No,No,Medium,High,Arthritis,Low-Fat Diet
+43,Male,191,81,23.92,High,115,183,Normal,90,37.3,8.8,Sleep Apnea,No,No,Fever,Moderate,Non-Vegetarian,Yes,No,Medium,Low,Hypertensive Emergency,Increase Protein
+53,Female,171,103,30.79,Normal,63,125,Borderline,98,38.5,6.4,Liver Disease,Yes,No,Gastroenteritis,Sedentary,Keto,Yes,No,Medium,Low,Liver Cirrhosis,Heart-Healthy Diet
+29,Male,164,60,25.47,Normal,79,176,High,90,39.6,5.5,Hypertension,Yes,Yes,Sinusitis,Active,Non-Vegetarian,No,Yes,Low,High,Peripheral Artery Disease,Balanced Diet
+26,Male,169,84,20.22,Elevated,67,116,High,90,36.5,9.7,Kidney Disease,Yes,No,Acute Bronchitis,Active,Non-Vegetarian,Yes,No,Low,Moderate,Hypothyroidism,Reduce Sugar
+34,Female,182,98,30.6,Normal,76,73,High,97,40.0,6.9,Arthritis,Yes,No,Sinusitis,Active,Non-Vegetarian,Yes,Yes,Medium,High,Hypothyroidism,Low-Carb Diet
+50,Male,163,89,25.67,Normal,97,175,Borderline,97,38.8,8.2,Asthma,Yes,Yes,Flu,Active,Vegetarian,No,No,Low,Moderate,Diabetes,High-Potassium Diet
+40,Female,182,53,21.56,Normal,72,94,Borderline,91,39.9,8.0,Migraine,No,Yes,Hypertensive Crisis,Moderate,Non-Vegetarian,No,Yes,Low,Moderate,Hypertensive Emergency,Low-Fat Diet
+59,Female,162,104,26.9,Normal,115,143,Borderline,95,39.1,8.1,Prediabetes,Yes,Yes,Hypoglycemia Episode,Active,Vegetarian,Yes,Yes,High,High,Peripheral Artery Disease,High-Potassium Diet
+22,Female,158,99,28.61,Normal,106,175,Borderline,90,38.2,5.4,Prediabetes,Yes,No,Flu,Moderate,Vegetarian,Yes,Yes,High,Moderate,Heart Disease,Heart-Healthy Diet
+76,Female,168,76,25.17,High,112,157,Borderline,93,37.8,4.3,Hypertension,No,Yes,Fever,Active,Vegan,No,Yes,Low,Moderate,Tachycardia,Gluten-Free Diet
+71,Female,190,83,30.55,Normal,96,131,High,98,37.6,9.9,Atrial Fibrillation,Yes,Yes,Stomach Ulcer,Sedentary,Keto,Yes,No,Medium,Low,Hypothyroidism,Mediterranean Diet
+74,Male,162,105,23.56,High,95,168,Normal,90,37.0,9.6,Prediabetes,Yes,No,Typhoid,Moderate,Non-Vegetarian,Yes,No,High,Moderate,Hyperthyroidism,Heart-Healthy Diet
+49,Male,173,102,34.02,Normal,82,170,Normal,95,35.6,9.7,Diabetes,No,Yes,Hypertensive Crisis,Active,Vegan,No,No,High,Low,Atherosclerosis,DASH Diet
+34,Female,173,86,33.31,Elevated,64,150,High,96,38.7,8.1,Metabolic Syndrome,No,Yes,Respiratory Infection,Active,Non-Vegetarian,Yes,Yes,Low,Low,COPD,High-Potassium Diet
+33,Male,182,96,20.31,High,73,177,High,93,36.9,6.9,Atrial Fibrillation,No,Yes,Dengue,Active,Vegan,No,No,Low,High,Peripheral Artery Disease,Low-Carb Diet
+58,Female,188,58,21.98,Elevated,66,185,High,90,37.4,8.8,Kidney Disease,Yes,Yes,Pneumonia,Moderate,Vegan,Yes,Yes,Medium,High,Bradycardia,Low-Carb Diet
+18,Male,175,47,23.59,High,77,72,Borderline,94,39.0,7.0,Diabetes,No,No,Hypoglycemia Episode,Sedentary,Vegetarian,No,No,Low,High,Tachycardia,Mediterranean Diet
+19,Male,198,103,22.16,Elevated,118,161,Borderline,93,39.3,6.4,Kidney Disease,No,No,Typhoid,Moderate,Vegetarian,Yes,Yes,Medium,High,Obesity,Balanced Diet
+30,Female,180,51,20.86,Normal,93,145,Borderline,93,36.3,5.2,Prediabetes,No,Yes,Urinary Tract Infection,Active,Keto,No,No,Low,Moderate,Atherosclerosis,Low-Sodium Diet
+53,Female,195,104,30.31,Normal,84,80,High,97,39.2,6.7,Metabolic Syndrome,Yes,No,Acute Bronchitis,Sedentary,Vegetarian,No,No,Low,High,Anemia,DASH Diet
+77,Male,172,83,21.67,Normal,62,187,High,92,37.4,8.2,Migraine,Yes,Yes,Sinusitis,Moderate,Non-Vegetarian,Yes,Yes,High,Low,Kidney Disease,Low-Glycemic Diet
+58,Female,172,96,27.97,Elevated,75,184,Borderline,92,38.3,7.5,Diabetes,Yes,Yes,Sinusitis,Sedentary,Vegetarian,No,No,Medium,Moderate,Congestive Heart Failure,Heart-Healthy Diet
+39,Female,177,67,20.17,Normal,82,114,High,97,36.4,9.0,Heart Disease,No,No,Bronchitis,Moderate,Keto,No,Yes,High,High,Hypertensive Emergency,Low-Carb Diet
+73,Female,191,99,31.26,Normal,72,76,Normal,94,36.6,7.7,Obstructive Sleep Apnea,Yes,No,Sinusitis,Active,Vegetarian,Yes,Yes,Medium,High,Heart Disease,Low-Glycemic Diet
+76,Male,196,93,20.31,Elevated,72,107,Normal,96,39.8,6.5,Gout,No,No,Hypoglycemia Episode,Active,Vegetarian,No,Yes,Medium,High,Congestive Heart Failure,Low-Fat Diet
+62,Female,172,96,28.53,High,80,86,Normal,94,39.1,6.3,Thyroid Disorder,Yes,No,Dengue,Active,Keto,Yes,Yes,Medium,Low,Atherosclerosis,Keto Diet
+43,Female,175,97,30.53,High,71,119,Normal,90,38.8,8.9,Metabolic Syndrome,No,Yes,Hypoglycemia Episode,Sedentary,Non-Vegetarian,Yes,Yes,High,High,Arthritis,Low-Sodium Diet
+47,Female,190,112,33.11,Elevated,65,126,Normal,90,37.9,6.0,Hypertension,No,No,Sinusitis,Active,Non-Vegetarian,Yes,No,Medium,High,Obesity,Anti-Inflammatory Diet
+30,Male,158,93,30.92,Elevated,84,193,Normal,92,36.5,9.8,Peripheral Neuropathy,Yes,Yes,Pneumonia,Sedentary,Vegetarian,No,Yes,Medium,Low,Peripheral Artery Disease,Keto Diet
+29,Female,195,47,25.34,Normal,69,178,Borderline,95,37.3,8.9,COPD,No,No,Acute Bronchitis,Active,Vegan,No,No,Low,Low,Liver Cirrhosis,Anti-Inflammatory Diet
+72,Female,196,103,29.94,High,61,101,Normal,91,37.0,7.9,Kidney Disease,No,Yes,Respiratory Infection,Sedentary,Non-Vegetarian,No,Yes,Low,High,COPD,Plant-Based Diet
+62,Male,192,101,20.89,Elevated,74,97,High,97,39.1,5.7,Hypercholesterolemia,Yes,Yes,Respiratory Infection,Sedentary,Keto,No,No,High,Moderate,Peripheral Artery Disease,Gluten-Free Diet
+35,Male,197,112,31.82,High,105,174,High,96,36.2,6.8,Arthritis,Yes,No,Dengue,Active,Non-Vegetarian,Yes,No,Medium,Moderate,Kidney Disease,DASH Diet
+52,Male,164,49,20.66,High,76,132,High,98,39.5,5.1,Kidney Disease,Yes,No,Bronchitis,Active,Vegetarian,No,Yes,Low,High,Hypothyroidism,DASH Diet
+44,Male,160,105,18.87,Elevated,91,151,Normal,92,36.4,6.6,Hypertension,No,No,Food Poisoning,Sedentary,Vegetarian,Yes,No,Medium,Moderate,Peripheral Artery Disease,Low-Glycemic Diet
+33,Male,197,113,27.95,Normal,103,194,Normal,99,37.4,9.7,Heart Disease,Yes,Yes,Urinary Tract Infection,Moderate,Vegan,Yes,Yes,High,High,Chronic Fatigue,DASH Diet
+72,Female,176,62,31.69,High,101,158,Normal,98,39.5,4.5,Prediabetes,No,Yes,Hypoglycemia Episode,Moderate,Keto,Yes,Yes,High,Moderate,Metabolic Syndrome,Low-Carb Diet
+50,Female,161,49,20.96,Normal,71,86,Borderline,93,38.6,9.0,Liver Disease,No,No,Fever,Moderate,Keto,Yes,Yes,Medium,Moderate,Chronic Fatigue,Low-Fat Diet
+18,Female,186,49,24.87,Elevated,65,102,High,95,36.3,9.9,Liver Disease,No,No,Urinary Tract Infection,Sedentary,Vegan,No,No,Low,Low,Chronic Fatigue,Gluten-Free Diet
+25,Female,153,50,29.14,Normal,69,191,High,92,39.0,4.5,Diabetes,Yes,Yes,Respiratory Infection,Sedentary,Vegetarian,Yes,No,Medium,Low,Hypothyroidism,Plant-Based Diet
+54,Male,168,105,20.99,Elevated,69,171,Normal,93,37.4,7.3,Metabolic Syndrome,Yes,No,Severe Headache,Active,Keto,Yes,Yes,Medium,High,Hypertensive Emergency,Low-Carb Diet
+49,Male,159,62,28.57,Elevated,80,93,Normal,94,39.4,7.0,Diabetes,No,No,Bronchitis,Active,Keto,Yes,Yes,High,Moderate,Arthritis,Mediterranean Diet
+51,Male,166,98,29.12,Elevated,114,163,Borderline,98,37.9,9.8,Hypertension,No,Yes,Food Poisoning,Active,Keto,Yes,No,High,Low,Stroke Risk,Keto Diet
+41,Female,196,66,33.9,Normal,94,103,Normal,94,38.8,5.4,Metabolic Syndrome,Yes,No,Stomach Ulcer,Active,Non-Vegetarian,Yes,Yes,High,Moderate,Peripheral Artery Disease,Gluten-Free Diet
+45,Female,188,96,32.57,High,62,79,Borderline,97,38.4,5.1,COPD,Yes,Yes,Fever,Sedentary,Vegetarian,Yes,No,Medium,Low,COPD,Plant-Based Diet
+60,Male,178,56,23.7,High,92,79,High,94,37.4,6.9,Thyroid Disorder,Yes,Yes,Flu,Moderate,Non-Vegetarian,Yes,Yes,High,Moderate,Heart Disease,Gluten-Free Diet
+34,Male,161,55,34.68,High,67,178,Normal,90,38.6,8.0,Hypertension,Yes,Yes,Sinusitis,Moderate,Non-Vegetarian,Yes,Yes,Medium,Low,Stroke Risk,DASH Diet
+20,Male,182,54,21.28,High,110,106,Borderline,95,38.4,9.2,Liver Disease,Yes,Yes,Ear Infection,Sedentary,Vegetarian,Yes,No,Medium,Low,Liver Cirrhosis,Plant-Based Diet
+52,Male,150,117,28.5,High,101,85,Borderline,93,38.6,6.4,Arthritis,No,Yes,Urinary Tract Infection,Moderate,Vegan,No,No,Low,Moderate,Anemia,Low-Carb Diet
+54,Female,166,45,24.41,High,106,91,Borderline,97,36.1,4.1,Peripheral Neuropathy,No,Yes,Severe Headache,Active,Vegan,Yes,Yes,Medium,Moderate,Congestive Heart Failure,Reduce Sugar
+53,Male,151,82,22.46,High,83,133,Borderline,92,38.4,7.5,Migraine,No,No,Flu,Moderate,Keto,Yes,No,High,Low,Atherosclerosis,High-Potassium Diet
+27,Male,189,98,21.67,Normal,111,94,Borderline,95,39.1,9.9,Kidney Disease,Yes,No,Sinusitis,Moderate,Keto,Yes,Yes,Medium,Low,COPD,Reduce Sugar
+47,Female,186,119,30.68,High,73,159,High,98,37.8,4.6,Heart Disease,Yes,Yes,Fever,Sedentary,Keto,Yes,No,Medium,Moderate,Chronic Fatigue,High-Potassium Diet
+34,Female,197,99,23.64,Elevated,61,157,Normal,97,38.7,6.5,Sleep Apnea,No,No,Cold,Sedentary,Vegan,No,No,High,Moderate,Obesity,Keto Diet
+25,Male,182,84,20.36,Elevated,91,141,High,94,37.4,4.7,Peripheral Neuropathy,No,No,Respiratory Infection,Sedentary,Keto,No,Yes,Medium,High,Osteoporosis,High-Calcium Diet
+54,Female,180,100,31.45,Normal,63,194,Normal,98,36.8,4.5,Metabolic Syndrome,Yes,Yes,Food Poisoning,Active,Keto,No,No,High,Low,Atherosclerosis,Gluten-Free Diet
+47,Male,195,69,21.21,High,65,149,High,98,36.6,7.0,Peripheral Neuropathy,Yes,Yes,Cold,Sedentary,Non-Vegetarian,No,Yes,Low,High,Hypothyroidism,Plant-Based Diet
+76,Male,170,99,19.67,Normal,116,99,High,98,37.3,4.9,Hypertension,Yes,Yes,Sinusitis,Sedentary,Keto,No,Yes,High,High,Obesity,High-Potassium Diet
+69,Female,176,91,29.7,High,61,87,Borderline,99,38.3,7.3,Metabolic Syndrome,No,No,Cold,Active,Non-Vegetarian,Yes,No,Low,Low,Anemia,Keto Diet
+31,Male,157,113,22.59,High,112,155,High,91,35.7,8.8,Diabetes,Yes,Yes,Bronchitis,Active,Vegetarian,No,Yes,Low,Low,Hypertension,Low-Sodium Diet
+74,Male,167,110,31.04,Normal,106,110,Normal,94,40.0,9.9,Prediabetes,No,Yes,Flu,Moderate,Vegan,Yes,Yes,Medium,High,Tachycardia,High-Potassium Diet
+59,Male,199,53,29.81,Elevated,60,72,Normal,91,37.9,9.4,Asthma,No,Yes,Fever,Sedentary,Non-Vegetarian,No,No,High,Low,Obesity,Anti-Inflammatory Diet
+24,Male,173,50,20.51,Normal,84,147,High,97,37.8,8.7,Prediabetes,No,Yes,Hypertensive Crisis,Sedentary,Vegetarian,No,Yes,Low,High,Stroke Risk,Heart-Healthy Diet
+25,Male,173,87,30.66,Normal,89,196,High,91,39.0,9.0,Diabetes,No,Yes,Pneumonia,Active,Non-Vegetarian,Yes,No,Low,High,COPD,Increase Omega-3 Intake
+33,Female,195,66,29.8,High,109,175,High,95,37.3,8.0,Kidney Disease,No,Yes,Bronchitis,Sedentary,Keto,No,Yes,Low,High,Congestive Heart Failure,Low-Fat Diet
+40,Female,152,107,31.12,Normal,60,184,High,91,39.0,8.9,Hypertension,No,Yes,Flu,Active,Non-Vegetarian,Yes,Yes,Medium,High,Metabolic Syndrome,Keto Diet
+53,Female,184,94,23.05,Elevated,63,198,Normal,93,36.9,5.1,Hypertension,Yes,Yes,Respiratory Infection,Moderate,Keto,No,No,Low,High,Hyperthyroidism,Low-Fat Diet
+76,Male,153,88,33.31,Normal,96,83,Borderline,99,38.1,8.8,Kidney Disease,No,Yes,Respiratory Infection,Active,Non-Vegetarian,No,No,Medium,High,Sleep Apnea,Plant-Based Diet
+68,Female,160,105,33.32,Normal,76,188,Normal,94,38.9,7.6,Thyroid Disorder,Yes,No,Respiratory Infection,Moderate,Vegan,Yes,No,Low,Low,Heart Disease,Increase Fiber
+66,Male,171,89,27.56,Elevated,73,162,High,93,36.7,8.0,Migraine,No,Yes,Pneumonia,Active,Vegetarian,No,No,High,Low,Atherosclerosis,Heart-Healthy Diet
+41,Male,176,88,29.54,Normal,101,83,Normal,93,38.5,9.2,Hypercholesterolemia,No,Yes,Typhoid,Sedentary,Vegan,No,No,Medium,Low,Hypothyroidism,Reduce Sugar
+26,Male,190,68,25.12,Elevated,118,147,Borderline,99,39.0,9.5,COPD,Yes,No,Urinary Tract Infection,Moderate,Vegetarian,No,Yes,Medium,Moderate,Obesity,Low-Glycemic Diet
+76,Male,189,105,22.92,Elevated,97,182,Borderline,91,36.5,5.2,Hypertension,Yes,No,Food Poisoning,Sedentary,Non-Vegetarian,No,No,Low,High,Hypertensive Emergency,Low-Glycemic Diet
+66,Female,175,104,30.2,High,110,110,Normal,96,37.2,4.1,Hypercholesterolemia,Yes,No,Bronchitis,Sedentary,Vegan,No,Yes,Low,Moderate,Osteoporosis,Keto Diet
+50,Male,181,89,29.99,High,112,164,Borderline,93,37.5,5.7,Kidney Disease,No,Yes,Dengue,Active,Vegan,Yes,No,Low,Moderate,Stroke Risk,Increase Fiber
+28,Female,178,62,30.29,Normal,112,154,Normal,93,36.2,9.9,Sleep Apnea,Yes,Yes,Stomach Ulcer,Sedentary,Keto,No,No,Low,High,Hyperthyroidism,Anti-Inflammatory Diet
+61,Female,192,92,34.91,High,80,126,High,90,35.6,4.2,Thyroid Disorder,Yes,Yes,Stomach Ulcer,Sedentary,Vegan,No,Yes,High,Moderate,Obesity,DASH Diet
+52,Male,152,64,27.8,Normal,83,121,High,95,35.6,6.6,Peripheral Neuropathy,No,No,Fever,Sedentary,Keto,No,No,Low,High,Atherosclerosis,Anti-Inflammatory Diet
+32,Female,157,55,33.44,Normal,93,164,Borderline,99,37.2,8.9,Heart Disease,No,Yes,Ear Infection,Moderate,Keto,Yes,Yes,Low,Moderate,Chronic Fatigue,Low-Carb Diet
+33,Male,153,108,22.4,High,97,72,Normal,92,39.1,9.1,Atrial Fibrillation,No,No,Stomach Ulcer,Sedentary,Non-Vegetarian,No,No,High,Moderate,Obesity,Keto Diet
+76,Female,169,57,25.29,High,64,193,Borderline,94,38.7,7.0,Atrial Fibrillation,No,No,Food Poisoning,Active,Non-Vegetarian,Yes,No,Medium,High,Hypertension,DASH Diet
+25,Female,187,79,27.21,Normal,61,149,High,99,38.6,7.7,Sleep Apnea,Yes,No,Ear Infection,Active,Vegan,No,No,High,Moderate,Arthritis,Low-Carb Diet
+43,Female,151,110,33.59,High,118,196,Borderline,95,37.0,4.9,Liver Disease,Yes,Yes,Flu,Active,Vegetarian,No,No,Medium,Low,Sleep Apnea,High-Calcium Diet
+77,Male,195,100,22.33,High,118,176,Borderline,94,36.2,7.6,Prediabetes,No,Yes,Dengue,Sedentary,Keto,No,Yes,Medium,Moderate,Atherosclerosis,Low-Fat Diet
+63,Male,198,95,19.06,High,80,144,Normal,97,38.3,7.0,Asthma,Yes,Yes,Food Poisoning,Sedentary,Vegan,Yes,Yes,Low,High,Bradycardia,High-Calcium Diet
+67,Male,191,87,24.54,Elevated,94,157,Borderline,96,39.9,5.1,Diabetes,Yes,Yes,Urinary Tract Infection,Sedentary,Vegan,No,No,Medium,High,Anemia,High-Potassium Diet
+39,Female,190,88,33.21,Elevated,91,179,High,91,39.6,6.4,Kidney Disease,No,Yes,Respiratory Infection,Active,Vegan,No,No,Medium,Low,Chronic Fatigue,Reduce Sugar
+69,Male,175,118,32.93,High,100,120,Borderline,90,37.8,6.3,Asthma,Yes,No,Severe Headache,Active,Vegan,Yes,Yes,Low,Low,COPD,Plant-Based Diet
+67,Male,172,98,24.4,Elevated,83,72,Borderline,99,35.9,9.4,Kidney Disease,Yes,No,Hypoglycemia Episode,Sedentary,Vegan,Yes,Yes,Medium,High,Tachycardia,Mediterranean Diet
+25,Female,176,57,34.34,Elevated,87,74,Normal,96,38.6,10.0,Obstructive Sleep Apnea,Yes,No,Respiratory Infection,Moderate,Vegetarian,No,No,High,Moderate,Diabetes,Gluten-Free Diet
+53,Male,184,61,21.01,High,90,162,High,92,36.1,5.8,Prediabetes,Yes,No,Acute Bronchitis,Moderate,Non-Vegetarian,No,Yes,High,High,Liver Cirrhosis,Gluten-Free Diet
+73,Male,164,60,24.49,Normal,83,135,Normal,97,38.4,8.6,Arthritis,Yes,No,Typhoid,Moderate,Non-Vegetarian,Yes,Yes,Medium,Low,Tachycardia,Keto Diet
+23,Male,179,85,21.52,High,81,98,High,92,36.2,6.5,Migraine,Yes,No,Acute Bronchitis,Sedentary,Vegan,No,No,High,Low,Peripheral Artery Disease,High-Potassium Diet
+79,Female,166,58,33.93,Normal,81,131,Normal,96,39.5,4.6,Migraine,No,Yes,Gastroenteritis,Moderate,Vegetarian,Yes,Yes,Medium,Moderate,Tachycardia,Low-Carb Diet
+47,Female,181,65,31.26,Normal,111,83,High,97,38.1,5.7,Sleep Apnea,No,No,Bronchitis,Moderate,Vegetarian,No,No,Low,Low,Hypothyroidism,High-Potassium Diet
+26,Male,172,88,19.77,Elevated,98,143,High,93,36.1,8.4,Thyroid Disorder,Yes,No,Respiratory Infection,Active,Keto,No,No,High,High,Heart Disease,Low-Carb Diet
+76,Male,196,93,20.31,Elevated,72,107,Normal,96,39.8,6.5,Hypertension,No,No,Bronchitis,Active,Vegetarian,No,Yes,Medium,High,Heart Disease,Increase Omega-3 Intake
+34,Female,199,58,19.06,High,76,188,Normal,93,38.6,6.0,Obstructive Sleep Apnea,No,No,Infection,Sedentary,Non-Vegetarian,No,No,Medium,High,Liver Cirrhosis,DASH Diet
+76,Male,189,105,22.92,Elevated,97,182,Borderline,91,36.5,5.2,Kidney Disease,Yes,No,COVID-19,Sedentary,Non-Vegetarian,No,No,Low,High,Hypertension,Low-Sodium Diet
+41,Male,165,60,33.6,Normal,93,141,High,98,36.9,6.2,COPD,Yes,Yes,Urinary Tract Infection,Active,Vegetarian,Yes,No,Low,Low,COPD,Increase Omega-3 Intake
+60,Male,191,115,30.92,Normal,88,73,High,91,38.6,9.4,Thyroid Disorder,Yes,No,Sinusitis,Moderate,Non-Vegetarian,No,No,Low,Low,Hypertensive Emergency,Reduce Sugar
+18,Male,175,47,23.59,High,77,72,Borderline,94,39.0,7.0,Heart Disease,No,No,Typhoid,Sedentary,Vegetarian,No,No,Low,High,Chronic Fatigue,Keto Diet
+24,Female,190,50,33.4,Normal,85,70,Borderline,94,39.0,6.8,Kidney Disease,No,No,Flu,Moderate,Vegetarian,Yes,No,Low,Low,Obesity,Balanced Diet
+49,Male,159,62,28.57,Elevated,80,93,Normal,94,39.4,7.0,Obstructive Sleep Apnea,No,No,Food Poisoning,Active,Keto,Yes,Yes,High,Moderate,Hypothyroidism,Heart-Healthy Diet
+69,Male,174,51,23.28,Elevated,67,189,Normal,91,36.9,4.9,Heart Disease,No,Yes,Urinary Tract Infection,Moderate,Vegan,Yes,No,Low,Moderate,Congestive Heart Failure,Heart-Healthy Diet
+72,Female,176,62,31.69,High,101,158,Normal,98,39.5,4.5,Metabolic Syndrome,No,Yes,Hypoglycemia Episode,Moderate,Keto,Yes,Yes,High,Moderate,Obesity,Increase Fiber
+46,Male,151,58,32.25,High,109,70,Borderline,93,39.2,6.3,Liver Disease,No,No,Gastroenteritis,Sedentary,Non-Vegetarian,Yes,Yes,High,Moderate,Hyperthyroidism,Low-Carb Diet
+69,Female,176,91,29.7,High,61,87,Borderline,99,38.3,7.3,Gout,No,No,Flu,Active,Non-Vegetarian,Yes,No,Low,Low,Peripheral Artery Disease,Low-Sodium Diet
+21,Male,153,91,29.22,High,96,148,Normal,90,35.7,6.8,Obstructive Sleep Apnea,No,No,Hypertensive Crisis,Active,Vegetarian,Yes,Yes,High,High,Hypertension,High-Potassium Diet
+23,Female,176,69,33.77,High,60,134,High,99,36.7,6.9,Obstructive Sleep Apnea,No,Yes,Typhoid,Active,Vegan,Yes,Yes,Medium,High,COPD,Low-Carb Diet
+47,Female,191,56,29.38,High,77,169,Borderline,92,38.1,9.8,Atrial Fibrillation,No,No,Food Poisoning,Moderate,Vegan,Yes,Yes,High,Low,Bradycardia,Heart-Healthy Diet
+79,Female,191,119,27.67,Normal,85,159,High,93,39.9,7.6,Obstructive Sleep Apnea,No,Yes,Respiratory Infection,Sedentary,Vegan,Yes,No,Medium,Moderate,Metabolic Syndrome,DASH Diet
+56,Female,165,102,26.37,Elevated,92,160,Borderline,99,38.8,7.7,Obstructive Sleep Apnea,No,No,Infection,Active,Keto,Yes,Yes,Low,High,Hyperthyroidism,Low-Sodium Diet
+34,Female,169,73,29.42,High,84,187,High,99,37.1,6.9,Liver Disease,No,No,Hypertensive Crisis,Active,Non-Vegetarian,No,No,Low,Moderate,Hypertensive Emergency,Increase Omega-3 Intake
+76,Female,197,116,29.22,Normal,119,151,Normal,91,37.0,9.8,Arthritis,No,Yes,Severe Headache,Moderate,Vegan,No,No,High,Moderate,Kidney Disease,Increase Protein
+28,Female,178,62,30.29,Normal,112,154,Normal,93,36.2,9.9,Prediabetes,Yes,Yes,Bronchitis,Sedentary,Keto,No,No,Low,High,Tachycardia,Gluten-Free Diet
+74,Female,166,90,21.34,Elevated,114,162,Normal,98,36.3,4.3,Heart Disease,Yes,Yes,Ear Infection,Active,Non-Vegetarian,Yes,No,Medium,Low,Heart Disease,Gluten-Free Diet
+67,Female,174,65,27.68,Normal,97,87,Borderline,95,38.5,6.9,Diabetes,Yes,No,Gastroenteritis,Sedentary,Non-Vegetarian,No,No,Low,Moderate,COPD,Heart-Healthy Diet
+69,Male,175,68,34.3,Elevated,82,152,High,90,38.2,4.3,Kidney Disease,No,No,Hypertensive Crisis,Sedentary,Vegetarian,No,Yes,Low,High,Kidney Disease,Balanced Diet
+29,Male,179,104,19.21,Elevated,62,118,Normal,98,38.6,4.1,Asthma,Yes,No,Gastroenteritis,Moderate,Vegetarian,No,Yes,Low,Low,Diabetes,Increase Omega-3 Intake
+69,Male,173,67,32.0,Normal,67,80,High,91,36.9,6.7,Metabolic Syndrome,No,No,Infection,Active,Vegetarian,Yes,No,Low,Moderate,Tachycardia,Increase Fiber
+43,Male,173,119,27.03,High,76,128,Borderline,92,35.9,7.6,Sleep Apnea,Yes,Yes,Sinusitis,Active,Non-Vegetarian,No,Yes,Low,Low,Diabetes,Plant-Based Diet
+38,Male,197,90,26.37,High,101,142,Normal,94,36.1,7.8,Hypertension,Yes,No,Severe Headache,Active,Keto,Yes,Yes,Medium,Low,Osteoporosis,High-Potassium Diet
+26,Female,196,47,32.55,Normal,104,180,Borderline,92,38.4,4.5,Atrial Fibrillation,No,Yes,Stomach Ulcer,Moderate,Vegan,Yes,Yes,Medium,Low,Liver Cirrhosis,High-Potassium Diet
+62,Male,192,101,20.89,Elevated,74,97,High,97,39.1,5.7,Thyroid Disorder,Yes,Yes,Pneumonia,Sedentary,Keto,No,No,High,Moderate,Diabetes,Low-Glycemic Diet
+75,Female,157,50,18.64,Elevated,70,80,Normal,97,39.1,8.5,Diabetes,Yes,Yes,Ear Infection,Active,Keto,Yes,Yes,High,Moderate,Stroke Risk,Gluten-Free Diet
+50,Male,164,99,34.97,Elevated,90,140,Borderline,93,37.7,5.7,Liver Disease,Yes,No,Pneumonia,Sedentary,Vegetarian,Yes,Yes,Medium,Moderate,Hypertensive Emergency,Gluten-Free Diet
+60,Male,194,59,24.96,Normal,89,151,High,98,36.7,7.3,Liver Disease,No,Yes,Dengue,Moderate,Keto,Yes,No,High,High,Stroke Risk,Anti-Inflammatory Diet
+76,Male,159,112,26.64,Normal,114,125,Borderline,92,36.6,9.3,Kidney Disease,No,Yes,Sinusitis,Moderate,Vegan,No,No,Low,Moderate,Arthritis,Low-Sodium Diet
+28,Male,196,95,23.18,Normal,96,129,Borderline,99,39.8,4.9,Sleep Apnea,Yes,Yes,Sinusitis,Sedentary,Non-Vegetarian,No,Yes,Medium,Low,Atherosclerosis,Reduce Sugar
+24,Male,168,63,19.7,Normal,60,174,Normal,93,39.2,7.5,Liver Disease,Yes,Yes,Acute Bronchitis,Active,Vegan,No,Yes,High,Low,Anemia,Anti-Inflammatory Diet
+68,Male,161,66,20.0,Elevated,72,143,Normal,95,37.8,7.7,Prediabetes,Yes,No,Typhoid,Active,Keto,No,Yes,Low,High,Heart Disease,Increase Protein
+34,Female,179,90,32.87,Normal,115,84,Borderline,90,38.6,6.0,Peripheral Neuropathy,No,Yes,Infection,Active,Non-Vegetarian,No,Yes,High,Low,Liver Cirrhosis,Mediterranean Diet
+57,Male,180,113,23.28,High,79,120,Normal,95,35.7,5.2,Thyroid Disorder,No,Yes,Stomach Ulcer,Active,Vegetarian,Yes,Yes,Medium,High,Hyperthyroidism,Gluten-Free Diet
+23,Female,154,72,27.17,Normal,101,147,High,92,37.1,5.3,Liver Disease,Yes,Yes,Ear Infection,Active,Keto,Yes,Yes,Medium,High,Sleep Apnea,Heart-Healthy Diet
+26,Female,158,92,32.87,Elevated,69,134,High,91,38.2,4.6,Obstructive Sleep Apnea,No,No,Gastroenteritis,Sedentary,Keto,No,Yes,High,High,Tachycardia,Increase Fiber
+21,Male,174,59,19.19,Normal,95,111,High,95,36.1,5.3,Hypercholesterolemia,Yes,No,Infection,Sedentary,Vegan,No,No,High,High,Hypothyroidism,Mediterranean Diet
+31,Male,178,100,26.47,High,63,148,Borderline,94,39.5,7.0,COPD,Yes,No,Hypertensive Crisis,Moderate,Vegan,No,Yes,Low,Moderate,Tachycardia,Keto Diet
+60,Male,176,103,24.05,Elevated,68,79,Borderline,94,37.0,5.9,Arthritis,No,Yes,Typhoid,Sedentary,Vegetarian,No,No,High,Low,Obesity,Low-Glycemic Diet
+24,Male,173,50,20.51,Normal,84,147,High,97,37.8,8.7,Migraine,No,Yes,Flu,Sedentary,Vegetarian,No,Yes,Low,High,Peripheral Artery Disease,High-Potassium Diet
+24,Male,168,63,19.7,Normal,60,174,Normal,93,39.2,7.5,Arthritis,Yes,Yes,Cold,Active,Vegan,No,Yes,High,Low,Stroke Risk,Mediterranean Diet
+22,Male,171,51,24.14,Elevated,108,80,High,96,39.1,8.3,Prediabetes,Yes,No,Hypertensive Crisis,Sedentary,Non-Vegetarian,Yes,Yes,Medium,Moderate,Sleep Apnea,Low-Fat Diet
+58,Male,156,105,28.9,Normal,97,75,Normal,97,38.4,4.4,Hypertension,Yes,No,Pneumonia,Active,Keto,Yes,Yes,Medium,Moderate,COPD,Low-Carb Diet
+60,Female,186,57,32.57,Normal,74,170,Borderline,92,37.9,4.0,Asthma,Yes,No,Respiratory Infection,Moderate,Vegan,Yes,No,Medium,Moderate,Tachycardia,Increase Fiber
+33,Male,197,113,27.95,Normal,103,194,Normal,99,37.4,9.7,Atrial Fibrillation,Yes,Yes,Pneumonia,Moderate,Vegan,Yes,Yes,High,High,Stroke Risk,High-Potassium Diet
+27,Female,167,116,25.76,Normal,82,97,Borderline,92,36.3,9.8,Metabolic Syndrome,Yes,No,Cold,Active,Keto,Yes,Yes,High,Low,Hypertensive Emergency,Keto Diet
+72,Female,176,62,31.69,High,101,158,Normal,98,39.5,4.5,Kidney Disease,No,Yes,Bronchitis,Moderate,Keto,Yes,Yes,High,Moderate,Hypertension,Low-Glycemic Diet
+66,Female,194,50,26.37,Elevated,117,80,Normal,93,39.1,9.9,Heart Disease,Yes,No,COVID-19,Active,Vegetarian,No,Yes,Medium,Low,Stroke Risk,Gluten-Free Diet
+37,Female,158,95,24.71,Normal,110,144,High,92,39.4,8.1,Hypercholesterolemia,Yes,No,Dengue,Moderate,Vegan,Yes,Yes,Medium,Moderate,Heart Disease,Balanced Diet
+27,Female,150,94,27.67,High,111,99,Normal,99,37.2,6.9,Kidney Disease,Yes,No,Hypertensive Crisis,Active,Vegetarian,No,Yes,Medium,Low,COPD,High-Calcium Diet
+43,Female,151,110,33.59,High,118,196,Borderline,95,37.0,4.9,Peripheral Neuropathy,Yes,Yes,Dengue,Active,Vegetarian,No,No,Medium,Low,Anemia,Increase Protein
+29,Female,195,47,25.34,Normal,69,178,Borderline,95,37.3,8.9,Hypercholesterolemia,No,No,Stomach Ulcer,Active,Vegan,No,No,Low,Low,Obesity,Heart-Healthy Diet
+74,Male,153,118,34.42,Elevated,115,95,Borderline,93,37.9,9.4,Kidney Disease,No,Yes,Cold,Sedentary,Vegetarian,Yes,No,Medium,High,Anemia,Increase Omega-3 Intake
+56,Male,162,119,31.73,Elevated,111,182,Borderline,98,38.6,5.9,Thyroid Disorder,Yes,Yes,Fever,Moderate,Vegan,No,No,Medium,High,Diabetes,High-Potassium Diet
+21,Female,163,74,23.91,Elevated,110,155,High,96,36.3,8.1,Peripheral Neuropathy,Yes,Yes,Cold,Sedentary,Vegetarian,Yes,Yes,Low,Low,Stroke Risk,Mediterranean Diet
+69,Male,173,67,32.0,Normal,67,80,High,91,36.9,6.7,Asthma,No,No,Acute Bronchitis,Active,Vegetarian,Yes,No,Low,Moderate,Hypertension,Gluten-Free Diet
+69,Female,176,91,29.7,High,61,87,Borderline,99,38.3,7.3,Liver Disease,No,No,Stomach Ulcer,Active,Non-Vegetarian,Yes,No,Low,Low,Liver Cirrhosis,Increase Omega-3 Intake
+53,Female,184,95,31.79,Elevated,109,107,High,95,37.8,8.4,COPD,No,Yes,Respiratory Infection,Moderate,Keto,Yes,Yes,Low,Moderate,Bradycardia,Low-Glycemic Diet
+33,Female,163,91,18.94,Elevated,114,199,Normal,91,36.4,4.5,COPD,No,No,COVID-19,Sedentary,Vegan,No,No,Medium,Low,Congestive Heart Failure,High-Potassium Diet
+47,Male,179,102,28.5,High,82,138,Normal,97,36.9,9.4,COPD,Yes,No,Food Poisoning,Sedentary,Vegetarian,No,Yes,High,Moderate,Liver Cirrhosis,Anti-Inflammatory Diet
+78,Male,163,87,20.64,High,78,176,Borderline,93,35.9,6.5,Kidney Disease,No,No,Severe Headache,Moderate,Vegetarian,Yes,Yes,Medium,Low,Kidney Disease,DASH Diet
+65,Female,194,68,22.09,Elevated,71,165,High,91,39.5,9.2,Asthma,No,No,Bronchitis,Moderate,Vegetarian,Yes,Yes,Medium,High,Metabolic Syndrome,Low-Glycemic Diet
+26,Male,172,88,19.77,Elevated,98,143,High,93,36.1,8.4,COPD,Yes,No,Gastroenteritis,Active,Keto,No,No,High,High,Hypertensive Emergency,High-Calcium Diet
+26,Male,196,81,22.39,Normal,93,189,Normal,93,36.0,9.7,Diabetes,No,No,COVID-19,Sedentary,Vegetarian,No,Yes,Medium,High,Hypertension,Reduce Sugar
+71,Female,180,53,30.92,Elevated,100,144,High,98,36.1,6.9,Obstructive Sleep Apnea,No,Yes,Hypoglycemia Episode,Active,Non-Vegetarian,No,No,Low,Low,Diabetes,Low-Sodium Diet
+18,Female,186,49,24.87,Elevated,65,102,High,95,36.3,9.9,Atrial Fibrillation,No,No,Fever,Sedentary,Vegan,No,No,Low,Low,Osteoporosis,Gluten-Free Diet
+29,Male,193,82,32.72,Normal,85,170,Borderline,90,39.9,6.4,Migraine,Yes,Yes,Flu,Active,Vegetarian,Yes,No,High,Low,Sleep Apnea,Low-Sodium Diet
+47,Male,184,92,26.49,Elevated,82,186,Normal,92,36.6,4.9,Kidney Disease,Yes,Yes,Hypertensive Crisis,Sedentary,Vegan,Yes,No,Low,High,Arthritis,Increase Omega-3 Intake
+64,Female,150,118,24.92,Elevated,108,99,Normal,95,39.5,4.6,Atrial Fibrillation,Yes,No,Flu,Active,Vegetarian,No,Yes,High,Low,Congestive Heart Failure,Increase Omega-3 Intake
+23,Male,193,78,34.62,Elevated,105,146,High,91,39.8,6.7,Obstructive Sleep Apnea,No,Yes,Bronchitis,Active,Keto,No,No,High,Low,Arthritis,High-Potassium Diet
+60,Female,193,57,34.41,High,60,96,Normal,94,38.8,9.8,Diabetes,Yes,Yes,Acute Bronchitis,Active,Vegetarian,No,No,Low,Moderate,Obesity,High-Calcium Diet
+57,Male,180,113,23.28,High,79,120,Normal,95,35.7,5.2,Gout,No,Yes,Bronchitis,Active,Vegetarian,Yes,Yes,Medium,High,Heart Disease,DASH Diet
+34,Male,184,93,19.02,High,119,134,Borderline,97,37.6,9.5,Metabolic Syndrome,No,No,Acute Bronchitis,Sedentary,Vegetarian,Yes,No,Medium,High,Anemia,Plant-Based Diet
+56,Female,150,115,30.87,Elevated,71,177,Borderline,93,37.4,6.7,Gout,Yes,No,Stomach Ulcer,Sedentary,Keto,No,No,Low,Moderate,Hyperthyroidism,Low-Sodium Diet
+24,Female,169,75,22.13,Elevated,63,112,Normal,91,38.7,7.6,Arthritis,Yes,Yes,Typhoid,Moderate,Non-Vegetarian,No,No,Medium,Low,Atherosclerosis,Anti-Inflammatory Diet
+69,Male,173,67,32.0,Normal,67,80,High,91,36.9,6.7,Sleep Apnea,No,No,Fever,Active,Vegetarian,Yes,No,Low,Moderate,Heart Disease,High-Calcium Diet
+74,Male,154,112,21.66,Normal,91,74,Borderline,91,37.1,6.0,Peripheral Neuropathy,No,Yes,Typhoid,Active,Keto,Yes,No,Low,High,Obesity,Balanced Diet
+20,Male,155,48,25.78,High,79,151,Normal,90,39.1,8.6,Peripheral Neuropathy,Yes,No,Flu,Moderate,Non-Vegetarian,Yes,Yes,Medium,High,Arthritis,Increase Fiber
+71,Female,155,103,34.01,High,90,137,Borderline,99,38.6,7.3,Kidney Disease,Yes,Yes,Acute Bronchitis,Active,Keto,No,Yes,High,Low,Osteoporosis,Low-Glycemic Diet
+24,Female,190,50,33.4,Normal,85,70,Borderline,94,39.0,6.8,Obstructive Sleep Apnea,No,No,Flu,Moderate,Vegetarian,Yes,No,Low,Low,Sleep Apnea,Increase Protein
+46,Male,197,69,26.11,High,94,186,High,94,39.9,9.5,Gout,Yes,No,Acute Bronchitis,Active,Non-Vegetarian,Yes,No,Low,High,COPD,Plant-Based Diet
+63,Female,170,105,19.54,Normal,71,151,Borderline,95,36.9,7.4,Hypercholesterolemia,Yes,No,Dengue,Moderate,Vegan,No,No,Medium,Moderate,Hypothyroidism,Increase Protein
+60,Male,192,105,28.1,High,60,95,Normal,97,36.2,6.1,COPD,Yes,Yes,Cold,Moderate,Vegetarian,No,Yes,Low,High,Anemia,Increase Omega-3 Intake
+74,Female,176,108,34.83,Elevated,61,125,Normal,91,37.5,9.3,Migraine,No,No,Typhoid,Active,Non-Vegetarian,Yes,No,Low,High,Anemia,Low-Sodium Diet
+69,Female,160,113,30.47,Normal,79,132,Normal,97,38.1,7.2,COPD,No,No,Bronchitis,Sedentary,Keto,No,No,Low,Moderate,Stroke Risk,High-Calcium Diet
+77,Male,172,83,21.67,Normal,62,187,High,92,37.4,8.2,Obstructive Sleep Apnea,Yes,Yes,Hypertensive Crisis,Moderate,Non-Vegetarian,Yes,Yes,High,Low,Stroke Risk,Mediterranean Diet
+37,Female,157,90,26.62,High,111,179,High,93,37.2,5.8,Thyroid Disorder,No,No,Respiratory Infection,Sedentary,Keto,No,No,Medium,Low,Osteoporosis,Anti-Inflammatory Diet
+34,Female,197,99,23.64,Elevated,61,157,Normal,97,38.7,6.5,Sleep Apnea,No,No,Flu,Sedentary,Vegan,No,No,High,Moderate,Heart Disease,Anti-Inflammatory Diet
+33,Male,153,108,22.4,High,97,72,Normal,92,39.1,9.1,Obstructive Sleep Apnea,No,No,Bronchitis,Sedentary,Non-Vegetarian,No,No,High,Moderate,Kidney Disease,Increase Fiber
+32,Female,158,76,25.29,Elevated,61,197,High,93,35.8,4.0,Gout,Yes,No,Acute Bronchitis,Active,Keto,No,Yes,Medium,High,Peripheral Artery Disease,Low-Fat Diet
+30,Male,158,93,30.92,Elevated,84,193,Normal,92,36.5,9.8,Sleep Apnea,Yes,Yes,Cold,Sedentary,Vegetarian,No,Yes,Medium,Low,Hypothyroidism,Reduce Sugar
+55,Female,165,73,29.2,Normal,66,153,Normal,95,35.8,7.5,Metabolic Syndrome,Yes,Yes,Acute Bronchitis,Moderate,Non-Vegetarian,No,Yes,High,Moderate,Congestive Heart Failure,Mediterranean Diet
+28,Male,150,90,33.84,Elevated,61,126,Borderline,94,39.0,5.4,Peripheral Neuropathy,No,No,Hypoglycemia Episode,Sedentary,Non-Vegetarian,Yes,No,High,Low,COPD,Plant-Based Diet
+62,Male,153,95,33.16,High,108,76,High,95,37.6,4.8,Obstructive Sleep Apnea,No,Yes,Food Poisoning,Active,Vegan,No,No,High,Low,Congestive Heart Failure,Anti-Inflammatory Diet
+71,Female,155,103,34.01,High,90,137,Borderline,99,38.6,7.3,Obstructive Sleep Apnea,Yes,Yes,Stomach Ulcer,Active,Keto,No,Yes,High,Low,Anemia,Heart-Healthy Diet
+43,Female,175,97,30.53,High,71,119,Normal,90,38.8,8.9,COPD,No,Yes,Gastroenteritis,Sedentary,Non-Vegetarian,Yes,Yes,High,High,Sleep Apnea,Low-Sodium Diet
+66,Female,197,83,34.77,High,76,76,Normal,90,35.7,7.0,Diabetes,Yes,No,COVID-19,Moderate,Vegetarian,No,Yes,Low,High,Anemia,Balanced Diet
+53,Male,189,75,25.49,High,73,174,Borderline,91,39.6,5.3,Liver Disease,Yes,No,Bronchitis,Moderate,Non-Vegetarian,No,No,Low,Moderate,Hyperthyroidism,Plant-Based Diet
+59,Female,162,104,26.9,Normal,115,143,Borderline,95,39.1,8.1,Liver Disease,Yes,Yes,Stomach Ulcer,Active,Vegetarian,Yes,Yes,High,High,Hypertensive Emergency,Low-Glycemic Diet
+29,Male,167,117,33.13,Elevated,91,77,High,98,39.5,8.4,Sleep Apnea,No,Yes,Stomach Ulcer,Sedentary,Vegan,Yes,Yes,High,Moderate,Metabolic Syndrome,Balanced Diet
+60,Male,177,56,22.23,Elevated,102,174,Borderline,98,36.2,6.6,Kidney Disease,No,No,COVID-19,Active,Keto,Yes,No,Medium,High,Liver Cirrhosis,Increase Fiber
+34,Male,168,82,28.12,High,64,118,High,99,39.0,4.5,Arthritis,Yes,Yes,Food Poisoning,Moderate,Vegan,Yes,Yes,Medium,High,Peripheral Artery Disease,Heart-Healthy Diet
+73,Female,174,105,32.13,High,109,83,High,93,38.0,7.2,Asthma,No,Yes,Respiratory Infection,Sedentary,Non-Vegetarian,No,Yes,Medium,Low,Diabetes,Low-Glycemic Diet
+32,Female,186,49,25.81,High,80,88,High,94,35.7,8.0,Kidney Disease,Yes,Yes,Severe Headache,Sedentary,Keto,Yes,Yes,Low,Moderate,Hyperthyroidism,High-Potassium Diet
+22,Female,176,47,27.56,Normal,66,195,Borderline,98,39.2,6.8,Hypercholesterolemia,Yes,Yes,Urinary Tract Infection,Sedentary,Keto,Yes,Yes,High,Moderate,Metabolic Syndrome,Plant-Based Diet
+76,Female,180,102,26.8,Normal,88,91,High,90,36.8,6.2,Liver Disease,No,Yes,Ear Infection,Active,Non-Vegetarian,Yes,No,Low,Low,Arthritis,Plant-Based Diet
+39,Female,177,67,20.17,Normal,82,114,High,97,36.4,9.0,Liver Disease,No,No,COVID-19,Moderate,Keto,No,Yes,High,High,Diabetes,Heart-Healthy Diet
+37,Female,195,109,18.85,High,62,104,Borderline,91,39.0,7.2,Obstructive Sleep Apnea,Yes,No,Severe Headache,Active,Non-Vegetarian,No,Yes,High,Moderate,Congestive Heart Failure,Low-Fat Diet
+29,Male,167,117,33.13,Elevated,91,77,High,98,39.5,8.4,Diabetes,No,Yes,Dengue,Sedentary,Vegan,Yes,Yes,High,Moderate,Obesity,Low-Carb Diet
+47,Female,191,56,29.38,High,77,169,Borderline,92,38.1,9.8,COPD,No,No,Respiratory Infection,Moderate,Vegan,Yes,Yes,High,Low,Peripheral Artery Disease,Heart-Healthy Diet
+52,Male,164,49,20.66,High,76,132,High,98,39.5,5.1,Asthma,Yes,No,Severe Headache,Active,Vegetarian,No,Yes,Low,High,Tachycardia,Heart-Healthy Diet
+43,Female,151,110,33.59,High,118,196,Borderline,95,37.0,4.9,Liver Disease,Yes,Yes,Typhoid,Active,Vegetarian,No,No,Medium,Low,COPD,High-Potassium Diet
+50,Female,165,98,28.71,Normal,116,127,Normal,94,38.0,7.5,Hypertension,No,No,Fever,Moderate,Keto,Yes,Yes,High,Moderate,Hypertensive Emergency,Low-Sodium Diet
+53,Female,184,94,23.05,Elevated,63,198,Normal,93,36.9,5.1,Hypertension,Yes,Yes,Infection,Moderate,Keto,No,No,Low,High,Heart Disease,Reduce Sugar
+34,Male,181,113,31.01,Elevated,98,111,Normal,90,39.9,6.8,Peripheral Neuropathy,No,No,Gastroenteritis,Moderate,Vegan,No,No,Low,Moderate,Heart Disease,High-Potassium Diet
+23,Male,150,57,20.53,Elevated,70,138,High,95,38.0,6.6,Liver Disease,No,No,Hypoglycemia Episode,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Hyperthyroidism,Low-Glycemic Diet
+64,Female,150,118,24.92,Elevated,108,99,Normal,95,39.5,4.6,Gout,Yes,No,Acute Bronchitis,Active,Vegetarian,No,Yes,High,Low,Atherosclerosis,Reduce Sugar
+21,Male,153,91,29.22,High,96,148,Normal,90,35.7,6.8,Kidney Disease,No,No,Bronchitis,Active,Vegetarian,Yes,Yes,High,High,Metabolic Syndrome,Gluten-Free Diet
+30,Female,195,79,31.61,Elevated,92,175,Borderline,95,35.6,7.2,Peripheral Neuropathy,Yes,No,COVID-19,Sedentary,Vegan,Yes,Yes,Low,Low,Tachycardia,High-Calcium Diet
+42,Female,159,103,30.68,High,63,156,High,90,39.5,5.8,Kidney Disease,No,No,Acute Bronchitis,Moderate,Non-Vegetarian,Yes,No,Low,High,Anemia,Increase Protein
+21,Male,154,60,23.51,Normal,112,93,Borderline,98,37.1,6.3,Liver Disease,Yes,Yes,Gastroenteritis,Active,Non-Vegetarian,Yes,Yes,Low,Moderate,Heart Disease,Increase Fiber
+43,Female,156,112,21.86,High,78,74,Borderline,95,36.0,7.4,Thyroid Disorder,No,No,Severe Headache,Active,Vegan,No,Yes,High,Low,Hypothyroidism,Heart-Healthy Diet
+23,Male,168,78,21.89,Normal,116,128,Borderline,94,37.2,9.8,Hypercholesterolemia,No,Yes,Severe Headache,Moderate,Non-Vegetarian,No,No,High,Low,Osteoporosis,Increase Fiber
+76,Female,168,76,25.17,High,112,157,Borderline,93,37.8,4.3,Arthritis,No,Yes,Pneumonia,Active,Vegan,No,Yes,Low,Moderate,Hypothyroidism,Balanced Diet
+60,Male,192,105,28.1,High,60,95,Normal,97,36.2,6.1,Heart Disease,Yes,Yes,Fever,Moderate,Vegetarian,No,Yes,Low,High,Heart Disease,Reduce Sugar
+27,Female,165,87,34.05,Normal,89,159,Normal,97,38.6,4.8,Peripheral Neuropathy,No,Yes,Pneumonia,Active,Keto,Yes,Yes,Medium,Low,Anemia,Low-Glycemic Diet
+71,Female,167,101,24.66,High,113,154,Borderline,99,39.0,4.6,Asthma,Yes,No,Food Poisoning,Sedentary,Non-Vegetarian,No,Yes,Low,Low,Tachycardia,High-Potassium Diet
+50,Male,167,45,19.1,Normal,76,116,High,92,39.8,8.8,Kidney Disease,Yes,Yes,Food Poisoning,Sedentary,Vegan,No,Yes,Low,Moderate,Atherosclerosis,Mediterranean Diet
+63,Male,174,57,19.28,Elevated,76,132,Normal,97,36.7,5.7,COPD,Yes,No,Severe Headache,Active,Non-Vegetarian,Yes,No,Medium,High,Heart Disease,Anti-Inflammatory Diet
+60,Male,185,100,30.95,Normal,83,111,Borderline,90,37.4,4.5,Kidney Disease,Yes,Yes,Cold,Active,Non-Vegetarian,No,Yes,Medium,Low,Bradycardia,Gluten-Free Diet
+79,Female,166,58,33.93,Normal,81,131,Normal,96,39.5,4.6,Sleep Apnea,No,Yes,Fever,Moderate,Vegetarian,Yes,Yes,Medium,Moderate,Tachycardia,High-Calcium Diet
+21,Female,163,74,23.91,Elevated,110,155,High,96,36.3,8.1,COPD,Yes,Yes,Typhoid,Sedentary,Vegetarian,Yes,Yes,Low,Low,Metabolic Syndrome,DASH Diet
+58,Male,177,65,22.58,Elevated,76,92,Borderline,94,39.0,5.5,Liver Disease,No,Yes,Typhoid,Active,Vegan,No,No,Medium,Low,Atherosclerosis,Low-Carb Diet
+47,Female,190,112,33.11,Elevated,65,126,Normal,90,37.9,6.0,Diabetes,No,No,Urinary Tract Infection,Active,Non-Vegetarian,Yes,No,Medium,High,Chronic Fatigue,Keto Diet
+45,Male,194,100,21.86,High,62,116,Normal,95,37.0,5.5,Metabolic Syndrome,No,No,Pneumonia,Sedentary,Non-Vegetarian,No,Yes,Medium,High,Osteoporosis,Low-Fat Diet
+27,Male,171,116,33.67,High,107,121,High,94,38.6,9.3,Obstructive Sleep Apnea,No,Yes,Flu,Active,Keto,Yes,Yes,Medium,Moderate,Liver Cirrhosis,Low-Carb Diet
+27,Male,191,108,28.12,Normal,99,197,Normal,91,39.4,4.0,Metabolic Syndrome,Yes,Yes,Severe Headache,Moderate,Vegetarian,Yes,Yes,Medium,Moderate,Heart Disease,Plant-Based Diet
+19,Male,158,85,28.99,Elevated,100,112,Borderline,92,38.8,5.2,Hypertension,Yes,No,Severe Headache,Active,Vegetarian,No,No,High,Moderate,Sleep Apnea,Mediterranean Diet
+41,Female,154,85,18.67,Normal,114,165,Normal,95,37.6,5.4,Obstructive Sleep Apnea,No,Yes,Stomach Ulcer,Active,Keto,No,Yes,Low,Low,COPD,Anti-Inflammatory Diet
+78,Female,194,86,28.97,Normal,101,119,High,99,35.6,8.3,Diabetes,Yes,Yes,Hypoglycemia Episode,Moderate,Non-Vegetarian,Yes,No,Medium,Low,Tachycardia,DASH Diet
+38,Male,165,70,30.8,Normal,78,95,High,98,37.5,9.4,Diabetes,No,Yes,Pneumonia,Moderate,Vegan,No,No,Medium,Moderate,Hypothyroidism,Heart-Healthy Diet
+40,Female,171,81,32.39,Normal,97,75,Normal,93,39.8,4.6,Diabetes,No,Yes,Urinary Tract Infection,Active,Vegetarian,No,No,Medium,Low,Diabetes,High-Calcium Diet
+42,Female,167,114,32.27,High,63,91,Borderline,92,36.8,7.4,Diabetes,Yes,No,Acute Bronchitis,Active,Non-Vegetarian,Yes,No,Medium,High,Atherosclerosis,Reduce Sugar
+67,Female,174,65,27.68,Normal,97,87,Borderline,95,38.5,6.9,Diabetes,Yes,No,Cold,Sedentary,Non-Vegetarian,No,No,Low,Moderate,Hypothyroidism,Mediterranean Diet
+37,Female,157,90,26.62,High,111,179,High,93,37.2,5.8,Thyroid Disorder,No,No,Stomach Ulcer,Sedentary,Keto,No,No,Medium,Low,Atherosclerosis,Increase Fiber
+34,Male,161,55,34.68,High,67,178,Normal,90,38.6,8.0,Arthritis,Yes,Yes,Fever,Moderate,Non-Vegetarian,Yes,Yes,Medium,Low,Atherosclerosis,Low-Glycemic Diet
+64,Male,183,80,25.56,High,113,78,High,93,39.0,5.8,Obstructive Sleep Apnea,No,No,Hypoglycemia Episode,Sedentary,Keto,No,No,Medium,High,Heart Disease,High-Potassium Diet
+50,Male,191,74,31.95,Elevated,106,82,Normal,99,36.4,7.2,Atrial Fibrillation,No,Yes,Typhoid,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Hyperthyroidism,Low-Sodium Diet
+26,Male,169,84,20.22,Elevated,67,116,High,90,36.5,9.7,Prediabetes,Yes,No,COVID-19,Active,Non-Vegetarian,Yes,No,Low,Moderate,Hypertensive Emergency,Mediterranean Diet
+40,Female,171,81,32.39,Normal,97,75,Normal,93,39.8,4.6,Thyroid Disorder,No,Yes,Hypoglycemia Episode,Active,Vegetarian,No,No,Medium,Low,Congestive Heart Failure,Keto Diet
+65,Male,189,94,32.33,High,63,171,Normal,98,35.8,9.6,Sleep Apnea,Yes,No,Fever,Active,Non-Vegetarian,No,No,High,Moderate,Bradycardia,Heart-Healthy Diet
+56,Female,193,66,34.15,Normal,66,142,High,93,36.4,8.4,Peripheral Neuropathy,No,Yes,Flu,Active,Keto,Yes,No,Medium,Low,Diabetes,Increase Fiber
+57,Male,174,52,22.93,Normal,87,137,Borderline,95,37.1,8.4,Obstructive Sleep Apnea,No,Yes,Ear Infection,Sedentary,Vegan,Yes,Yes,High,Low,Hyperthyroidism,Increase Omega-3 Intake
+21,Male,159,104,19.17,High,75,137,High,98,35.8,8.1,Liver Disease,Yes,Yes,Flu,Sedentary,Vegetarian,No,Yes,Medium,Low,Hypertensive Emergency,DASH Diet
+46,Male,151,58,32.25,High,109,70,Borderline,93,39.2,6.3,Metabolic Syndrome,No,No,Gastroenteritis,Sedentary,Non-Vegetarian,Yes,Yes,High,Moderate,COPD,Gluten-Free Diet
+25,Male,194,70,30.28,High,86,114,Normal,99,36.7,7.9,Hypertension,No,No,Gastroenteritis,Active,Keto,No,Yes,High,High,Hypertensive Emergency,Low-Sodium Diet
+38,Male,177,83,32.81,High,112,173,Normal,92,35.8,5.8,Migraine,Yes,No,Urinary Tract Infection,Sedentary,Non-Vegetarian,No,No,Medium,Low,Liver Cirrhosis,Anti-Inflammatory Diet
+23,Female,170,92,27.36,High,75,138,High,93,37.0,5.3,Thyroid Disorder,No,Yes,Hypertensive Crisis,Moderate,Keto,No,No,High,Moderate,Chronic Fatigue,Low-Sodium Diet
+34,Female,182,98,30.6,Normal,76,73,High,97,40.0,6.9,COPD,Yes,No,Food Poisoning,Active,Non-Vegetarian,Yes,Yes,Medium,High,Kidney Disease,Low-Glycemic Diet
+50,Female,161,49,20.96,Normal,71,86,Borderline,93,38.6,9.0,Liver Disease,No,No,Hypoglycemia Episode,Moderate,Keto,Yes,Yes,Medium,Moderate,Hyperthyroidism,Heart-Healthy Diet
+34,Male,173,71,25.65,Elevated,69,152,Normal,91,38.2,4.3,Asthma,Yes,No,Dengue,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Osteoporosis,Mediterranean Diet
+79,Female,191,119,27.67,Normal,85,159,High,93,39.9,7.6,Hypercholesterolemia,No,Yes,Hypoglycemia Episode,Sedentary,Vegan,Yes,No,Medium,Moderate,Atherosclerosis,Plant-Based Diet
+53,Female,184,94,23.05,Elevated,63,198,Normal,93,36.9,5.1,Migraine,Yes,Yes,Food Poisoning,Moderate,Keto,No,No,Low,High,Metabolic Syndrome,Low-Glycemic Diet
+23,Female,170,92,27.36,High,75,138,High,93,37.0,5.3,Hypertension,No,Yes,Acute Bronchitis,Moderate,Keto,No,No,High,Moderate,Diabetes,Reduce Sugar
+23,Female,165,79,34.31,High,111,191,Normal,98,39.0,6.5,Hypercholesterolemia,Yes,Yes,Cold,Moderate,Non-Vegetarian,No,Yes,Low,High,Heart Disease,DASH Diet
+53,Male,189,75,25.49,High,73,174,Borderline,91,39.6,5.3,Peripheral Neuropathy,Yes,No,Sinusitis,Moderate,Non-Vegetarian,No,No,Low,Moderate,Diabetes,Low-Fat Diet
+65,Male,165,73,27.84,Elevated,97,120,Normal,91,36.0,5.0,Kidney Disease,Yes,No,Hypertensive Crisis,Sedentary,Vegan,No,Yes,Low,Low,Diabetes,Low-Fat Diet
+79,Male,159,100,32.24,Normal,104,156,Normal,90,36.1,8.2,Diabetes,Yes,No,Ear Infection,Sedentary,Non-Vegetarian,No,Yes,High,Low,Arthritis,Gluten-Free Diet
+75,Male,185,107,19.63,Elevated,102,126,Normal,93,36.0,4.8,Diabetes,No,No,Typhoid,Sedentary,Non-Vegetarian,No,Yes,High,Moderate,Heart Disease,Increase Protein
+78,Male,174,75,28.67,Normal,87,170,Borderline,97,38.8,9.4,Migraine,No,Yes,Flu,Active,Keto,Yes,No,Medium,High,Diabetes,Low-Fat Diet
+48,Female,178,92,25.23,High,62,87,High,91,39.0,6.4,Liver Disease,Yes,Yes,COVID-19,Active,Vegetarian,No,Yes,High,High,Bradycardia,Low-Sodium Diet
+60,Female,193,57,34.41,High,60,96,Normal,94,38.8,9.8,Gout,Yes,Yes,Hypertensive Crisis,Active,Vegetarian,No,No,Low,Moderate,Obesity,Low-Fat Diet
+61,Male,188,92,32.4,Elevated,112,149,High,97,35.8,7.1,Gout,Yes,Yes,Flu,Moderate,Non-Vegetarian,Yes,No,Low,Low,Kidney Disease,Reduce Sugar
+77,Female,165,48,33.33,High,65,111,Borderline,98,37.0,4.8,Sleep Apnea,No,Yes,Sinusitis,Sedentary,Vegan,No,No,Medium,High,Chronic Fatigue,Mediterranean Diet
+71,Female,190,83,30.55,Normal,96,131,High,98,37.6,9.9,Gout,Yes,Yes,Hypertensive Crisis,Sedentary,Keto,Yes,No,Medium,Low,Osteoporosis,DASH Diet
+44,Male,198,95,34.16,Normal,111,111,Normal,95,38.7,5.4,Prediabetes,No,Yes,Cold,Moderate,Vegetarian,No,Yes,Medium,Moderate,Chronic Fatigue,Increase Fiber
+34,Female,199,58,19.06,High,76,188,Normal,93,38.6,6.0,Prediabetes,No,No,Fever,Sedentary,Non-Vegetarian,No,No,Medium,High,Chronic Fatigue,Low-Fat Diet
+45,Female,181,83,30.07,High,93,95,High,98,37.8,6.0,Hypertension,Yes,No,Urinary Tract Infection,Moderate,Keto,No,Yes,Medium,Low,Arthritis,Low-Sodium Diet
+24,Female,164,107,20.82,Normal,86,179,High,97,36.4,6.8,Heart Disease,No,Yes,Stomach Ulcer,Moderate,Vegan,Yes,No,Low,High,Liver Cirrhosis,Gluten-Free Diet
+74,Male,167,110,31.04,Normal,106,110,Normal,94,40.0,9.9,Asthma,No,Yes,Infection,Moderate,Vegan,Yes,Yes,Medium,High,Kidney Disease,Gluten-Free Diet
+55,Female,181,111,31.66,Elevated,110,125,Borderline,96,35.6,9.4,Prediabetes,Yes,Yes,Fever,Active,Vegetarian,No,Yes,Medium,Moderate,Hyperthyroidism,Keto Diet
+74,Female,162,72,25.72,High,72,162,High,92,39.1,8.9,Atrial Fibrillation,Yes,No,Cold,Moderate,Non-Vegetarian,No,Yes,Low,Moderate,Obesity,DASH Diet
+75,Male,194,76,20.33,Normal,95,117,Normal,97,37.2,5.4,Liver Disease,Yes,Yes,Fever,Moderate,Non-Vegetarian,Yes,Yes,Low,High,Chronic Fatigue,Increase Fiber
+47,Female,181,65,31.26,Normal,111,83,High,97,38.1,5.7,Arthritis,No,No,Severe Headache,Moderate,Vegetarian,No,No,Low,Low,Heart Disease,Increase Fiber
+23,Female,176,69,33.77,High,60,134,High,99,36.7,6.9,Gout,No,Yes,Bronchitis,Active,Vegan,Yes,Yes,Medium,High,Bradycardia,Gluten-Free Diet
+60,Male,185,100,30.95,Normal,83,111,Borderline,90,37.4,4.5,Peripheral Neuropathy,Yes,Yes,Gastroenteritis,Active,Non-Vegetarian,No,Yes,Medium,Low,Obesity,Reduce Sugar
+37,Male,197,101,33.76,Normal,67,131,Normal,94,35.8,5.1,Migraine,Yes,Yes,Respiratory Infection,Moderate,Keto,No,Yes,Low,High,Liver Cirrhosis,Low-Carb Diet
+31,Male,172,96,24.14,Elevated,104,164,Borderline,90,35.9,9.2,Migraine,No,No,Ear Infection,Active,Vegan,No,Yes,Medium,High,Chronic Fatigue,Plant-Based Diet
+23,Male,179,85,21.52,High,81,98,High,92,36.2,6.5,Asthma,Yes,No,Pneumonia,Sedentary,Vegan,No,No,High,Low,Anemia,Heart-Healthy Diet
+79,Female,151,72,20.06,Elevated,69,198,High,97,36.4,8.3,Hypercholesterolemia,No,No,Sinusitis,Moderate,Vegetarian,Yes,Yes,Low,High,Metabolic Syndrome,High-Potassium Diet
+29,Female,171,55,21.86,Normal,65,137,Normal,91,35.7,4.8,Asthma,Yes,Yes,Respiratory Infection,Active,Non-Vegetarian,No,No,High,Low,Peripheral Artery Disease,Low-Sodium Diet
+20,Male,173,95,33.3,Elevated,83,109,Borderline,90,39.8,9.3,Thyroid Disorder,Yes,No,Ear Infection,Active,Keto,No,No,Medium,Moderate,Heart Disease,Heart-Healthy Diet
+74,Male,167,110,31.04,Normal,106,110,Normal,94,40.0,9.9,Obstructive Sleep Apnea,No,Yes,Respiratory Infection,Moderate,Vegan,Yes,Yes,Medium,High,Heart Disease,Increase Omega-3 Intake
+34,Female,182,98,30.6,Normal,76,73,High,97,40.0,6.9,Heart Disease,Yes,No,Infection,Active,Non-Vegetarian,Yes,Yes,Medium,High,Atherosclerosis,Increase Fiber
+21,Male,159,104,19.17,High,75,137,High,98,35.8,8.1,Diabetes,Yes,Yes,Ear Infection,Sedentary,Vegetarian,No,Yes,Medium,Low,Hypertensive Emergency,Reduce Sugar
+50,Male,164,99,34.97,Elevated,90,140,Borderline,93,37.7,5.7,Sleep Apnea,Yes,No,Hypertensive Crisis,Sedentary,Vegetarian,Yes,Yes,Medium,Moderate,Hypertensive Emergency,Plant-Based Diet
+56,Female,152,106,22.82,Normal,105,189,Borderline,95,38.9,8.6,Migraine,Yes,Yes,Cold,Sedentary,Non-Vegetarian,Yes,Yes,Medium,High,Chronic Fatigue,Plant-Based Diet
+74,Female,176,108,34.83,Elevated,61,125,Normal,91,37.5,9.3,Obstructive Sleep Apnea,No,No,Hypoglycemia Episode,Active,Non-Vegetarian,Yes,No,Low,High,Obesity,Low-Carb Diet
+34,Male,184,93,19.02,High,119,134,Borderline,97,37.6,9.5,Thyroid Disorder,No,No,Fever,Sedentary,Vegetarian,Yes,No,Medium,High,Sleep Apnea,Increase Omega-3 Intake
+23,Male,177,47,22.22,Elevated,114,168,High,98,39.3,8.9,Arthritis,Yes,No,Hypoglycemia Episode,Sedentary,Keto,Yes,Yes,Medium,Low,Anemia,Plant-Based Diet
+37,Male,167,100,28.42,Normal,79,143,High,94,39.8,8.2,Arthritis,Yes,Yes,Gastroenteritis,Active,Vegetarian,Yes,Yes,Low,Moderate,Sleep Apnea,DASH Diet
+68,Male,161,66,20.0,Elevated,72,143,Normal,95,37.8,7.7,COPD,Yes,No,Urinary Tract Infection,Active,Keto,No,Yes,Low,High,Stroke Risk,Low-Carb Diet
+25,Male,182,84,20.36,Elevated,91,141,High,94,37.4,4.7,Obstructive Sleep Apnea,No,No,Cold,Sedentary,Keto,No,Yes,Medium,High,Liver Cirrhosis,Low-Carb Diet
+79,Female,151,72,20.06,Elevated,69,198,High,97,36.4,8.3,Atrial Fibrillation,No,No,Fever,Moderate,Vegetarian,Yes,Yes,Low,High,Hyperthyroidism,Keto Diet
+22,Female,158,99,28.61,Normal,106,175,Borderline,90,38.2,5.4,COPD,Yes,No,Severe Headache,Moderate,Vegetarian,Yes,Yes,High,Moderate,Anemia,Low-Glycemic Diet
+40,Female,171,81,32.39,Normal,97,75,Normal,93,39.8,4.6,COPD,No,Yes,Sinusitis,Active,Vegetarian,No,No,Medium,Low,Peripheral Artery Disease,Low-Carb Diet
+60,Male,150,107,30.17,Elevated,102,85,High,97,36.7,7.9,Peripheral Neuropathy,Yes,No,Hypertensive Crisis,Active,Vegan,No,No,Low,Low,Congestive Heart Failure,Heart-Healthy Diet
+27,Male,199,100,26.37,Elevated,119,109,Borderline,92,37.9,7.0,Peripheral Neuropathy,No,No,Urinary Tract Infection,Sedentary,Non-Vegetarian,Yes,No,Low,Low,Anemia,Low-Glycemic Diet
+51,Male,166,98,29.12,Elevated,114,163,Borderline,98,37.9,9.8,Peripheral Neuropathy,No,Yes,Ear Infection,Active,Keto,Yes,No,High,Low,Bradycardia,Low-Carb Diet
+26,Male,153,53,19.11,High,64,122,High,99,36.6,7.9,Sleep Apnea,Yes,Yes,Hypoglycemia Episode,Sedentary,Non-Vegetarian,Yes,No,Low,Low,Hypothyroidism,Increase Protein
+39,Female,169,68,26.53,Elevated,90,184,High,94,39.8,4.7,Atrial Fibrillation,Yes,No,Dengue,Active,Keto,No,No,Low,Low,Atherosclerosis,Heart-Healthy Diet
+52,Male,150,117,28.5,High,101,85,Borderline,93,38.6,6.4,Peripheral Neuropathy,No,Yes,Gastroenteritis,Moderate,Vegan,No,No,Low,Moderate,Anemia,Gluten-Free Diet
+69,Female,191,108,34.62,High,107,192,Borderline,95,39.6,8.5,Prediabetes,No,Yes,Hypertensive Crisis,Active,Vegetarian,No,Yes,Medium,High,Hyperthyroidism,Low-Glycemic Diet
+76,Female,197,116,29.22,Normal,119,151,Normal,91,37.0,9.8,Heart Disease,No,Yes,Food Poisoning,Moderate,Vegan,No,No,High,Moderate,Metabolic Syndrome,Low-Sodium Diet
+25,Male,182,84,20.36,Elevated,91,141,High,94,37.4,4.7,Arthritis,No,No,Respiratory Infection,Sedentary,Keto,No,Yes,Medium,High,Congestive Heart Failure,Plant-Based Diet
+18,Female,163,103,31.05,High,99,113,Borderline,96,39.0,5.9,Kidney Disease,Yes,Yes,Respiratory Infection,Moderate,Non-Vegetarian,No,No,Medium,Low,Hypertensive Emergency,Reduce Sugar
+43,Male,173,119,27.03,High,76,128,Borderline,92,35.9,7.6,Hypertension,Yes,Yes,Acute Bronchitis,Active,Non-Vegetarian,No,Yes,Low,Low,Congestive Heart Failure,Increase Fiber
+57,Female,185,55,19.88,Elevated,90,186,High,95,35.6,9.0,Diabetes,Yes,Yes,Gastroenteritis,Sedentary,Vegetarian,No,Yes,Medium,Moderate,Diabetes,High-Calcium Diet
+49,Male,173,102,34.02,Normal,82,170,Normal,95,35.6,9.7,Peripheral Neuropathy,No,Yes,Severe Headache,Active,Vegan,No,No,High,Low,Sleep Apnea,Low-Fat Diet
+31,Female,172,81,32.83,Elevated,78,140,Borderline,95,40.0,5.7,COPD,No,Yes,Gastroenteritis,Moderate,Vegetarian,Yes,No,High,Low,Kidney Disease,Mediterranean Diet
+62,Male,192,101,20.89,Elevated,74,97,High,97,39.1,5.7,Hypertension,Yes,Yes,Infection,Sedentary,Keto,No,No,High,Moderate,Atherosclerosis,Reduce Sugar
+18,Female,163,103,31.05,High,99,113,Borderline,96,39.0,5.9,Arthritis,Yes,Yes,COVID-19,Moderate,Non-Vegetarian,No,No,Medium,Low,Arthritis,Keto Diet
+25,Male,173,87,30.66,Normal,89,196,High,91,39.0,9.0,Kidney Disease,No,Yes,COVID-19,Active,Non-Vegetarian,Yes,No,Low,High,Hyperthyroidism,Mediterranean Diet
+38,Male,177,83,32.81,High,112,173,Normal,92,35.8,5.8,Asthma,Yes,No,Bronchitis,Sedentary,Non-Vegetarian,No,No,Medium,Low,Congestive Heart Failure,High-Potassium Diet
+60,Male,192,105,28.1,High,60,95,Normal,97,36.2,6.1,Metabolic Syndrome,Yes,Yes,Urinary Tract Infection,Moderate,Vegetarian,No,Yes,Low,High,Hypertension,Low-Glycemic Diet
+70,Male,197,57,30.07,Normal,92,174,Normal,96,39.8,7.9,Liver Disease,Yes,No,Sinusitis,Moderate,Non-Vegetarian,No,Yes,High,High,Kidney Disease,Increase Omega-3 Intake
+21,Male,159,104,19.17,High,75,137,High,98,35.8,8.1,COPD,Yes,Yes,Hypertensive Crisis,Sedentary,Vegetarian,No,Yes,Medium,Low,Atherosclerosis,Keto Diet
+55,Male,196,59,33.49,High,63,126,Borderline,93,39.6,7.2,Thyroid Disorder,Yes,Yes,Hypoglycemia Episode,Sedentary,Keto,Yes,No,Low,High,Diabetes,Reduce Sugar
+32,Female,187,61,25.82,Elevated,70,113,High,98,35.5,4.1,Migraine,Yes,No,Food Poisoning,Sedentary,Vegan,No,No,Medium,High,Tachycardia,Increase Protein
+38,Male,167,60,24.7,Normal,82,85,High,96,36.3,6.7,Hypercholesterolemia,Yes,Yes,Food Poisoning,Active,Vegan,Yes,Yes,Low,High,Metabolic Syndrome,Gluten-Free Diet
+30,Female,155,77,25.55,High,64,71,Normal,94,39.7,9.3,Thyroid Disorder,Yes,No,Severe Headache,Active,Vegan,Yes,No,Medium,High,Tachycardia,Keto Diet
+29,Male,179,104,19.21,Elevated,62,118,Normal,98,38.6,4.1,Gout,Yes,No,Flu,Moderate,Vegetarian,No,Yes,Low,Low,Tachycardia,Increase Fiber
+78,Female,194,86,28.97,Normal,101,119,High,99,35.6,8.3,Liver Disease,Yes,Yes,Gastroenteritis,Moderate,Non-Vegetarian,Yes,No,Medium,Low,Stroke Risk,Increase Omega-3 Intake
+23,Female,154,72,27.17,Normal,101,147,High,92,37.1,5.3,Asthma,Yes,Yes,Urinary Tract Infection,Active,Keto,Yes,Yes,Medium,High,Heart Disease,Low-Carb Diet
+58,Female,165,69,22.45,Normal,96,139,Borderline,90,39.5,4.5,Diabetes,Yes,Yes,Stomach Ulcer,Moderate,Vegan,Yes,No,High,Moderate,Atherosclerosis,Increase Omega-3 Intake
+21,Male,153,91,29.22,High,96,148,Normal,90,35.7,6.8,Atrial Fibrillation,No,No,Gastroenteritis,Active,Vegetarian,Yes,Yes,High,High,Heart Disease,Reduce Sugar
+33,Male,150,101,33.08,High,64,156,High,94,36.6,5.3,Sleep Apnea,Yes,No,Sinusitis,Active,Non-Vegetarian,Yes,Yes,Low,Low,Arthritis,Low-Sodium Diet
+40,Male,183,81,28.16,Normal,100,168,Normal,90,38.3,8.2,Gout,Yes,No,Stomach Ulcer,Moderate,Vegetarian,No,Yes,Low,Low,Tachycardia,Low-Fat Diet
+29,Male,167,117,33.13,Elevated,91,77,High,98,39.5,8.4,COPD,No,Yes,Ear Infection,Sedentary,Vegan,Yes,Yes,High,Moderate,Sleep Apnea,Mediterranean Diet
+68,Female,168,111,23.18,High,71,175,High,94,37.8,4.8,COPD,Yes,No,Hypoglycemia Episode,Moderate,Keto,No,No,Medium,High,Hypothyroidism,Increase Fiber
+68,Female,173,119,33.45,High,61,163,Normal,97,39.5,9.3,Obstructive Sleep Apnea,No,No,Sinusitis,Moderate,Vegetarian,Yes,No,Medium,High,Osteoporosis,Reduce Sugar
+66,Female,194,50,26.37,Elevated,117,80,Normal,93,39.1,9.9,Heart Disease,Yes,No,Infection,Active,Vegetarian,No,Yes,Medium,Low,Bradycardia,Heart-Healthy Diet
+51,Female,162,113,33.23,Elevated,92,174,Normal,90,36.4,5.1,COPD,Yes,Yes,Sinusitis,Active,Vegetarian,Yes,No,Low,High,Tachycardia,Increase Protein
+53,Female,195,104,30.31,Normal,84,80,High,97,39.2,6.7,Migraine,Yes,No,Stomach Ulcer,Sedentary,Vegetarian,No,No,Low,High,Arthritis,Low-Fat Diet
+78,Female,172,70,26.48,Normal,96,122,High,93,37.2,7.9,Arthritis,No,No,Hypertensive Crisis,Moderate,Vegetarian,No,No,High,Moderate,Diabetes,Increase Protein
+56,Male,162,119,31.73,Elevated,111,182,Borderline,98,38.6,5.9,Diabetes,Yes,Yes,Hypertensive Crisis,Moderate,Vegan,No,No,Medium,High,Anemia,Plant-Based Diet
+76,Female,168,76,25.17,High,112,157,Borderline,93,37.8,4.3,Liver Disease,No,Yes,Pneumonia,Active,Vegan,No,Yes,Low,Moderate,Tachycardia,Low-Fat Diet
+64,Female,150,118,24.92,Elevated,108,99,Normal,95,39.5,4.6,Obstructive Sleep Apnea,Yes,No,Bronchitis,Active,Vegetarian,No,Yes,High,Low,Hyperthyroidism,Increase Fiber
+62,Female,181,59,33.96,Elevated,74,128,High,97,38.9,5.2,Heart Disease,No,Yes,Food Poisoning,Active,Non-Vegetarian,Yes,No,High,High,Metabolic Syndrome,Reduce Sugar
+20,Female,186,81,30.81,Elevated,86,167,Normal,94,36.1,8.7,Gout,No,No,Hypoglycemia Episode,Sedentary,Keto,No,No,High,Low,Bradycardia,Plant-Based Diet
+40,Male,152,51,28.93,High,78,108,High,97,38.6,5.1,COPD,Yes,Yes,Respiratory Infection,Sedentary,Keto,No,Yes,Medium,High,Bradycardia,DASH Diet
+50,Male,167,45,19.1,Normal,76,116,High,92,39.8,8.8,COPD,Yes,Yes,Infection,Sedentary,Vegan,No,Yes,Low,Moderate,Kidney Disease,Anti-Inflammatory Diet
+36,Male,166,117,33.25,Elevated,72,71,Normal,91,36.4,8.6,COPD,Yes,No,COVID-19,Sedentary,Vegetarian,No,No,Low,Low,Tachycardia,Increase Fiber
+58,Female,165,69,22.45,Normal,96,139,Borderline,90,39.5,4.5,Asthma,Yes,Yes,Stomach Ulcer,Moderate,Vegan,Yes,No,High,Moderate,Hypothyroidism,Low-Glycemic Diet
+59,Male,199,53,29.81,Elevated,60,72,Normal,91,37.9,9.4,Peripheral Neuropathy,No,Yes,Flu,Sedentary,Non-Vegetarian,No,No,High,Low,Chronic Fatigue,Gluten-Free Diet
+78,Female,173,56,28.32,High,107,140,Borderline,97,36.2,7.6,Atrial Fibrillation,Yes,No,Flu,Sedentary,Vegetarian,Yes,Yes,High,High,Atherosclerosis,Low-Glycemic Diet
+69,Female,176,91,29.7,High,61,87,Borderline,99,38.3,7.3,Kidney Disease,No,No,Food Poisoning,Active,Non-Vegetarian,Yes,No,Low,Low,Arthritis,Low-Fat Diet
+56,Female,150,115,30.87,Elevated,71,177,Borderline,93,37.4,6.7,Peripheral Neuropathy,Yes,No,Sinusitis,Sedentary,Keto,No,No,Low,Moderate,Bradycardia,Increase Protein
+29,Male,157,98,23.75,High,79,137,Normal,94,38.0,6.6,Liver Disease,No,No,Typhoid,Sedentary,Non-Vegetarian,No,Yes,Low,Moderate,Osteoporosis,Plant-Based Diet
+36,Female,167,109,27.97,Normal,65,113,Normal,96,36.4,6.5,Atrial Fibrillation,No,Yes,Sinusitis,Sedentary,Vegetarian,Yes,No,High,Moderate,Stroke Risk,Plant-Based Diet
+68,Female,157,105,25.4,Normal,89,179,Borderline,91,38.9,6.6,Migraine,Yes,Yes,Urinary Tract Infection,Moderate,Non-Vegetarian,No,No,High,High,Anemia,Anti-Inflammatory Diet
+78,Male,151,104,26.33,High,76,195,Normal,91,39.7,5.1,Migraine,No,No,Bronchitis,Moderate,Keto,No,No,Medium,Low,Congestive Heart Failure,Low-Sodium Diet
+42,Female,167,114,32.27,High,63,91,Borderline,92,36.8,7.4,Hypertension,Yes,No,Gastroenteritis,Active,Non-Vegetarian,Yes,No,Medium,High,Diabetes,Anti-Inflammatory Diet
+77,Male,195,100,22.33,High,118,176,Borderline,94,36.2,7.6,Liver Disease,No,Yes,Gastroenteritis,Sedentary,Keto,No,Yes,Medium,Moderate,Kidney Disease,Heart-Healthy Diet
+43,Male,198,91,24.24,High,85,76,High,97,36.1,7.3,Heart Disease,No,Yes,Flu,Moderate,Vegetarian,Yes,Yes,Medium,Low,Chronic Fatigue,Gluten-Free Diet
+37,Female,195,109,18.85,High,62,104,Borderline,91,39.0,7.2,Hypercholesterolemia,Yes,No,Bronchitis,Active,Non-Vegetarian,No,Yes,High,Moderate,Anemia,Reduce Sugar
+71,Female,155,103,34.01,High,90,137,Borderline,99,38.6,7.3,Gout,Yes,Yes,Cold,Active,Keto,No,Yes,High,Low,Stroke Risk,Low-Glycemic Diet
+68,Female,161,51,27.05,High,117,143,Normal,98,39.5,6.6,Hypercholesterolemia,Yes,No,Cold,Active,Keto,Yes,Yes,High,Moderate,Diabetes,Increase Protein
+27,Female,182,46,21.77,Elevated,97,103,Normal,98,36.9,9.1,Obstructive Sleep Apnea,Yes,No,Hypertensive Crisis,Moderate,Keto,Yes,No,High,Moderate,Peripheral Artery Disease,Balanced Diet
+56,Male,180,47,34.08,Normal,99,186,Borderline,90,39.7,4.8,Atrial Fibrillation,No,Yes,Fever,Active,Keto,Yes,Yes,Low,Low,Chronic Fatigue,DASH Diet
+21,Male,174,59,19.19,Normal,95,111,High,95,36.1,5.3,Peripheral Neuropathy,Yes,No,Flu,Sedentary,Vegan,No,No,High,High,Obesity,Reduce Sugar
+34,Female,198,109,21.39,Elevated,118,195,High,97,36.8,8.3,Prediabetes,No,No,Stomach Ulcer,Active,Vegetarian,Yes,Yes,Medium,Moderate,Heart Disease,Reduce Sugar
+75,Female,157,50,18.64,Elevated,70,80,Normal,97,39.1,8.5,Diabetes,Yes,Yes,Pneumonia,Active,Keto,Yes,Yes,High,Moderate,Stroke Risk,Plant-Based Diet
+69,Male,175,118,32.93,High,100,120,Borderline,90,37.8,6.3,Gout,Yes,No,Bronchitis,Active,Vegan,Yes,Yes,Low,Low,Arthritis,Anti-Inflammatory Diet
+34,Female,179,90,32.87,Normal,115,84,Borderline,90,38.6,6.0,Hypertension,No,Yes,Dengue,Active,Non-Vegetarian,No,Yes,High,Low,COPD,Balanced Diet
+58,Female,169,52,23.85,Normal,62,194,Normal,98,36.4,9.6,Prediabetes,No,Yes,Respiratory Infection,Active,Keto,No,No,Medium,Moderate,Hypothyroidism,Low-Carb Diet
+56,Female,152,106,22.82,Normal,105,189,Borderline,95,38.9,8.6,Kidney Disease,Yes,Yes,Dengue,Sedentary,Non-Vegetarian,Yes,Yes,Medium,High,Peripheral Artery Disease,DASH Diet
+55,Female,166,58,22.0,Normal,110,111,Normal,90,37.4,5.6,Peripheral Neuropathy,No,No,Ear Infection,Active,Vegan,No,Yes,Low,Low,Peripheral Artery Disease,Increase Fiber
+31,Female,153,81,32.26,Elevated,69,84,Normal,96,35.9,7.8,Sleep Apnea,Yes,Yes,Respiratory Infection,Active,Vegetarian,Yes,Yes,High,High,Sleep Apnea,Gluten-Free Diet
+43,Male,198,91,24.24,High,85,76,High,97,36.1,7.3,Gout,No,Yes,Hypoglycemia Episode,Moderate,Vegetarian,Yes,Yes,Medium,Low,Hypertension,Plant-Based Diet
+61,Male,188,92,32.4,Elevated,112,149,High,97,35.8,7.1,Gout,Yes,Yes,Food Poisoning,Moderate,Non-Vegetarian,Yes,No,Low,Low,Osteoporosis,Increase Fiber
+67,Female,174,65,27.68,Normal,97,87,Borderline,95,38.5,6.9,Gout,Yes,No,Acute Bronchitis,Sedentary,Non-Vegetarian,No,No,Low,Moderate,Chronic Fatigue,Increase Omega-3 Intake
+19,Male,158,85,28.99,Elevated,100,112,Borderline,92,38.8,5.2,Hypercholesterolemia,Yes,No,Stomach Ulcer,Active,Vegetarian,No,No,High,Moderate,Chronic Fatigue,Increase Fiber
+54,Male,188,59,25.88,High,88,77,Borderline,98,35.6,9.8,COPD,No,Yes,Ear Infection,Active,Vegetarian,No,No,High,Moderate,Sleep Apnea,Low-Fat Diet
+74,Male,154,112,21.66,Normal,91,74,Borderline,91,37.1,6.0,Diabetes,No,Yes,Infection,Active,Keto,Yes,No,Low,High,Atherosclerosis,Reduce Sugar
+30,Female,195,79,31.61,Elevated,92,175,Borderline,95,35.6,7.2,Hypercholesterolemia,Yes,No,COVID-19,Sedentary,Vegan,Yes,Yes,Low,Low,Heart Disease,Low-Carb Diet
+39,Female,185,109,24.45,Elevated,96,90,High,95,36.3,5.7,Prediabetes,No,No,Stomach Ulcer,Active,Keto,Yes,No,High,Low,Hyperthyroidism,Plant-Based Diet
+56,Female,184,58,30.22,Normal,114,88,High,99,39.3,7.8,Atrial Fibrillation,Yes,Yes,Ear Infection,Sedentary,Keto,No,No,High,Low,Hypertension,Low-Fat Diet
+30,Female,180,51,20.86,Normal,93,145,Borderline,93,36.3,5.2,Hypercholesterolemia,No,Yes,Respiratory Infection,Active,Keto,No,No,Low,Moderate,Anemia,Mediterranean Diet
+56,Male,162,119,31.73,Elevated,111,182,Borderline,98,38.6,5.9,Peripheral Neuropathy,Yes,Yes,Sinusitis,Moderate,Vegan,No,No,Medium,High,Heart Disease,High-Potassium Diet
+74,Male,162,82,34.51,Elevated,113,176,High,92,39.8,7.5,Obstructive Sleep Apnea,Yes,Yes,Fever,Active,Vegetarian,No,Yes,Medium,Moderate,Tachycardia,Increase Fiber
+47,Female,186,119,30.68,High,73,159,High,98,37.8,4.6,Peripheral Neuropathy,Yes,Yes,Stomach Ulcer,Sedentary,Keto,Yes,No,Medium,Moderate,COPD,Increase Omega-3 Intake
+34,Female,179,90,32.87,Normal,115,84,Borderline,90,38.6,6.0,Asthma,No,Yes,Fever,Active,Non-Vegetarian,No,Yes,High,Low,Tachycardia,Reduce Sugar
+79,Male,185,88,20.32,High,90,183,Normal,96,37.8,5.2,Obstructive Sleep Apnea,No,No,Fever,Active,Keto,Yes,No,Low,Low,Hyperthyroidism,Low-Sodium Diet
+61,Male,161,86,32.18,High,91,70,Normal,94,39.9,5.4,Arthritis,Yes,Yes,Cold,Moderate,Vegetarian,Yes,No,Low,Low,Hyperthyroidism,Reduce Sugar
+58,Male,156,105,28.9,Normal,97,75,Normal,97,38.4,4.4,Arthritis,Yes,No,Urinary Tract Infection,Active,Keto,Yes,Yes,Medium,Moderate,Liver Cirrhosis,Plant-Based Diet
+68,Male,175,103,33.55,Elevated,107,127,Normal,92,39.8,8.9,Gout,No,Yes,Dengue,Active,Vegan,Yes,No,Medium,Moderate,Bradycardia,DASH Diet
+76,Female,180,102,26.8,Normal,88,91,High,90,36.8,6.2,Arthritis,No,Yes,Hypertensive Crisis,Active,Non-Vegetarian,Yes,No,Low,Low,Atherosclerosis,Low-Sodium Diet
+76,Male,196,93,20.31,Elevated,72,107,Normal,96,39.8,6.5,Sleep Apnea,No,No,Urinary Tract Infection,Active,Vegetarian,No,Yes,Medium,High,Diabetes,Low-Fat Diet
+38,Male,197,90,26.37,High,101,142,Normal,94,36.1,7.8,Asthma,Yes,No,Hypoglycemia Episode,Active,Keto,Yes,Yes,Medium,Low,Stroke Risk,Low-Carb Diet
+30,Male,183,58,27.64,Elevated,101,110,High,96,39.4,7.7,Obstructive Sleep Apnea,No,No,Cold,Sedentary,Vegan,No,Yes,Medium,Moderate,Congestive Heart Failure,Anti-Inflammatory Diet
+58,Female,172,96,27.97,Elevated,75,184,Borderline,92,38.3,7.5,Peripheral Neuropathy,Yes,Yes,Typhoid,Sedentary,Vegetarian,No,No,Medium,Moderate,Congestive Heart Failure,Gluten-Free Diet
+27,Male,173,96,21.89,High,64,165,High,90,38.8,9.4,Migraine,Yes,No,Acute Bronchitis,Moderate,Non-Vegetarian,Yes,No,Low,Low,Sleep Apnea,High-Potassium Diet
+50,Male,167,45,19.1,Normal,76,116,High,92,39.8,8.8,Metabolic Syndrome,Yes,Yes,Flu,Sedentary,Vegan,No,Yes,Low,Moderate,Sleep Apnea,Low-Fat Diet
+29,Male,167,117,33.13,Elevated,91,77,High,98,39.5,8.4,Asthma,No,Yes,COVID-19,Sedentary,Vegan,Yes,Yes,High,Moderate,Hypertensive Emergency,Mediterranean Diet
+72,Male,171,69,28.2,Normal,66,170,Borderline,96,38.7,4.6,Arthritis,Yes,No,Sinusitis,Moderate,Vegetarian,No,Yes,High,Low,Heart Disease,Plant-Based Diet
+79,Female,151,72,20.06,Elevated,69,198,High,97,36.4,8.3,Liver Disease,No,No,Gastroenteritis,Moderate,Vegetarian,Yes,Yes,Low,High,Hypertension,Plant-Based Diet
+37,Female,186,101,33.38,High,73,166,High,94,36.6,9.9,Peripheral Neuropathy,Yes,No,Dengue,Active,Keto,No,No,Low,High,Atherosclerosis,Low-Carb Diet
+66,Female,175,104,30.2,High,110,110,Normal,96,37.2,4.1,Thyroid Disorder,Yes,No,COVID-19,Sedentary,Vegan,No,Yes,Low,Moderate,Anemia,DASH Diet
+68,Female,169,83,34.78,Normal,60,106,High,94,38.6,6.9,Diabetes,Yes,No,Acute Bronchitis,Active,Vegan,No,No,High,Low,Obesity,Plant-Based Diet
+50,Male,167,45,19.1,Normal,76,116,High,92,39.8,8.8,Prediabetes,Yes,Yes,Gastroenteritis,Sedentary,Vegan,No,Yes,Low,Moderate,Hypertensive Emergency,Mediterranean Diet
+41,Male,165,60,33.6,Normal,93,141,High,98,36.9,6.2,Heart Disease,Yes,Yes,Fever,Active,Vegetarian,Yes,No,Low,Low,Arthritis,Keto Diet
+43,Female,154,85,27.22,Elevated,62,102,Normal,97,36.3,9.0,Arthritis,No,Yes,Fever,Active,Non-Vegetarian,Yes,Yes,High,Moderate,Hypertensive Emergency,High-Calcium Diet
+62,Female,186,77,31.14,High,88,173,Normal,96,35.9,4.7,Heart Disease,No,No,Hypertensive Crisis,Moderate,Non-Vegetarian,No,Yes,High,High,Liver Cirrhosis,Anti-Inflammatory Diet
+61,Female,198,113,21.32,Normal,91,141,Normal,99,37.0,8.2,Peripheral Neuropathy,No,Yes,Gastroenteritis,Active,Non-Vegetarian,Yes,Yes,Medium,High,Arthritis,Low-Sodium Diet
+40,Female,152,107,31.12,Normal,60,184,High,91,39.0,8.9,Migraine,No,Yes,Gastroenteritis,Active,Non-Vegetarian,Yes,Yes,Medium,High,COPD,Low-Fat Diet
+47,Male,184,92,26.49,Elevated,82,186,Normal,92,36.6,4.9,Gout,Yes,Yes,Sinusitis,Sedentary,Vegan,Yes,No,Low,High,Metabolic Syndrome,Low-Fat Diet
+23,Male,150,57,20.53,Elevated,70,138,High,95,38.0,6.6,Obstructive Sleep Apnea,No,No,Severe Headache,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Hypertension,Low-Sodium Diet
+46,Male,178,78,32.05,Normal,82,79,High,98,36.4,8.9,Kidney Disease,No,No,Urinary Tract Infection,Moderate,Non-Vegetarian,Yes,Yes,Medium,Moderate,Peripheral Artery Disease,Low-Carb Diet
+62,Female,186,77,31.14,High,88,173,Normal,96,35.9,4.7,Gout,No,No,Ear Infection,Moderate,Non-Vegetarian,No,Yes,High,High,Hypertensive Emergency,High-Potassium Diet
+34,Male,173,71,25.65,Elevated,69,152,Normal,91,38.2,4.3,Peripheral Neuropathy,Yes,No,Infection,Sedentary,Vegetarian,Yes,Yes,Medium,Low,Kidney Disease,Increase Fiber
+58,Male,177,65,22.58,Elevated,76,92,Borderline,94,39.0,5.5,Arthritis,No,Yes,Bronchitis,Active,Vegan,No,No,Medium,Low,Heart Disease,Balanced Diet
+52,Female,191,95,27.04,Elevated,101,183,Normal,95,37.3,9.9,Sleep Apnea,No,No,Sinusitis,Active,Keto,No,No,High,Low,Arthritis,Keto Diet
+47,Female,186,119,30.68,High,73,159,High,98,37.8,4.6,Atrial Fibrillation,Yes,Yes,COVID-19,Sedentary,Keto,Yes,No,Medium,Moderate,Hypertension,DASH Diet
+62,Male,181,98,20.53,High,95,188,High,94,37.7,4.8,Diabetes,No,Yes,Urinary Tract Infection,Active,Non-Vegetarian,Yes,Yes,Low,Moderate,Diabetes,Low-Fat Diet
+46,Female,180,76,31.06,Elevated,92,167,Borderline,98,39.8,4.7,Migraine,No,No,Dengue,Sedentary,Vegan,Yes,Yes,High,Moderate,Chronic Fatigue,Plant-Based Diet
+69,Male,177,47,34.89,Elevated,92,73,Borderline,94,38.8,6.4,Gout,Yes,No,Sinusitis,Sedentary,Non-Vegetarian,Yes,No,High,Moderate,Hypertension,Gluten-Free Diet
+58,Male,151,85,23.42,Normal,102,125,Normal,90,38.2,9.9,Sleep Apnea,Yes,No,Bronchitis,Sedentary,Vegan,No,Yes,Medium,High,Stroke Risk,Anti-Inflammatory Diet
+29,Male,157,98,23.75,High,79,137,Normal,94,38.0,6.6,Metabolic Syndrome,No,No,Typhoid,Sedentary,Non-Vegetarian,No,Yes,Low,Moderate,Liver Cirrhosis,Increase Fiber
+67,Female,152,110,21.77,High,96,127,Normal,95,36.9,5.0,Migraine,No,No,Cold,Sedentary,Vegetarian,No,Yes,Medium,Moderate,Tachycardia,Increase Omega-3 Intake
+76,Female,169,57,25.29,High,64,193,Borderline,94,38.7,7.0,Thyroid Disorder,No,No,COVID-19,Active,Non-Vegetarian,Yes,No,Medium,High,Arthritis,Reduce Sugar
+76,Male,189,105,22.92,Elevated,97,182,Borderline,91,36.5,5.2,COPD,Yes,No,Flu,Sedentary,Non-Vegetarian,No,No,Low,High,Obesity,Plant-Based Diet
+60,Female,161,62,32.27,Normal,71,179,High,95,39.1,5.8,Liver Disease,Yes,No,Urinary Tract Infection,Moderate,Vegan,Yes,No,Medium,Moderate,Hyperthyroidism,High-Calcium Diet
+44,Male,160,105,18.87,Elevated,91,151,Normal,92,36.4,6.6,Prediabetes,No,No,Gastroenteritis,Sedentary,Vegetarian,Yes,No,Medium,Moderate,Atherosclerosis,Balanced Diet
+26,Male,172,88,19.77,Elevated,98,143,High,93,36.1,8.4,Prediabetes,Yes,No,Ear Infection,Active,Keto,No,No,High,High,Hypertensive Emergency,Low-Fat Diet
+33,Male,197,113,27.95,Normal,103,194,Normal,99,37.4,9.7,Heart Disease,Yes,Yes,Dengue,Moderate,Vegan,Yes,Yes,High,High,Osteoporosis,Heart-Healthy Diet
+69,Male,173,67,32.0,Normal,67,80,High,91,36.9,6.7,COPD,No,No,Acute Bronchitis,Active,Vegetarian,Yes,No,Low,Moderate,Hyperthyroidism,Low-Fat Diet
+57,Female,181,106,30.56,Normal,79,193,High,91,36.3,6.6,Hypertension,No,Yes,Dengue,Moderate,Non-Vegetarian,Yes,No,High,Moderate,COPD,Increase Omega-3 Intake
+78,Female,173,56,28.32,High,107,140,Borderline,97,36.2,7.6,Migraine,Yes,No,Typhoid,Sedentary,Vegetarian,Yes,Yes,High,High,Osteoporosis,Balanced Diet
+77,Male,164,49,24.84,High,112,110,Normal,99,38.1,4.0,Liver Disease,Yes,Yes,Dengue,Active,Keto,No,Yes,Medium,Moderate,Atherosclerosis,Heart-Healthy Diet
+40,Male,167,111,31.3,Elevated,69,116,Normal,98,40.0,9.2,Migraine,No,No,Hypoglycemia Episode,Active,Vegetarian,Yes,Yes,High,High,Chronic Fatigue,High-Calcium Diet
+69,Female,191,108,34.62,High,107,192,Borderline,95,39.6,8.5,Gout,No,Yes,Stomach Ulcer,Active,Vegetarian,No,Yes,Medium,High,Diabetes,Low-Glycemic Diet
+41,Female,189,84,26.55,High,61,173,High,91,36.5,8.5,Thyroid Disorder,Yes,Yes,Severe Headache,Sedentary,Vegan,Yes,No,Medium,Low,Hypertensive Emergency,Keto Diet
+66,Female,159,88,34.28,Normal,81,149,Normal,90,37.1,5.4,Liver Disease,Yes,Yes,Stomach Ulcer,Active,Keto,No,Yes,High,Moderate,Metabolic Syndrome,Plant-Based Diet
+58,Male,156,105,28.9,Normal,97,75,Normal,97,38.4,4.4,Arthritis,Yes,No,Typhoid,Active,Keto,Yes,Yes,Medium,Moderate,Hypertensive Emergency,Increase Protein
+32,Female,186,49,25.81,High,80,88,High,94,35.7,8.0,Diabetes,Yes,Yes,Fever,Sedentary,Keto,Yes,Yes,Low,Moderate,Heart Disease,Reduce Sugar
+37,Female,157,90,26.62,High,111,179,High,93,37.2,5.8,Liver Disease,No,No,Pneumonia,Sedentary,Keto,No,No,Medium,Low,Stroke Risk,Plant-Based Diet
+62,Male,153,95,33.16,High,108,76,High,95,37.6,4.8,Peripheral Neuropathy,No,Yes,Respiratory Infection,Active,Vegan,No,No,High,Low,Osteoporosis,Increase Omega-3 Intake
+71,Female,164,82,25.51,Normal,102,154,High,95,36.7,8.3,Diabetes,No,No,Severe Headache,Sedentary,Vegan,Yes,Yes,Medium,Low,Hypothyroidism,Gluten-Free Diet
+31,Male,178,100,26.47,High,63,148,Borderline,94,39.5,7.0,Hypertension,Yes,No,Stomach Ulcer,Moderate,Vegan,No,Yes,Low,Moderate,Hyperthyroidism,Increase Protein
+70,Male,191,61,32.58,Normal,119,133,Borderline,98,40.0,4.5,Peripheral Neuropathy,Yes,Yes,Food Poisoning,Moderate,Vegetarian,No,Yes,Medium,High,Kidney Disease,High-Calcium Diet
+33,Female,163,91,18.94,Elevated,114,199,Normal,91,36.4,4.5,Asthma,No,No,Hypertensive Crisis,Sedentary,Vegan,No,No,Medium,Low,Heart Disease,Gluten-Free Diet
+69,Female,160,113,30.47,Normal,79,132,Normal,97,38.1,7.2,Hypertension,No,No,Food Poisoning,Sedentary,Keto,No,No,Low,Moderate,Hypertensive Emergency,High-Potassium Diet
+56,Male,162,119,31.73,Elevated,111,182,Borderline,98,38.6,5.9,Hypertension,Yes,Yes,Food Poisoning,Moderate,Vegan,No,No,Medium,High,Peripheral Artery Disease,Increase Fiber
+29,Female,195,47,25.34,Normal,69,178,Borderline,95,37.3,8.9,Migraine,No,No,Typhoid,Active,Vegan,No,No,Low,Low,Obesity,Increase Fiber
+29,Female,171,55,21.86,Normal,65,137,Normal,91,35.7,4.8,Diabetes,Yes,Yes,Fever,Active,Non-Vegetarian,No,No,High,Low,Atherosclerosis,Increase Fiber
+38,Male,197,90,26.37,High,101,142,Normal,94,36.1,7.8,Atrial Fibrillation,Yes,No,COVID-19,Active,Keto,Yes,Yes,Medium,Low,Congestive Heart Failure,Anti-Inflammatory Diet
+47,Female,181,65,31.26,Normal,111,83,High,97,38.1,5.7,Sleep Apnea,No,No,Ear Infection,Moderate,Vegetarian,No,No,Low,Low,Hypertensive Emergency,Balanced Diet
+43,Female,161,80,30.78,Elevated,64,97,Borderline,94,38.0,6.5,Migraine,No,No,Flu,Active,Vegan,Yes,No,High,Low,Hypothyroidism,Low-Carb Diet
+57,Female,181,106,30.56,Normal,79,193,High,91,36.3,6.6,Arthritis,No,Yes,Urinary Tract Infection,Moderate,Non-Vegetarian,Yes,No,High,Moderate,Obesity,Increase Protein
+78,Female,168,103,21.2,Elevated,109,115,Normal,99,36.0,9.8,Diabetes,No,No,Respiratory Infection,Sedentary,Vegetarian,Yes,No,High,Moderate,Heart Disease,Keto Diet
+40,Male,173,68,32.55,Elevated,68,164,High,93,35.5,8.9,Liver Disease,No,No,Urinary Tract Infection,Sedentary,Keto,No,Yes,Medium,Low,Hyperthyroidism,Low-Carb Diet
+69,Male,156,71,33.76,Normal,76,136,Normal,95,36.8,5.3,Asthma,Yes,No,Flu,Moderate,Vegan,Yes,No,High,Low,Heart Disease,High-Calcium Diet
+51,Female,176,47,31.2,Normal,110,111,High,93,39.9,7.3,Metabolic Syndrome,Yes,Yes,Hypertensive Crisis,Sedentary,Keto,No,Yes,Low,Low,Hyperthyroidism,Heart-Healthy Diet
+64,Female,150,80,25.87,Elevated,73,166,High,91,36.0,6.6,Hypercholesterolemia,Yes,Yes,Urinary Tract Infection,Sedentary,Vegetarian,Yes,No,Low,Moderate,COPD,Reduce Sugar
+50,Male,164,99,34.97,Elevated,90,140,Borderline,93,37.7,5.7,Prediabetes,Yes,No,Respiratory Infection,Sedentary,Vegetarian,Yes,Yes,Medium,Moderate,Diabetes,Increase Protein
+56,Female,165,102,26.37,Elevated,92,160,Borderline,99,38.8,7.7,Prediabetes,No,No,Sinusitis,Active,Keto,Yes,Yes,Low,High,Atherosclerosis,Low-Fat Diet
+31,Male,172,96,24.14,Elevated,104,164,Borderline,90,35.9,9.2,Obstructive Sleep Apnea,No,No,Typhoid,Active,Vegan,No,Yes,Medium,High,Anemia,Low-Glycemic Diet
+39,Male,173,73,19.63,Normal,93,125,Normal,94,35.6,8.8,Diabetes,Yes,No,Typhoid,Active,Keto,No,No,High,High,Chronic Fatigue,Increase Fiber
+61,Male,188,92,32.4,Elevated,112,149,High,97,35.8,7.1,Prediabetes,Yes,Yes,Urinary Tract Infection,Moderate,Non-Vegetarian,Yes,No,Low,Low,Arthritis,Balanced Diet
+55,Female,165,73,29.2,Normal,66,153,Normal,95,35.8,7.5,Metabolic Syndrome,Yes,Yes,Food Poisoning,Moderate,Non-Vegetarian,No,Yes,High,Moderate,Anemia,Low-Glycemic Diet
+46,Male,182,112,21.8,Elevated,76,193,Borderline,90,38.9,7.6,Gout,No,Yes,Bronchitis,Sedentary,Non-Vegetarian,Yes,Yes,Medium,Low,Congestive Heart Failure,Low-Glycemic Diet
+49,Male,162,87,26.49,Normal,110,185,Normal,99,39.5,8.5,Liver Disease,Yes,Yes,Typhoid,Moderate,Keto,No,Yes,Medium,Moderate,Anemia,High-Calcium Diet
+31,Male,173,70,27.73,Elevated,107,161,Normal,99,39.1,5.1,Peripheral Neuropathy,Yes,Yes,Stomach Ulcer,Active,Non-Vegetarian,Yes,No,Low,Moderate,COPD,Keto Diet
+59,Male,199,53,29.81,Elevated,60,72,Normal,91,37.9,9.4,Liver Disease,No,Yes,Flu,Sedentary,Non-Vegetarian,No,No,High,Low,Hypertensive Emergency,Increase Fiber
+60,Male,164,48,28.7,Normal,97,110,High,96,38.5,9.4,Asthma,Yes,No,Food Poisoning,Moderate,Vegetarian,No,Yes,Medium,High,Obesity,Gluten-Free Diet
+33,Female,195,66,29.8,High,109,175,High,95,37.3,8.0,Kidney Disease,No,Yes,Hypertensive Crisis,Sedentary,Keto,No,Yes,Low,High,Metabolic Syndrome,Low-Fat Diet
+70,Male,191,61,32.58,Normal,119,133,Borderline,98,40.0,4.5,Hypercholesterolemia,Yes,Yes,Typhoid,Moderate,Vegetarian,No,Yes,Medium,High,Congestive Heart Failure,Increase Protein
+78,Male,163,87,20.64,High,78,176,Borderline,93,35.9,6.5,Peripheral Neuropathy,No,No,Dengue,Moderate,Vegetarian,Yes,Yes,Medium,Low,Osteoporosis,Balanced Diet
+67,Female,182,52,19.18,Elevated,69,143,High,91,38.8,8.5,Hypercholesterolemia,Yes,Yes,Acute Bronchitis,Sedentary,Keto,Yes,Yes,Medium,Moderate,Peripheral Artery Disease,Low-Fat Diet
+44,Female,150,92,19.0,Normal,70,109,Normal,95,35.6,4.2,Migraine,No,Yes,Pneumonia,Active,Non-Vegetarian,Yes,No,Medium,High,COPD,Anti-Inflammatory Diet
+34,Female,179,90,32.87,Normal,115,84,Borderline,90,38.6,6.0,Peripheral Neuropathy,No,Yes,Respiratory Infection,Active,Non-Vegetarian,No,Yes,High,Low,Hypertension,High-Potassium Diet
+46,Male,187,79,28.74,Elevated,115,82,Normal,98,38.2,5.7,Sleep Apnea,Yes,No,Typhoid,Active,Vegan,Yes,Yes,Medium,Moderate,Obesity,Reduce Sugar
+68,Male,175,103,33.55,Elevated,107,127,Normal,92,39.8,8.9,Hypercholesterolemia,No,Yes,Sinusitis,Active,Vegan,Yes,No,Medium,Moderate,Hypertensive Emergency,Balanced Diet
+76,Female,169,57,25.29,High,64,193,Borderline,94,38.7,7.0,Migraine,No,No,Pneumonia,Active,Non-Vegetarian,Yes,No,Medium,High,Kidney Disease,Plant-Based Diet
+70,Male,197,57,30.07,Normal,92,174,Normal,96,39.8,7.9,COPD,Yes,No,Cold,Moderate,Non-Vegetarian,No,Yes,High,High,Stroke Risk,High-Calcium Diet
+57,Male,174,52,22.93,Normal,87,137,Borderline,95,37.1,8.4,Thyroid Disorder,No,Yes,Urinary Tract Infection,Sedentary,Vegan,Yes,Yes,High,Low,Hypertension,Increase Protein
+60,Male,176,103,24.05,Elevated,68,79,Borderline,94,37.0,5.9,Obstructive Sleep Apnea,No,Yes,Hypertensive Crisis,Sedentary,Vegetarian,No,No,High,Low,Metabolic Syndrome,Balanced Diet
+46,Male,194,87,28.26,High,77,160,Normal,94,38.8,5.5,Atrial Fibrillation,No,Yes,Flu,Moderate,Non-Vegetarian,Yes,Yes,Medium,Moderate,Obesity,Anti-Inflammatory Diet
+76,Female,169,57,25.29,High,64,193,Borderline,94,38.7,7.0,Migraine,No,No,Sinusitis,Active,Non-Vegetarian,Yes,No,Medium,High,Congestive Heart Failure,Low-Sodium Diet
+64,Male,183,80,25.56,High,113,78,High,93,39.0,5.8,Hypertension,No,No,Dengue,Sedentary,Keto,No,No,Medium,High,Obesity,Low-Fat Diet
+36,Male,162,74,31.69,Elevated,103,192,High,94,37.7,5.9,Thyroid Disorder,Yes,No,Hypertensive Crisis,Moderate,Keto,Yes,No,High,High,Kidney Disease,Low-Sodium Diet
+24,Female,164,107,20.82,Normal,86,179,High,97,36.4,6.8,Arthritis,No,Yes,Pneumonia,Moderate,Vegan,Yes,No,Low,High,Sleep Apnea,Increase Fiber
+24,Female,158,83,24.43,Elevated,105,94,High,99,36.4,4.9,Sleep Apnea,Yes,Yes,Food Poisoning,Moderate,Vegetarian,No,No,High,Low,Metabolic Syndrome,Gluten-Free Diet
+76,Male,159,112,26.64,Normal,114,125,Borderline,92,36.6,9.3,Asthma,No,Yes,Food Poisoning,Moderate,Vegan,No,No,Low,Moderate,Congestive Heart Failure,Increase Protein
+26,Female,158,92,32.87,Elevated,69,134,High,91,38.2,4.6,Prediabetes,No,No,Severe Headache,Sedentary,Keto,No,Yes,High,High,Hypothyroidism,Increase Protein
+39,Male,173,73,19.63,Normal,93,125,Normal,94,35.6,8.8,Atrial Fibrillation,Yes,No,Severe Headache,Active,Keto,No,No,High,High,Arthritis,Plant-Based Diet
+47,Female,190,90,26.13,Elevated,117,106,Borderline,91,36.6,9.0,Thyroid Disorder,No,Yes,Ear Infection,Active,Vegan,Yes,Yes,High,Low,Diabetes,Mediterranean Diet
+23,Male,168,78,21.89,Normal,116,128,Borderline,94,37.2,9.8,Asthma,No,Yes,COVID-19,Moderate,Non-Vegetarian,No,No,High,Low,Sleep Apnea,Low-Sodium Diet
+27,Female,150,94,27.67,High,111,99,Normal,99,37.2,6.9,Asthma,Yes,No,Acute Bronchitis,Active,Vegetarian,No,Yes,Medium,Low,Congestive Heart Failure,Low-Carb Diet
+43,Female,187,107,29.74,Normal,92,187,Borderline,98,38.6,8.4,Gout,Yes,No,COVID-19,Moderate,Keto,No,Yes,High,Moderate,Osteoporosis,Heart-Healthy Diet
+63,Female,189,91,20.51,Elevated,70,165,Normal,96,37.9,9.5,Heart Disease,No,Yes,Pneumonia,Moderate,Vegetarian,No,No,Medium,Moderate,Anemia,High-Calcium Diet
+56,Female,150,115,30.87,Elevated,71,177,Borderline,93,37.4,6.7,Diabetes,Yes,No,Acute Bronchitis,Sedentary,Keto,No,No,Low,Moderate,Kidney Disease,Heart-Healthy Diet
+39,Male,186,69,25.85,High,99,187,Borderline,91,38.0,9.4,Metabolic Syndrome,Yes,No,Cold,Sedentary,Vegan,No,No,Low,Moderate,Hyperthyroidism,High-Calcium Diet
+76,Male,195,82,26.3,Normal,97,118,Borderline,94,38.8,7.9,Liver Disease,Yes,No,Typhoid,Sedentary,Non-Vegetarian,Yes,Yes,Low,Moderate,Peripheral Artery Disease,Increase Fiber
+21,Male,154,60,23.51,Normal,112,93,Borderline,98,37.1,6.3,Sleep Apnea,Yes,Yes,Typhoid,Active,Non-Vegetarian,Yes,Yes,Low,Moderate,Kidney Disease,Plant-Based Diet
+51,Female,162,113,33.23,Elevated,92,174,Normal,90,36.4,5.1,Obstructive Sleep Apnea,Yes,Yes,Urinary Tract Infection,Active,Vegetarian,Yes,No,Low,High,Hyperthyroidism,Plant-Based Diet
+47,Male,195,69,21.21,High,65,149,High,98,36.6,7.0,Asthma,Yes,Yes,Acute Bronchitis,Sedentary,Non-Vegetarian,No,Yes,Low,High,Hypertensive Emergency,High-Potassium Diet
+18,Male,175,47,23.59,High,77,72,Borderline,94,39.0,7.0,Asthma,No,No,Hypertensive Crisis,Sedentary,Vegetarian,No,No,Low,High,Obesity,Gluten-Free Diet
+67,Female,183,75,26.01,High,81,131,High,98,37.2,9.5,Hypertension,Yes,No,Typhoid,Moderate,Keto,Yes,Yes,Medium,Low,Hypothyroidism,Balanced Diet
+40,Male,173,68,32.55,Elevated,68,164,High,93,35.5,8.9,Hypercholesterolemia,No,No,Respiratory Infection,Sedentary,Keto,No,Yes,Medium,Low,Arthritis,Heart-Healthy Diet
+58,Male,177,65,22.58,Elevated,76,92,Borderline,94,39.0,5.5,Diabetes,No,Yes,Fever,Active,Vegan,No,No,Medium,Low,Hypothyroidism,Balanced Diet
+22,Female,181,63,28.64,High,84,76,High,95,38.8,8.8,Atrial Fibrillation,Yes,No,COVID-19,Sedentary,Keto,No,No,Medium,Moderate,Kidney Disease,Low-Glycemic Diet
+38,Male,165,70,30.8,Normal,78,95,High,98,37.5,9.4,Prediabetes,No,Yes,Acute Bronchitis,Moderate,Vegan,No,No,Medium,Moderate,Diabetes,Anti-Inflammatory Diet
+41,Female,169,84,33.78,Normal,100,159,Normal,94,38.4,6.1,Asthma,Yes,Yes,Dengue,Moderate,Keto,Yes,No,Medium,Moderate,Liver Cirrhosis,Balanced Diet
+39,Female,169,68,26.53,Elevated,90,184,High,94,39.8,4.7,Thyroid Disorder,Yes,No,Infection,Active,Keto,No,No,Low,Low,Bradycardia,High-Potassium Diet
+23,Male,198,66,23.45,Elevated,75,166,Borderline,92,36.1,7.9,Migraine,No,No,Cold,Active,Vegetarian,No,Yes,Medium,Low,Obesity,Low-Glycemic Diet
+77,Male,172,83,21.67,Normal,62,187,High,92,37.4,8.2,Obstructive Sleep Apnea,Yes,Yes,Infection,Moderate,Non-Vegetarian,Yes,Yes,High,Low,Heart Disease,Plant-Based Diet
+77,Female,159,106,27.29,Normal,113,126,Borderline,97,38.7,7.1,Liver Disease,Yes,No,Sinusitis,Sedentary,Non-Vegetarian,Yes,Yes,Medium,High,Hypothyroidism,Anti-Inflammatory Diet
+26,Male,196,81,22.39,Normal,93,189,Normal,93,36.0,9.7,Arthritis,No,No,Urinary Tract Infection,Sedentary,Vegetarian,No,Yes,Medium,High,Congestive Heart Failure,Keto Diet
+29,Female,193,60,23.11,Elevated,111,83,Normal,93,36.2,4.1,Hypercholesterolemia,Yes,No,Infection,Moderate,Vegan,Yes,Yes,Low,Low,Tachycardia,Keto Diet
+29,Male,164,60,25.47,Normal,79,176,High,90,39.6,5.5,Liver Disease,Yes,Yes,Sinusitis,Active,Non-Vegetarian,No,Yes,Low,High,Stroke Risk,Increase Fiber
+24,Female,158,83,24.43,Elevated,105,94,High,99,36.4,4.9,Sleep Apnea,Yes,Yes,Acute Bronchitis,Moderate,Vegetarian,No,No,High,Low,Peripheral Artery Disease,Increase Fiber
+60,Male,150,107,30.17,Elevated,102,85,High,97,36.7,7.9,Hypertension,Yes,No,COVID-19,Active,Vegan,No,No,Low,Low,Stroke Risk,Low-Fat Diet
+58,Male,156,105,28.9,Normal,97,75,Normal,97,38.4,4.4,Arthritis,Yes,No,Typhoid,Active,Keto,Yes,Yes,Medium,Moderate,Heart Disease,Anti-Inflammatory Diet
+58,Female,154,97,34.35,High,96,164,Normal,93,37.9,7.6,Kidney Disease,Yes,No,Severe Headache,Active,Vegetarian,Yes,Yes,Medium,Moderate,Diabetes,Low-Sodium Diet
+58,Female,188,58,21.98,Elevated,66,185,High,90,37.4,8.8,Prediabetes,Yes,Yes,Typhoid,Moderate,Vegan,Yes,Yes,Medium,High,Heart Disease,Gluten-Free Diet
+74,Male,153,118,34.42,Elevated,115,95,Borderline,93,37.9,9.4,Metabolic Syndrome,No,Yes,Fever,Sedentary,Vegetarian,Yes,No,Medium,High,Hypertension,Mediterranean Diet
+64,Female,155,93,26.09,High,117,70,High,94,36.1,5.3,Peripheral Neuropathy,No,Yes,Fever,Sedentary,Non-Vegetarian,No,Yes,High,Moderate,Hypertensive Emergency,Low-Carb Diet
+68,Male,174,68,27.92,Normal,110,134,Normal,91,38.8,5.5,Peripheral Neuropathy,No,Yes,Respiratory Infection,Moderate,Keto,Yes,Yes,Medium,Low,Hypothyroidism,DASH Diet
+68,Male,175,103,33.55,Elevated,107,127,Normal,92,39.8,8.9,Atrial Fibrillation,No,Yes,Cold,Active,Vegan,Yes,No,Medium,Moderate,Bradycardia,Reduce Sugar
+71,Female,180,53,30.92,Elevated,100,144,High,98,36.1,6.9,COPD,No,Yes,Flu,Active,Non-Vegetarian,No,No,Low,Low,Kidney Disease,Mediterranean Diet
+26,Male,190,68,25.12,Elevated,118,147,Borderline,99,39.0,9.5,Migraine,Yes,No,Acute Bronchitis,Moderate,Vegetarian,No,Yes,Medium,Moderate,Metabolic Syndrome,Reduce Sugar
+43,Male,166,72,32.47,Elevated,110,138,Borderline,96,36.2,6.1,Gout,No,Yes,Infection,Active,Vegan,No,Yes,Low,Low,Metabolic Syndrome,Low-Carb Diet
+54,Male,188,59,25.88,High,88,77,Borderline,98,35.6,9.8,Metabolic Syndrome,No,Yes,Food Poisoning,Active,Vegetarian,No,No,High,Moderate,Kidney Disease,Increase Protein
+56,Male,192,111,25.48,High,111,177,High,93,37.3,5.6,Migraine,Yes,Yes,Fever,Active,Vegetarian,Yes,Yes,Low,Low,Anemia,Mediterranean Diet
+69,Male,175,68,34.3,Elevated,82,152,High,90,38.2,4.3,Atrial Fibrillation,No,No,Severe Headache,Sedentary,Vegetarian,No,Yes,Low,High,Hypertensive Emergency,Low-Fat Diet
+78,Female,173,56,28.32,High,107,140,Borderline,97,36.2,7.6,Diabetes,Yes,No,Urinary Tract Infection,Sedentary,Vegetarian,Yes,Yes,High,High,Sleep Apnea,Low-Carb Diet
+18,Female,163,103,31.05,High,99,113,Borderline,96,39.0,5.9,Thyroid Disorder,Yes,Yes,Infection,Moderate,Non-Vegetarian,No,No,Medium,Low,Metabolic Syndrome,Increase Fiber
+43,Female,156,112,21.86,High,78,74,Borderline,95,36.0,7.4,Heart Disease,No,No,Bronchitis,Active,Vegan,No,Yes,High,Low,Hyperthyroidism,Low-Sodium Diet
+74,Female,166,90,21.34,Elevated,114,162,Normal,98,36.3,4.3,COPD,Yes,Yes,Dengue,Active,Non-Vegetarian,Yes,No,Medium,Low,Peripheral Artery Disease,Low-Sodium Diet
+60,Female,186,57,32.57,Normal,74,170,Borderline,92,37.9,4.0,Arthritis,Yes,No,Dengue,Moderate,Vegan,Yes,No,Medium,Moderate,Hypertensive Emergency,Increase Protein
+50,Female,165,98,28.71,Normal,116,127,Normal,94,38.0,7.5,Asthma,No,No,Infection,Moderate,Keto,Yes,Yes,High,Moderate,COPD,Heart-Healthy Diet
+79,Male,185,88,20.32,High,90,183,Normal,96,37.8,5.2,Hypertension,No,No,Dengue,Active,Keto,Yes,No,Low,Low,Atherosclerosis,DASH Diet
+75,Female,165,47,28.37,Normal,95,193,Normal,94,38.5,5.6,Asthma,No,Yes,Severe Headache,Sedentary,Keto,Yes,No,High,High,Liver Cirrhosis,Balanced Diet
+45,Female,181,83,30.07,High,93,95,High,98,37.8,6.0,Hypertension,Yes,No,Bronchitis,Moderate,Keto,No,Yes,Medium,Low,Bradycardia,Reduce Sugar
+22,Male,171,51,24.14,Elevated,108,80,High,96,39.1,8.3,Liver Disease,Yes,No,Severe Headache,Sedentary,Non-Vegetarian,Yes,Yes,Medium,Moderate,Bradycardia,Low-Carb Diet
+48,Male,161,84,27.32,Normal,62,196,High,98,37.2,6.9,Atrial Fibrillation,Yes,Yes,Typhoid,Active,Vegan,Yes,No,Low,Moderate,Stroke Risk,Low-Fat Diet
+36,Male,166,72,27.25,High,92,150,Borderline,97,36.7,6.5,Metabolic Syndrome,Yes,No,Hypertensive Crisis,Active,Non-Vegetarian,No,No,Medium,Moderate,Sleep Apnea,Low-Carb Diet
+49,Male,159,62,28.57,Elevated,80,93,Normal,94,39.4,7.0,Gout,No,No,Flu,Active,Keto,Yes,Yes,High,Moderate,Hyperthyroidism,Low-Fat Diet
+45,Male,165,107,18.78,Normal,80,174,High,99,37.6,6.5,Asthma,Yes,Yes,Respiratory Infection,Moderate,Keto,Yes,No,Medium,High,Stroke Risk,High-Potassium Diet
+52,Male,150,117,28.5,High,101,85,Borderline,93,38.6,6.4,Metabolic Syndrome,No,Yes,Dengue,Moderate,Vegan,No,No,Low,Moderate,Tachycardia,Keto Diet
+31,Female,172,81,32.83,Elevated,78,140,Borderline,95,40.0,5.7,Migraine,No,Yes,Urinary Tract Infection,Moderate,Vegetarian,Yes,No,High,Low,Hypertensive Emergency,Reduce Sugar
+26,Female,196,47,32.55,Normal,104,180,Borderline,92,38.4,4.5,Metabolic Syndrome,No,Yes,Food Poisoning,Moderate,Vegan,Yes,Yes,Medium,Low,Osteoporosis,Anti-Inflammatory Diet
+76,Male,194,109,25.55,Elevated,110,70,Normal,94,36.8,5.4,Obstructive Sleep Apnea,Yes,Yes,Bronchitis,Active,Vegetarian,No,Yes,High,Low,Hypertensive Emergency,Low-Fat Diet
+32,Female,158,76,25.29,Elevated,61,197,High,93,35.8,4.0,Hypertension,Yes,No,Respiratory Infection,Active,Keto,No,Yes,Medium,High,Hypertension,Heart-Healthy Diet
+48,Female,178,87,28.09,High,111,77,High,98,37.1,7.7,Prediabetes,Yes,No,Stomach Ulcer,Active,Vegetarian,No,No,Medium,Moderate,Atherosclerosis,Increase Protein
+73,Male,164,60,24.49,Normal,83,135,Normal,97,38.4,8.6,Kidney Disease,Yes,No,Typhoid,Moderate,Non-Vegetarian,Yes,Yes,Medium,Low,Arthritis,Increase Fiber
+75,Female,157,50,18.64,Elevated,70,80,Normal,97,39.1,8.5,Migraine,Yes,Yes,Infection,Active,Keto,Yes,Yes,High,Moderate,Arthritis,Heart-Healthy Diet
+74,Female,166,90,21.34,Elevated,114,162,Normal,98,36.3,4.3,Metabolic Syndrome,Yes,Yes,Fever,Active,Non-Vegetarian,Yes,No,Medium,Low,Hypothyroidism,Gluten-Free Diet
+56,Female,150,115,30.87,Elevated,71,177,Borderline,93,37.4,6.7,Thyroid Disorder,Yes,No,Hypoglycemia Episode,Sedentary,Keto,No,No,Low,Moderate,Kidney Disease,Mediterranean Diet
+28,Male,196,95,23.18,Normal,96,129,Borderline,99,39.8,4.9,Metabolic Syndrome,Yes,Yes,Infection,Sedentary,Non-Vegetarian,No,Yes,Medium,Low,Chronic Fatigue,Low-Sodium Diet
+50,Female,165,98,28.71,Normal,116,127,Normal,94,38.0,7.5,COPD,No,No,Sinusitis,Moderate,Keto,Yes,Yes,High,Moderate,Sleep Apnea,Heart-Healthy Diet
+21,Male,153,91,29.22,High,96,148,Normal,90,35.7,6.8,Hypercholesterolemia,No,No,Bronchitis,Active,Vegetarian,Yes,Yes,High,High,Hypertension,High-Calcium Diet
+78,Female,194,86,28.97,Normal,101,119,High,99,35.6,8.3,Heart Disease,Yes,Yes,Typhoid,Moderate,Non-Vegetarian,Yes,No,Medium,Low,Tachycardia,Gluten-Free Diet
+56,Male,162,119,31.73,Elevated,111,182,Borderline,98,38.6,5.9,Gout,Yes,Yes,Gastroenteritis,Moderate,Vegan,No,No,Medium,High,Kidney Disease,Low-Sodium Diet
+62,Female,172,96,28.53,High,80,86,Normal,94,39.1,6.3,COPD,Yes,No,Acute Bronchitis,Active,Keto,Yes,Yes,Medium,Low,Stroke Risk,Gluten-Free Diet
+49,Female,185,55,25.9,Elevated,64,86,Normal,90,38.9,9.5,Sleep Apnea,Yes,No,Acute Bronchitis,Moderate,Vegan,No,No,Low,Moderate,Hyperthyroidism,Gluten-Free Diet
+40,Male,183,78,28.22,Normal,86,182,Borderline,92,36.4,7.5,Arthritis,No,No,Gastroenteritis,Moderate,Vegan,No,Yes,High,Low,Arthritis,Increase Fiber
+45,Male,157,73,32.17,High,86,86,Borderline,95,39.0,9.3,Obstructive Sleep Apnea,No,Yes,Food Poisoning,Sedentary,Keto,No,Yes,Medium,High,Bradycardia,High-Calcium Diet
+43,Male,184,116,20.17,High,73,164,Borderline,99,37.6,4.6,Asthma,Yes,Yes,Respiratory Infection,Sedentary,Keto,Yes,No,Low,Moderate,Hypertension,Mediterranean Diet
+76,Male,153,88,33.31,Normal,96,83,Borderline,99,38.1,8.8,Atrial Fibrillation,No,Yes,Cold,Active,Non-Vegetarian,No,No,Medium,High,Hypothyroidism,DASH Diet
+68,Male,175,103,33.55,Elevated,107,127,Normal,92,39.8,8.9,Obstructive Sleep Apnea,No,Yes,Ear Infection,Active,Vegan,Yes,No,Medium,Moderate,Hypertensive Emergency,Low-Glycemic Diet
+44,Male,183,66,29.58,Elevated,112,167,Normal,91,39.9,5.3,Obstructive Sleep Apnea,Yes,Yes,Food Poisoning,Moderate,Keto,No,No,High,High,Sleep Apnea,Plant-Based Diet
+79,Female,151,72,20.06,Elevated,69,198,High,97,36.4,8.3,Metabolic Syndrome,No,No,Acute Bronchitis,Moderate,Vegetarian,Yes,Yes,Low,High,Hypertension,Plant-Based Diet
+22,Male,171,51,24.14,Elevated,108,80,High,96,39.1,8.3,Atrial Fibrillation,Yes,No,Respiratory Infection,Sedentary,Non-Vegetarian,Yes,Yes,Medium,Moderate,Hyperthyroidism,High-Potassium Diet
+34,Female,182,98,30.6,Normal,76,73,High,97,40.0,6.9,Heart Disease,Yes,No,Severe Headache,Active,Non-Vegetarian,Yes,Yes,Medium,High,COPD,DASH Diet
+62,Male,192,101,20.89,Elevated,74,97,High,97,39.1,5.7,Heart Disease,Yes,Yes,Fever,Sedentary,Keto,No,No,High,Moderate,Kidney Disease,Low-Glycemic Diet
+25,Male,186,48,34.49,High,89,100,Normal,99,39.9,5.2,Sleep Apnea,No,Yes,Flu,Sedentary,Vegan,Yes,No,Low,High,Bradycardia,Increase Omega-3 Intake
+39,Female,196,89,21.45,Elevated,103,179,High,91,36.2,8.4,Migraine,No,Yes,Stomach Ulcer,Sedentary,Keto,Yes,No,Low,High,Stroke Risk,Anti-Inflammatory Diet
+47,Female,190,112,33.11,Elevated,65,126,Normal,90,37.9,6.0,Sleep Apnea,No,No,Sinusitis,Active,Non-Vegetarian,Yes,No,Medium,High,Hyperthyroidism,DASH Diet
+30,Male,150,78,32.16,Normal,116,185,Normal,97,36.5,9.0,Hypertension,No,No,Cold,Moderate,Non-Vegetarian,Yes,No,Low,Moderate,Diabetes,Keto Diet
+68,Male,175,103,33.55,Elevated,107,127,Normal,92,39.8,8.9,Diabetes,No,Yes,Ear Infection,Active,Vegan,Yes,No,Medium,Moderate,Hyperthyroidism,Increase Fiber
+46,Male,182,112,21.8,Elevated,76,193,Borderline,90,38.9,7.6,COPD,No,Yes,Bronchitis,Sedentary,Non-Vegetarian,Yes,Yes,Medium,Low,Arthritis,Anti-Inflammatory Diet
+47,Female,181,65,31.26,Normal,111,83,High,97,38.1,5.7,Migraine,No,No,Infection,Moderate,Vegetarian,No,No,Low,Low,Sleep Apnea,Mediterranean Diet
